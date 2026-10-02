@@ -13,3 +13,17 @@ Requirement Sanity Analysis*.
 | `records.csv` | All 8,028 records with status, selection step and reason |
 | `cited_in_paper.csv` | The references cited in the paper |
 | `build.py`, `openalex_keywords.json`, `extra_abstracts.csv` | Script and inputs that generate the files above |
+| `selection/` | The study selection: `run.py`, its settings (`config.yaml`), CORE rank lists (`data/`) and cached OpenAlex/Crossref responses (`cache/`) |
+| `searches/` | Inputs of the selection: the Scopus and ACM DL exports of the six searches, the Zotero collection and the draft's bib |
+
+## Run it
+
+Needs Python 3 with `pyyaml`, `requests` and `matplotlib`.
+
+```bash
+python selection/run.py --offline   # study selection from the cached API data -> selection/out/
+python build.py                     # papers.js, papers.csv, papers.bib and records.csv from selection/out/
+```
+
+Without `--offline`, `run.py` asks OpenAlex and Crossref for records missing from `selection/cache/`. With the cache
+as published, both scripts reproduce the files of this repository (up to the run date in the header of `papers.bib`).

@@ -1,4 +1,4 @@
-"""Builds the searchable paper list from the study selection (../selection): papers.js (data of index.html: every
+"""Builds the searchable paper list from the study selection (selection/): papers.js (data of index.html: every
 record of the searches with what the selection steps look at, so the page can apply them with other settings),
 papers.csv and papers.bib (the final pool) and records.csv (all records with status, step and reason).
 
@@ -10,8 +10,8 @@ found by DOI or, without DOI, by title. OpenAlex answers are kept in openalex_ke
 only for what is missing. Abstracts come from the pool, and extra_abstracts.csv fills in some that no open API
 has.
 
-    python build.py                    # same Python packages as ../selection/run.py
-    python build.py --paper ../../Paper
+    python build.py                    # after selection/run.py, same Python packages
+    python build.py --paper <dir of SanitySurvey.tex>
 """
 import csv
 import html
@@ -25,9 +25,9 @@ import urllib.request
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-POOL = HERE.parent / "selection" / "out"
+POOL = HERE / "selection" / "out"
 CACHE = HERE / "openalex_keywords.json"
-sys.path.insert(0, str(HERE.parent / "selection"))
+sys.path.insert(0, str(HERE / "selection"))
 from lib.bibio import clean, norm_doi, norm_title, read_bib  # noqa: E402
 
 
@@ -133,13 +133,13 @@ def selection_attributes():
     """What the steps of run.py look at, for every record (same ids as records.csv), so that index.html can apply
     them with other settings: the yes/no steps as the reason of the step (if it applies), the thresholds as values.
     The steps that compare records with each other (superseded version, foundational, no citation link) are
-    computed against the records of the paper's run. Needs the packages of ../selection/run.py."""
+    computed against the records of the paper's run. Needs the packages of selection/run.py."""
     from collections import Counter
     import yaml
     import run
     from lib import bibio, notions, rank, rules, venues
 
-    sel = HERE.parent / "selection"
+    sel = HERE / "selection"
     cfg = yaml.safe_load((sel / "config.yaml").read_text(encoding="utf-8"))
     path = lambda p: (sel / p).resolve()  # noqa: E731
     cy, f = int(cfg["current_year"]), cfg["filters"]

@@ -1,0 +1,78 @@
+# Configuration of run.py. Paths are relative to this file.
+
+inputs:
+  searches_dir: ../searches                # raw exports: <query>/scopus*.bib and <query>/acm*.bib
+  bib_files:                               # further bib files; they join the pool on equal terms
+    - {path: ../searches/FSE_Survey_Literatur.bib, name: Zotero collection}
+    - {path: ../searches/FSE_Survey_Draft_References.bib, name: draft bib}   # the paper's bib as of the run of 2026-09-30
+
+queries:                                   # search folders in searches_dir
+  - q1-sanity
+  - q2-translation
+  - q3-debug_repair
+  - q4-testing
+  - q5-req_smells
+  - q6-good-practices
+
+data_dir: data                             # CORE rank lists
+cache_dir: cache                           # cached OpenAlex/Crossref responses (delete to refresh)
+output_dir: out
+current_year: 2026
+
+network:
+  offline: false                           # true = cache only (also: python run.py --offline)
+  mailto: ""                               # optional: your e-mail for the OpenAlex/Crossref "polite pool"
+  pause_seconds: 0.2
+
+# The filter steps, applied in this order after deduplication (the waterfall). apply: false skips a step.
+filters:
+  not_a_paper:         {apply: true}       # proceedings volumes, front matter, editorials, keynotes, errata, artifacts, encyclopedia entries, whole books
+  not_english:         {apply: true}
+  not_peer_reviewed:   {apply: true}       # theses, technical reports, preprints (arXiv), web pages
+  retracted:           {apply: true}
+  off_topic:                               # outside the subject area: BOTH a non-computing OpenAlex field AND no domain term
+    apply: true
+    keep_fields: [Computer Science, Mathematics]
+    keep_subfields: [Control and Systems Engineering, Electrical and Electronic Engineering,
+                     "Safety, Risk, Reliability and Quality"]
+    domain_terms:                          # regular expressions, matched in title, abstract and keywords
+      - 'temporal logic|\b(ltl|ltlf|ctl|mtl|mitl|stl|tctl)\b|model[- ]check|theorem prov|\bsmt\b|satisfiab|realizab|realisab|vacu(ity|ous)|gr\(1\)|reactive synthesis'
+      - 'formal (method|specification|verification|model|semantics|requirement|language|analysis|proof)|formali[sz](ation|ing|ed)|autoformali'
+      - 'specification (language|pattern|mining|debugging|repair)|property specification|runtime (verification|monitor)|test (case|oracle|generation|suite)'
+      - 'requirements? (engineering|specification|elicitation|analysis|quality|document|smell|ambiguit|formali|validation|traceability|management|model)'
+      - '(software|system|functional|natural[- ]language|user|formal|safety|security|real-time|textual) requirements?|user stor(y|ies)|use cases?'
+      - 'gherkin|behaviou?r[- ]driven development|\bbdd\b|software (engineering|development|testing|verification|system|quality)|source code'
+      - 'program (verification|analysis|repair|synthesis|specification)|alloy (analy[sz]er|model|specification|language)'
+      - 'tla\+|event-b|z notation|\bocl\b|\buml\b|sysml|dafny|\bjml\b|\bacsl\b|promela|nusmv|nuxmv|uppaal|\bcoq\b|isabelle'
+      - '(inconsisten|conflict)\w* (requirement|specification|goal)|goal conflict|conflicting requirement'
+      - '(policy|policies|contract|normative|norm)\w* conflict|conflicts? (in|between|among) (contracts|policies|norms)|normative requirement'
+      - 'ttcn|test (description|specification) language|specification[- ]based test|mutation (testing|analysis)|statechart'
+  short_papers:        {apply: true, max_pages: 4}           # posters, abstracts, short/tool papers of <= 4 pages
+  superseded_versions: {apply: true}       # same first author, near-identical title: keep the journal/later version
+  surveys:             {apply: true}       # surveys and reviews: kept apart (out/surveys.csv) for related work
+  foundational:                            # older papers still cited by >= min_citations eligible papers from
+    apply: true                            # published_before.year on: kept apart in their own category
+    min_citations: 10
+  published_before:  {apply: true, year: 2015}                # scope: the last decade (older non-foundational removed)
+  venue_rank:          {apply: true, min_rank: B}             # CORE A*, A, B kept; C and national/regional dropped; unranked kept
+  citation_impact:     {apply: true, min_percentile: 0.5, grace_years: 2}   # bottom half of its year and field dropped; last 2 years exempt
+  isolated:            {apply: true}       # no citation to or from any other remaining paper
+
+# The six sanity notions (Table 1 of the paper) for the bar chart out/notions.pdf. A paper of the final pool counts
+# for a notion if the regular expression matches its title, abstract or keywords (case-insensitive).
+notions:
+  Satisfiability: '\b(un)?satisfiab'
+  Consistency: '\b(in)?consisten|\bconflict|\bcontradict'
+  Realizability: '\b(un)?reali[sz]ab'
+  Vacuity: '\bvacu(ity|ous)'
+  Redundancy: '\bredundan'
+  Completeness: '\b(in)?completeness\b|\bincomplete\b|coverage.{0,60}(specification|requirement|propert|temporal)|(specification|requirement|propert|temporal).{0,60}coverage'   # coverage only in a specification context
+
+selection:
+  sizes: [100, 200, 300]                   # one out/selected_<N>.bib per size
+  allocation: proportional                 # proportional: each search gets a share by its size in the final pool
+                                           # equal: same share per search; global: plain top N (most cited overall)
+
+audit:
+  sample_size: 30                          # random removed records per step, for a manual check
+  random_seed: 20260930
