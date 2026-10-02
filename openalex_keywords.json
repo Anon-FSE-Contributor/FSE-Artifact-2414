@@ -1,0 +1,6460 @@
+{
+ "doi": {
+  "10.1002/cae.22620": [
+   "user stories",
+   "requirements engineering",
+   "natural language processing",
+   "student feedback",
+   "usability evaluation",
+   "requirements engineering education",
+   "web-based tool"
+  ],
+  "10.1002/smr.1819": [
+   "requirements consistency checking",
+   "temporal requirements",
+   "natural language requirements",
+   "requirements engineering",
+   "precision and recall",
+   "process modeling",
+   "simulation"
+  ],
+  "10.1002/smr.2555": [
+   "conflict-free replicated data types",
+   "model checking",
+   "exploratory testing",
+   "TLA+",
+   "eventual consistency",
+   "distributed systems",
+   "message reordering",
+   "test case generation",
+   "formal specification",
+   "CAP theorem"
+  ],
+  "10.1002/smr.70167": [
+   "crowdsourcing",
+   "requirements analysis",
+   "requirements quality",
+   "online focus groups",
+   "requirement engineering",
+   "requirements traceability",
+   "requirements completeness",
+   "requirements consistency"
+  ],
+  "10.1002/spe.70082": [
+   "Pairwise comparison",
+   "Pipeline (software)",
+   "Requirements engineering",
+   "Ranging",
+   "Identification (biology)",
+   "Software requirements",
+   "Fuzzy logic",
+   "Frame (networking)",
+   "Non-functional requirement",
+   "Software deployment"
+  ],
+  "10.1007/978-3-030-01090-4_31": [
+   "hyperproperties",
+   "satisfiability checking",
+   "model generation",
+   "semi-decision procedure",
+   "information flow security",
+   "non-interference",
+   "counterexample generation"
+  ],
+  "10.1007/978-3-030-01090-4_9": [
+   "Satisfiability",
+   "Computer science",
+   "Benchmark (surveying)",
+   "Enumeration",
+   "Boolean satisfiability problem",
+   "Constraint (computer-aided design)",
+   "Computation",
+   "Algorithm",
+   "Theoretical computer science",
+   "Domain (mathematical analysis)",
+   "Constraint satisfaction problem",
+   "Set (abstract data type)",
+   "Feature (linguistics)",
+   "Conjunctive normal form",
+   "Time complexity",
+   "Discrete mathematics",
+   "Mathematics",
+   "Artificial intelligence",
+   "Programming language"
+  ],
+  "10.1007/978-3-030-17465-1_3": [
+   "Computer science",
+   "Atomicity",
+   "Consistency (knowledge bases)",
+   "Consistency model",
+   "Serializability",
+   "Strong consistency",
+   "Distributed computing",
+   "Scalability",
+   "Database transaction",
+   "Distributed transaction",
+   "Eventual consistency",
+   "Isolation (microbiology)",
+   "Weak consistency",
+   "Sequential consistency",
+   "Causal consistency",
+   "Model checking",
+   "Fault tolerance",
+   "Transaction processing",
+   "Data consistency",
+   "Theoretical computer science",
+   "Programming language",
+   "Database",
+   "Artificial intelligence",
+   "Mathematics"
+  ],
+  "10.1007/978-3-030-24258-9_11": [
+   "Computer science",
+   "Solver",
+   "Boolean satisfiability problem",
+   "Maximum satisfiability problem",
+   "Simple (philosophy)",
+   "Satisfiability",
+   "Conjunctive normal form",
+   "Propositional calculus",
+   "Propositional formula",
+   "Algorithm",
+   "Forcing (mathematics)",
+   "Theoretical computer science",
+   "Mathematical optimization",
+   "Programming language",
+   "Mathematics",
+   "Boolean function",
+   "Propositional variable",
+   "Description logic"
+  ],
+  "10.1007/978-3-030-24258-9_24": [
+   "Timeout",
+   "Computer science",
+   "Satisfiability",
+   "Boolean satisfiability problem",
+   "Benchmark (surveying)",
+   "Scheduling (production processes)",
+   "Core (optical fiber)",
+   "Domain (mathematical analysis)",
+   "Theoretical computer science",
+   "Algorithm",
+   "Parallel computing",
+   "Mathematical optimization",
+   "Mathematics"
+  ],
+  "10.1007/978-3-030-25540-4_13": [
+   "Implementation",
+   "Computer science",
+   "Bounded function",
+   "Arbiter",
+   "Automaton",
+   "Theoretical computer science",
+   "Algorithm",
+   "Programming language",
+   "Parallel computing",
+   "Mathematics"
+  ],
+  "10.1007/978-3-030-25540-4_18": [
+   "Computer science",
+   "Programming language",
+   "Syntax",
+   "Natural language processing"
+  ],
+  "10.1007/978-3-030-25543-5_1": [
+   "satisfiability checking",
+   "NEXPTIME-completeness",
+   "PSPACE-completeness",
+   "model checking",
+   "specification debugging"
+  ],
+  "10.1007/978-3-030-27455-9_8": [
+   "model-based testing",
+   "test data generation",
+   "modified condition/decision coverage",
+   "Object Constraint Language",
+   "OCL constraints",
+   "case-based reasoning",
+   "search-based testing",
+   "constraint solving",
+   "test data reuse",
+   "DO-178C",
+   "random search"
+  ],
+  "10.1007/978-3-030-29381-9_39": [
+   "Computer science",
+   "Artifact (error)",
+   "User interface",
+   "Consistency (knowledge bases)",
+   "User requirements document",
+   "Human–computer interaction",
+   "User interface design",
+   "Graphical user interface",
+   "Ontology",
+   "Software engineering",
+   "Process (computing)",
+   "Set (abstract data type)",
+   "Graphical user interface testing",
+   "User story",
+   "Programming language",
+   "Software development",
+   "Software",
+   "Artificial intelligence"
+  ],
+  "10.1007/978-3-030-30942-8_43": [
+   "Computer science",
+   "Traceability",
+   "Consistency (knowledge bases)",
+   "Conceptual model",
+   "Agile software development",
+   "Completeness (order theory)",
+   "Software engineering",
+   "Process (computing)",
+   "Event (particle physics)",
+   "Formal methods",
+   "Data consistency",
+   "Conceptual framework",
+   "Systems engineering",
+   "Process management",
+   "Artificial intelligence",
+   "Database",
+   "Programming language",
+   "Engineering"
+  ],
+  "10.1007/978-3-030-35151-9_1": [
+   "user stories",
+   "requirements understanding",
+   "requirements structuring",
+   "rational trees",
+   "requirements engineering",
+   "novice modelers"
+  ],
+  "10.1007/978-3-030-40223-5_3": [
+   "Computer science",
+   "Software requirements specification",
+   "Software engineering",
+   "Scripting language",
+   "Test script",
+   "Programming language",
+   "Test case",
+   "Acceptance testing",
+   "Process (computing)",
+   "Formal specification",
+   "Requirements analysis",
+   "Specification language",
+   "Software",
+   "Software development",
+   "Software design",
+   "Machine learning"
+  ],
+  "10.1007/978-3-030-45190-5_8": [
+   "minimal unsatisfiable subsets",
+   "constraint satisfaction",
+   "constraint domains"
+  ],
+  "10.1007/978-3-030-45234-6_3": [
+   "Mathematical proof",
+   "Counterexample",
+   "Model checking",
+   "Computer science",
+   "Linear temporal logic",
+   "Formal verification",
+   "Process (computing)",
+   "Temporal logic",
+   "Iterative and incremental development",
+   "Theoretical computer science",
+   "Runtime verification",
+   "Algorithm",
+   "Programming language",
+   "Mathematics",
+   "Software engineering",
+   "Discrete mathematics"
+  ],
+  "10.1007/978-3-030-57761-2_5": [
+   "agile software development",
+   "formal methods",
+   "cryptocurrency",
+   "software reliability",
+   "formal specification",
+   "requirements change",
+   "large software systems",
+   "lessons learned"
+  ],
+  "10.1007/978-3-030-73128-1_15": [
+   "knowledge",
+   "confidence",
+   "requirements engineers",
+   "software requirements specification",
+   "requirements engineering",
+   "decision-making"
+  ],
+  "10.1007/978-3-030-77474-5_11": [
+   "Computer science",
+   "Programming language",
+   "Temporal logic",
+   "Formal verification",
+   "Satisfiability",
+   "Specification language",
+   "Formal specification",
+   "Formal methods",
+   "Property (philosophy)",
+   "Linear temporal logic",
+   "First-order logic",
+   "Natural language",
+   "Generator (circuit theory)",
+   "Formal language",
+   "Propositional calculus",
+   "Temporal logic of actions",
+   "Object language",
+   "Algorithm",
+   "Interval temporal logic",
+   "Artificial intelligence"
+  ],
+  "10.1007/978-3-030-90870-6_27": [
+   "assume-guarantee contracts",
+   "compositional verification",
+   "specification decomposition",
+   "fluorescence resonance energy transfer",
+   "requirements engineering",
+   "safety constraints"
+  ],
+  "10.1007/978-3-030-93709-6_29": [
+   "non-functional requirements",
+   "conflict detection",
+   "software requirements specification",
+   "software requirements engineering",
+   "BiLSTM",
+   "Word2Vec",
+   "text classification",
+   "quality attributes"
+  ],
+  "10.1007/978-3-030-96648-5_4": [
+   "privacy requirements",
+   "security requirements",
+   "GDPR compliance",
+   "privacy by design",
+   "requirements engineering",
+   "requirements analysis",
+   "data protection regulation"
+  ],
+  "10.1007/978-3-030-96648-5_9": [
+   "Brainstorming",
+   "Requirements elicitation",
+   "Computer science",
+   "Requirements engineering",
+   "Requirements analysis",
+   "Stakeholder",
+   "Multidisciplinary approach",
+   "Domain (mathematical analysis)",
+   "Process (computing)",
+   "Process management",
+   "Management science",
+   "Knowledge management",
+   "Software",
+   "Engineering",
+   "Artificial intelligence"
+  ],
+  "10.1007/978-3-030-98464-9_7": [
+   "linear temporal logic",
+   "natural language translation",
+   "neural machine translation",
+   "requirements engineering",
+   "requirements verification",
+   "OpenNMT"
+  ],
+  "10.1007/978-3-031-07475-2_18": [
+   "UML class diagrams",
+   "OCL constraints",
+   "integrity constraints",
+   "model debugging",
+   "model consistency",
+   "model-driven engineering"
+  ],
+  "10.1007/978-3-031-13188-2_24": [
+   "requirements formalization",
+   "fluorescence resonance energy transfer",
+   "requirements consistency",
+   "usability"
+  ],
+  "10.1007/978-3-031-16103-2_20": [
+   "inconsistency measures",
+   "linear temporal logic",
+   "temporal operators",
+   "computational complexity",
+   "process model"
+  ],
+  "10.1007/978-3-031-19992-9_24": [
+   "real-time requirements",
+   "inconsistency",
+   "SMT solvers",
+   "iterative methods",
+   "time constraints",
+   "Boolean formulas",
+   "consistency checking"
+  ],
+  "10.1007/978-3-031-21388-5_36": [
+   "behavior-driven development",
+   "ontology",
+   "natural language requirements",
+   "concept extraction",
+   "requirements engineering"
+  ],
+  "10.1007/978-3-031-27481-7_28": [
+   "realizability",
+   "reactive synthesis",
+   "linear temporal logic",
+   "safety specifications",
+   "Büchi automata",
+   "model checking"
+  ],
+  "10.1007/978-3-031-28124-2_20": [
+   "Computer science",
+   "Software requirements",
+   "Software requirements specification",
+   "Requirement prioritization",
+   "Requirements analysis",
+   "Software development",
+   "System requirements",
+   "User requirements document",
+   "Requirements management",
+   "Software engineering",
+   "Software system",
+   "Non-functional testing",
+   "Avionics software",
+   "Software",
+   "Non-functional requirement",
+   "Software quality",
+   "Functional requirement",
+   "Software construction",
+   "Operating system"
+  ],
+  "10.1007/978-3-031-29786-1_21": [
+   "requirements specification",
+   "requirements analysis",
+   "runtime monitoring",
+   "fluorescence resonance energy transfer",
+   "state machines",
+   "safety-critical systems",
+   "aircraft design",
+   "formal verification"
+  ],
+  "10.1007/978-3-031-29786-1_7": [
+   "requirements completeness",
+   "natural language requirements",
+   "BERT",
+   "masked language models"
+  ],
+  "10.1007/978-3-031-30820-8_14": [
+   "linear temporal logic",
+   "realizability",
+   "Acacia",
+   "C++20",
+   "SIMD",
+   "binary decision diagrams",
+   "generic algorithms",
+   "formal verification tools"
+  ],
+  "10.1007/978-3-031-30826-0_1": [
+   "goal conflict resolution",
+   "goal refinement",
+   "software requirements specification",
+   "linear temporal logic",
+   "multi-objective optimization",
+   "NSGA-III",
+   "stakeholder goals"
+  ],
+  "10.1007/978-3-031-33170-1_23": [
+   "realizability",
+   "unrealizability",
+   "constrained Horn clauses",
+   "conditional branches",
+   "program synthesis",
+   "spacers",
+   "CVC5",
+   "syntax-guided synthesis"
+  ],
+  "10.1007/978-3-031-37709-9_15": [
+   "realizability",
+   "linear temporal logic",
+   "arithmetic theory",
+   "SMT solvers",
+   "SAT solving"
+  ],
+  "10.1007/978-3-031-42626-1_6": [
+   "MaxSAT",
+   "satisfiability checking",
+   "feature prioritization",
+   "runtime complexity"
+  ],
+  "10.1007/978-3-031-50521-8_13": [
+   "runtime verification",
+   "metric temporal logic",
+   "specification synthesis",
+   "linear real arithmetic",
+   "satisfiability",
+   "cyber-physical systems",
+   "safety-critical systems"
+  ],
+  "10.1007/978-3-031-50524-9_13": [
+   "constrained Horn clauses",
+   "minimal unsatisfiable subsets",
+   "program verification"
+  ],
+  "10.1007/978-3-031-57327-9_13": [
+   "natural language requirements",
+   "computation tree logic",
+   "requirements formalization",
+   "requirements engineering",
+   "formal methods",
+   "UPPAAL",
+   "inter-rater reliability",
+   "critical systems"
+  ],
+  "10.1007/978-3-031-57327-9_2": [
+   "requirements quality",
+   "requirements engineering",
+   "interaction effects",
+   "requirements defects",
+   "ambiguity",
+   "bug reports",
+   "industrial case study",
+   "requirements specification"
+  ],
+  "10.1007/978-3-031-57327-9_22": [
+   "large language models",
+   "LLM-generated code",
+   "code generation",
+   "formal requirements",
+   "requirements engineering automation"
+  ],
+  "10.1007/978-3-031-60405-8_7": [
+   "large language models",
+   "requirements engineering",
+   "smart devices",
+   "ambient assisted living",
+   "smartwatches",
+   "reference architecture",
+   "dehydration prevention",
+   "elderly users",
+   "resource-constrained devices"
+  ],
+  "10.1007/978-3-031-62110-9_1": [
+   "user stories",
+   "AI-generated text",
+   "people-oriented development",
+   "requirements specification",
+   "user interviews",
+   "interview transcripts",
+   "AI tool comparison",
+   "agile software development",
+   "requirements analysis"
+  ],
+  "10.1007/978-3-031-65112-0_7": [
+   "large language models",
+   "code generation",
+   "consistency checking",
+   "formal verification",
+   "formal specification",
+   "docstrings",
+   "program correctness"
+  ],
+  "10.1007/978-3-031-65630-9_16": [
+   "specification synthesis",
+   "automated program verification",
+   "large language models",
+   "static analysis",
+   "loop invariants",
+   "program decomposition",
+   "nested loops",
+   "pointer programs"
+  ],
+  "10.1007/978-3-031-74209-5_28": [
+   "linear temporal logic",
+   "LTLf",
+   "answer set programming",
+   "temporal specifications",
+   "model checking",
+   "planning"
+  ],
+  "10.1007/978-3-031-76235-2_17": [
+   "inconsistency measures",
+   "answer set programming",
+   "time inconsistency",
+   "knowledge base",
+   "business process management"
+  ],
+  "10.1007/978-3-031-78107-0_2": [
+   "active learning",
+   "evidential deep learning",
+   "determinantal point processes",
+   "uncertainty estimation",
+   "subjective logic",
+   "sample diversity",
+   "annotation cost reduction"
+  ],
+  "10.1007/978-3-031-78750-8_10": [
+   "hyperproperties",
+   "satisfiability checking",
+   "first-order logic",
+   "security properties",
+   "temporal logic",
+   "unsatisfiability proofs"
+  ],
+  "10.1007/978-3-031-85316-6_2": [
+   "requirements engineering",
+   "large language models",
+   "ambiguity detection",
+   "inconsistency detection",
+   "conversational interfaces",
+   "stakeholder interaction",
+   "requirements quality",
+   "natural language requirements"
+  ],
+  "10.1007/978-3-031-88531-0_29": [
+   "requirements conflicts",
+   "conflict resolution",
+   "requirements prioritization",
+   "human feedback",
+   "stakeholder needs"
+  ],
+  "10.1007/978-3-031-90643-5_3": [
+   "reactive synthesis",
+   "heuristics",
+   "linear temporal logic",
+   "variable ordering",
+   "performance optimization"
+  ],
+  "10.1007/978-3-031-90653-4_8": [
+   "protocol synthesis",
+   "TLA+",
+   "counterexample-guided synthesis",
+   "search space reduction",
+   "distributed protocols",
+   "symbolic verification"
+  ],
+  "10.1007/978-3-031-93706-4_10": [
+   "test case generation",
+   "formal requirements",
+   "linear temporal logic",
+   "bounded linear operators",
+   "soundness and completeness",
+   "Simulink model",
+   "model-based testing",
+   "coverage metrics"
+  ],
+  "10.1007/978-3-031-94634-9_6": [
+   "message sequence charts",
+   "satisfiability",
+   "realizability",
+   "reachability",
+   "communicating finite state machines",
+   "undecidability",
+   "distributed systems specification",
+   "FIFO channels"
+  ],
+  "10.1007/978-3-031-95127-5_25": [
+   "software requirements specification",
+   "ambiguity detection",
+   "ambiguity resolution",
+   "large language models",
+   "natural language understanding",
+   "semantic ambiguity",
+   "syntactic ambiguity",
+   "scope ambiguity",
+   "temporal ambiguity",
+   "stakeholder awareness",
+   "rework reduction"
+  ],
+  "10.1007/978-3-031-98685-7_14": [
+   "temporal logic specifications",
+   "specification languages",
+   "synthesis tools",
+   "benchmark evaluation"
+  ],
+  "10.1007/978-3-031-98685-7_9": [
+   "linear temporal logic",
+   "automated tutoring",
+   "misconceptions",
+   "adaptive learning",
+   "error feedback",
+   "question generation",
+   "computer science education"
+  ],
+  "10.1007/978-3-031-99717-4_8": [],
+  "10.1007/978-3-031-99991-8_4": [
+   "large language models",
+   "C++",
+   "test data generation",
+   "daikon",
+   "mutants"
+  ],
+  "10.1007/978-3-032-04200-2_26": [
+   "requirements completeness",
+   "requirements engineering",
+   "completeness checking",
+   "large language models",
+   "requirements quality"
+  ],
+  "10.1007/978-3-032-04558-4_3": [
+   "computation tree logic",
+   "branching-time temporal logic",
+   "path probability",
+   "graph neural networks",
+   "transformer models",
+   "formal verification",
+   "scalability",
+   "model checking"
+  ],
+  "10.1007/978-3-032-05073-1_16": [
+   "requirements formalization",
+   "natural language requirements",
+   "boilerplate",
+   "requirements templates",
+   "ambiguity elimination",
+   "semantic consistency",
+   "functional verification"
+  ],
+  "10.1007/978-3-032-06847-7_5": [
+   "model checking",
+   "unsatisfiable cores",
+   "frame strengthening",
+   "spurious counterexamples",
+   "SAT-based model checking",
+   "transition systems",
+   "hardware verification"
+  ],
+  "10.1007/978-3-032-12089-2_19": [
+   "Ambiguity",
+   "Stakeholder",
+   "Agile software development",
+   "Bridge (graph theory)",
+   "Quality (philosophy)",
+   "Key (lock)",
+   "Software quality",
+   "Completeness (order theory)"
+  ],
+  "10.1007/978-3-032-12827-0_14": [
+   "Ranking (information retrieval)",
+   "Fuzzy logic",
+   "TOPSIS",
+   "Non-functional requirement",
+   "Software",
+   "Ideal solution",
+   "Order (exchange)",
+   "Similarity (geometry)"
+  ],
+  "10.1007/978-3-032-19185-4_5": [
+   "large language models",
+   "retrieval-augmented generation",
+   "Neo4j",
+   "software requirements specification",
+   "multi-metric evaluation"
+  ],
+  "10.1007/978-3-032-21423-2_19": [
+   "requirements engineering",
+   "inconsistency detection",
+   "completeness",
+   "scalability",
+   "real-time systems"
+  ],
+  "10.1007/978-3-032-26204-2_13": [
+   "Bottleneck",
+   "Reuse",
+   "Computation",
+   "Semantics (computer science)",
+   "Upper and lower bounds"
+  ],
+  "10.1007/978-3-032-26204-2_32": [
+   "TLA+",
+   "proof automation",
+   "large language models",
+   "distributed protocols",
+   "inductive proof",
+   "formal verification"
+  ],
+  "10.1007/978-3-032-26220-2_21": [
+   "fluorescence resonance energy transfer",
+   "requirements analysis",
+   "formal specification",
+   "natural language requirements",
+   "requirements formalization",
+   "test case generation",
+   "verification conditions",
+   "verification and validation",
+   "formal verification",
+   "simulation"
+  ],
+  "10.1007/978-3-032-26220-2_3": [
+   "Realizability",
+   "Modulo",
+   "Scalability",
+   "Implementation",
+   "Construct (python library)",
+   "Linear temporal logic",
+   "Pruning",
+   "Set (abstract data type)",
+   "Extension (predicate logic)",
+   "Temporal logic"
+  ],
+  "10.1007/978-3-032-26220-2_9": [
+   "Realizability",
+   "Heuristics",
+   "Debugging",
+   "Computation",
+   "Correctness",
+   "Context (archaeology)",
+   "Overhead (engineering)",
+   "Context switch"
+  ],
+  "10.1007/978-3-032-26752-8_19": [
+   "Workflow",
+   "Process (computing)",
+   "Modeling language",
+   "Stakeholder",
+   "Process modeling",
+   "Interface (matter)",
+   "Iterative and incremental development",
+   "Systems modeling",
+   "Natural language"
+  ],
+  "10.1007/978-3-032-28079-4_12": [
+   "Correctness",
+   "Counterexample",
+   "Automation",
+   "Satisfiability modulo theories",
+   "High-level synthesis",
+   "Hardware description language",
+   "Electronic design automation",
+   "Modulo"
+  ],
+  "10.1007/978-3-032-28079-4_18": [
+   "Fault detection and isolation",
+   "Fault (geology)",
+   "Fault coverage",
+   "Reliability (semiconductor)"
+  ],
+  "10.1007/978-3-032-28079-4_4": [
+   "runtime monitoring",
+   "resource-constrained systems",
+   "natural language requirements",
+   "fluorescence resonance energy transfer",
+   "online verification"
+  ],
+  "10.1007/978-3-032-28187-6_4": [
+   "Temporal logic",
+   "Natural language",
+   "Linear temporal logic",
+   "Translation (biology)",
+   "Machine translation",
+   "Natural language generation"
+  ],
+  "10.1007/978-3-032-32526-6_28": [
+   "neuro-symbolic reasoning",
+   "formal verification",
+   "large language models",
+   "automated reasoning",
+   "semantic equivalence"
+  ],
+  "10.1007/978-3-319-10575-8_11": [
+   "Satisfiability modulo theories",
+   "Predicate abstraction",
+   "Computer science",
+   "Satisfiability",
+   "Programming language",
+   "Theoretical computer science",
+   "Boolean satisfiability problem",
+   "Mathematical proof",
+   "Modulo",
+   "Abstraction",
+   "Predicate (mathematical logic)",
+   "Conjunctive normal form",
+   "Model checking",
+   "Algorithm",
+   "Mathematics",
+   "Discrete mathematics"
+  ],
+  "10.1007/978-3-319-16101-3_10": [
+   "Principal (computer security)",
+   "Context (archaeology)",
+   "Computer science",
+   "Work (physics)",
+   "Balance (ability)",
+   "Service (business)",
+   "Knowledge management",
+   "Business requirements",
+   "Business process",
+   "Process management",
+   "Business",
+   "Engineering",
+   "Marketing",
+   "Psychology",
+   "Computer security",
+   "Work in process"
+  ],
+  "10.1007/978-3-319-17524-9_13": [
+   "Component (thermodynamics)",
+   "Computer science",
+   "Correctness",
+   "Mathematical proof",
+   "Model checking",
+   "Premise",
+   "Programming language",
+   "Construct (python library)",
+   "Theoretical computer science",
+   "Mathematics"
+  ],
+  "10.1007/978-3-319-17524-9_7": [
+   "Computer science",
+   "Avionics",
+   "Integrated modular avionics",
+   "Domain (mathematical analysis)",
+   "Exploit",
+   "Formal verification",
+   "Software architecture",
+   "Software",
+   "Software engineering",
+   "Embedded system",
+   "Systems engineering",
+   "Programming language",
+   "Engineering"
+  ],
+  "10.1007/978-3-319-19249-9_15": [
+   "Computer science",
+   "Temporal logic",
+   "Linear temporal logic",
+   "Android (operating system)",
+   "TRACE (psycholinguistics)",
+   "Programming language",
+   "Malware",
+   "Theoretical computer science",
+   "Computer security",
+   "Operating system"
+  ],
+  "10.1007/978-3-319-19581-0_42": [
+   "natural language requirements",
+   "logical representation",
+   "nonmonotonic logic",
+   "frame representation",
+   "requirements engineering",
+   "requirements formalization"
+  ],
+  "10.1007/978-3-319-21410-852": [],
+  "10.1007/978-3-319-22969-0_10": [
+   "Robustness testing",
+   "Bytecode",
+   "Computer science",
+   "Robustness (evolution)",
+   "Precondition",
+   "Satisfiability",
+   "Programming language",
+   "Correctness",
+   "Model checking",
+   "Negation",
+   "Algorithm",
+   "Theoretical computer science",
+   "Java",
+   "Software"
+  ],
+  "10.1007/978-3-319-23276-8_29": [
+   "Computer security",
+   "Computer science",
+   "Security engineering",
+   "Internet privacy",
+   "Software security assurance",
+   "Information security",
+   "Security service"
+  ],
+  "10.1007/978-3-319-24537-9_13": [
+   "Realizability",
+   "Bounded function",
+   "Reachability",
+   "Satisfiability",
+   "Model checking",
+   "Reachability problem",
+   "Computer science",
+   "Boolean satisfiability problem",
+   "Discrete mathematics",
+   "Modulo",
+   "Theoretical computer science",
+   "Mathematics",
+   "Algorithm"
+  ],
+  "10.1007/978-3-319-25017-5_38": [
+   "failure mode and effects analysis",
+   "software requirements",
+   "consistency checking",
+   "safety-critical systems",
+   "Resource Description Framework",
+   "semantic modeling",
+   "safety analysis",
+   "requirements engineering",
+   "consistency rules"
+  ],
+  "10.1007/978-3-319-25897-3_9": [
+   "Computer science",
+   "Model checking",
+   "Software engineering",
+   "Business process modeling",
+   "Process (computing)",
+   "Formal verification",
+   "Formal methods",
+   "Programming language",
+   "Business process",
+   "Key (lock)",
+   "Representation (politics)",
+   "Business Process Model and Notation",
+   "Property (philosophy)",
+   "Process modeling",
+   "Work in process",
+   "Engineering",
+   "Computer security"
+  ],
+  "10.1007/978-3-319-26129-4_10": [
+   "Computer science",
+   "Flexibility (engineering)",
+   "Formalism (music)",
+   "Computational biology",
+   "Biology",
+   "Mathematics"
+  ],
+  "10.1007/978-3-319-26287-1_13": [
+   "Computer science",
+   "Linear temporal logic",
+   "Boolean satisfiability problem",
+   "Propositional calculus",
+   "Solver",
+   "Theoretical computer science",
+   "Algorithm",
+   "Programming language",
+   "DPLL algorithm"
+  ],
+  "10.1007/978-3-319-30282-9_10": [
+   "requirements defects",
+   "requirements engineering",
+   "defect classification",
+   "cost of defects",
+   "requirements inconsistency",
+   "requirements review",
+   "defect reporting",
+   "automotive software",
+   "post hoc analysis"
+  ],
+  "10.1007/978-3-319-30282-9_11": [
+   "natural language requirements",
+   "requirements defects",
+   "requirements review",
+   "requirements completeness",
+   "requirements ambiguity",
+   "requirements quality",
+   "requirements engineering"
+  ],
+  "10.1007/978-3-319-40648-0_4": [
+   "Computer science",
+   "Viewpoints",
+   "Formal specification",
+   "Consistency (knowledge bases)",
+   "Formal methods",
+   "Software engineering",
+   "Natural language",
+   "Formal verification",
+   "System requirements specification",
+   "Specification language",
+   "Requirements analysis",
+   "Programming language",
+   "Software requirements specification",
+   "Systems engineering",
+   "Artificial intelligence",
+   "Software development",
+   "Software",
+   "Software design"
+  ],
+  "10.1007/978-3-319-41591-8_9": [
+   "Computer science",
+   "Heuristics",
+   "Redundancy (engineering)",
+   "Property (philosophy)",
+   "Consistency (knowledge bases)",
+   "Set (abstract data type)",
+   "Parametric statistics",
+   "Boundary (topology)",
+   "Model checking",
+   "Algorithm",
+   "Theoretical computer science",
+   "Mathematics",
+   "Programming language",
+   "Artificial intelligence"
+  ],
+  "10.1007/978-3-319-44902-9_7": [
+   "Computer science",
+   "Perspective (graphical)",
+   "Human–computer interaction",
+   "Development (topology)",
+   "User interface",
+   "Software engineering",
+   "Programming language",
+   "Artificial intelligence"
+  ],
+  "10.1007/978-3-319-45348-4_10": [
+   "Computer science",
+   "Constraint (computer-aided design)",
+   "Relevance (law)",
+   "Event (particle physics)",
+   "Process mining",
+   "Constraint satisfaction",
+   "Automaton",
+   "Process (computing)",
+   "Theoretical computer science",
+   "Set (abstract data type)",
+   "Constraint satisfaction problem",
+   "Programming language",
+   "Constraint programming",
+   "Constraint graph",
+   "Data mining",
+   "Constraint logic programming",
+   "Artificial intelligence",
+   "Work in process",
+   "Business process",
+   "Business process modeling",
+   "Mathematics"
+  ],
+  "10.1007/978-3-319-46520-3_18": [
+   "Computer science",
+   "Skeleton (computer programming)",
+   "Temporal logic",
+   "Algorithm",
+   "State (computer science)",
+   "Identification (biology)",
+   "Time complexity",
+   "Theoretical computer science",
+   "Artificial intelligence",
+   "Programming language"
+  ],
+  "10.1007/978-3-319-47846-3_3": [
+   "Computer science",
+   "Software requirements specification",
+   "Software engineering",
+   "Software",
+   "Verification and validation",
+   "Reliability engineering",
+   "Programming language",
+   "Software construction",
+   "Software development",
+   "Engineering"
+  ],
+  "10.1007/978-3-319-52234-0_4": [
+   "Computer science"
+  ],
+  "10.1007/978-3-319-57288-8_30": [
+   "Computer science",
+   "Correctness",
+   "Consistency (knowledge bases)",
+   "Programming language",
+   "Requirements analysis",
+   "Software engineering",
+   "Formal methods",
+   "Semantics (computer science)",
+   "Model checking",
+   "Formal specification",
+   "Artificial intelligence",
+   "Software"
+  ],
+  "10.1007/978-3-319-57288-8_31": [
+   "requirements engineering",
+   "controller synthesis",
+   "typing",
+   "natural language requirements"
+  ],
+  "10.1007/978-3-319-60225-7_17": [
+   "Computer science",
+   "Temporal logic",
+   "Leverage (statistics)",
+   "HOL",
+   "Programming language",
+   "Linear temporal logic",
+   "Scalability",
+   "Theoretical computer science",
+   "Serialization",
+   "Model checking",
+   "Interval temporal logic",
+   "Artificial intelligence",
+   "Database"
+  ],
+  "10.1007/978-3-319-63390-9_29": [
+   "hyperproperties",
+   "satisfiability checking",
+   "equivalence checking",
+   "information flow",
+   "formal verification"
+  ],
+  "10.1007/978-3-319-66197-1_21": [
+   "Computer science",
+   "Programming language",
+   "Specification language",
+   "Formal specification",
+   "System requirements specification",
+   "Description logic",
+   "Software requirements specification",
+   "Temporal logic",
+   "Theoretical computer science",
+   "Software",
+   "Software engineering",
+   "Software design",
+   "Software development"
+  ],
+  "10.1007/978-3-319-66845-1_15": [
+   "Computer science",
+   "Stateless protocol",
+   "Programming language",
+   "Model checking",
+   "Parallel computing",
+   "Operating system"
+  ],
+  "10.1007/978-3-319-73721-8_22": [
+   "metric interval temporal logic",
+   "decision procedures",
+   "satisfiability",
+   "model checking",
+   "timed automata",
+   "complementation",
+   "decidability",
+   "real-time temporal logic"
+  ],
+  "10.1007/978-3-319-77243-1_18": [
+   "behavior-driven development",
+   "acceptance testing",
+   "practitioner opinions",
+   "requirements documentation",
+   "testability"
+  ],
+  "10.1007/978-3-319-77243-1_8": [
+   "requirements engineering",
+   "requirements ambiguity",
+   "terminological ambiguity",
+   "missing requirements",
+   "viewpoints",
+   "semantic similarity",
+   "information visualization",
+   "human-computer collaboration",
+   "automated defect detection"
+  ],
+  "10.1007/978-3-319-77935-5_1": [
+   "Computer science",
+   "Scalability",
+   "Asynchronous communication",
+   "Conversation",
+   "Set (abstract data type)",
+   "Event (particle physics)",
+   "Programming language",
+   "Software engineering",
+   "Theoretical computer science",
+   "Database",
+   "Telecommunications"
+  ],
+  "10.1007/978-3-319-77935-5_26": [
+   "Computer science",
+   "Consistency (knowledge bases)",
+   "Property (philosophy)",
+   "Extension (predicate logic)",
+   "Probabilistic logic",
+   "Theoretical computer science",
+   "Encoding (memory)",
+   "System requirements specification",
+   "Algorithm",
+   "Programming language",
+   "Artificial intelligence",
+   "Software engineering"
+  ],
+  "10.1007/978-3-319-90104-6_5": [
+   "Computer science",
+   "Linear temporal logic",
+   "Temporal logic",
+   "Time complexity",
+   "Computational complexity theory",
+   "Exponential function",
+   "Set (abstract data type)",
+   "Interval temporal logic",
+   "Constant (computer programming)",
+   "Model checking",
+   "Theoretical computer science",
+   "Algorithm",
+   "Kripke structure",
+   "Mathematics",
+   "Programming language"
+  ],
+  "10.1007/978-3-319-91602-6_7": [
+   "acceptance testing",
+   "software requirements specification",
+   "natural language requirements",
+   "learning effort",
+   "requirements communication",
+   "agile software development"
+  ],
+  "10.1007/978-3-319-91947-8_52": [
+   "requirements engineering",
+   "K-means clustering",
+   "requirements classification",
+   "part-of-speech tagging",
+   "industry needs"
+  ],
+  "10.1007/978-3-319-92081-8_9": [
+   "software properties",
+   "property disputes",
+   "temporal logic",
+   "interactive systems",
+   "dependability",
+   "security properties",
+   "human-computer interaction",
+   "behavioral description",
+   "traffic signals"
+  ],
+  "10.1007/978-3-319-92970-5_12": [
+   "symbolic model checking",
+   "proof explanation",
+   "coverage analysis",
+   "robustness analysis",
+   "traceability"
+  ],
+  "10.1007/978-3-319-95582-7_26": [
+   "Computer science"
+  ],
+  "10.1007/978-3-319-95582-7_34": [
+   "model finding",
+   "Alloy Analyzer",
+   "constraint solving",
+   "declarative specification"
+  ],
+  "10.1007/978-3-319-97679-2_2": [
+   "Rework",
+   "Ambiguity",
+   "Computer science",
+   "Contradiction",
+   "Programming language",
+   "Process (computing)",
+   "Software engineering",
+   "Natural language",
+   "Specification language",
+   "Software requirements specification",
+   "Software",
+   "Software development",
+   "Natural language processing",
+   "Software design",
+   "Linguistics",
+   "Embedded system"
+  ],
+  "10.1007/978-3-662-46681-0_54": [
+   "Soundness",
+   "Computer science",
+   "Runtime verification",
+   "Completeness (order theory)",
+   "Decidability",
+   "Programming language",
+   "Temporal logic",
+   "Model checking",
+   "Theoretical computer science",
+   "Linear temporal logic",
+   "Formal verification",
+   "Algorithm",
+   "Mathematics"
+  ],
+  "10.1007/978-3-662-54577-5_16": [
+   "Realizability",
+   "Soundness",
+   "Computer science",
+   "Interpolation (computer graphics)",
+   "Context (archaeology)",
+   "Property (philosophy)",
+   "Algorithm",
+   "Theoretical computer science",
+   "Applied mathematics",
+   "Algebra over a field",
+   "Mathematical optimization",
+   "Programming language",
+   "Mathematics",
+   "Artificial intelligence",
+   "Pure mathematics",
+   "Motion (physics)"
+  ],
+  "10.1007/978-981-10-4121-1_5": [
+   "formal methods",
+   "software safety analysis",
+   "fault tree analysis",
+   "safety properties",
+   "formal proof",
+   "computational systems",
+   "software reliability"
+  ],
+  "10.1007/978-981-13-2324-9_35": [
+   "requirement engineering",
+   "requirements conflicts",
+   "conflict resolution",
+   "agile software development",
+   "requirements analysis",
+   "requirements satisfaction",
+   "software development lifecycle"
+  ],
+  "10.1007/978-981-19-7510-3_1": [
+   "Linear temporal logic",
+   "Satisfiability",
+   "Temporal logic",
+   "Computer science",
+   "Model checking",
+   "Computation tree logic",
+   "Interval temporal logic",
+   "Theoretical computer science",
+   "Temporal logic of actions",
+   "Programming language",
+   "Transition system",
+   "Algorithm"
+  ],
+  "10.1007/978-981-92-2973-4_11": [
+   "LLM agents",
+   "blockchain protocols",
+   "model checking",
+   "NuSMV",
+   "hallucination mitigation",
+   "blockchain consensus",
+   "formal verification"
+  ],
+  "10.1007/978-981-95-4213-0_11": [
+   "test-driven development",
+   "large language models",
+   "software requirements engineering",
+   "natural language requirements",
+   "test case generation",
+   "requirements refinement"
+  ],
+  "10.1007/978-981-95-4213-0_6": [
+   "Correctness",
+   "Python (programming language)",
+   "Formal specification",
+   "Design by contract",
+   "Natural language",
+   "Specification language",
+   "Benchmark (surveying)",
+   "Software requirements specification"
+  ],
+  "10.1007/978-981-96-0617-7_1": [
+   "natural language requirements",
+   "formal requirements specification",
+   "computation tree logic",
+   "large language models",
+   "synthetic data generation",
+   "T5 fine-tuning",
+   "prompt engineering",
+   "requirements engineering",
+   "temporal logic properties"
+  ],
+  "10.1007/s00165-014-0308-9": [
+   "Computer science",
+   "Semaphore",
+   "Programming language",
+   "Preemption",
+   "Formal specification",
+   "Reuse",
+   "Notation",
+   "Software engineering",
+   "Operating system",
+   "Engineering",
+   "Mathematics"
+  ],
+  "10.1007/s00165-014-0328-5": [
+   "Computer science",
+   "Semantics (computer science)",
+   "Programming language",
+   "Well-founded semantics",
+   "Operational semantics",
+   "Automaton",
+   "Theoretical computer science",
+   "Computational semantics",
+   "Denotational semantics"
+  ],
+  "10.1007/s00165-015-0348-9": [
+   "avionics software",
+   "temporal logic",
+   "requirements consistency checking",
+   "functional requirements",
+   "requirements engineering",
+   "flight control systems"
+  ],
+  "10.1007/s00165-017-0442-2": [
+   "linear temporal logic",
+   "satisfiability checking",
+   "Büchi automata",
+   "emptiness checking",
+   "model development"
+  ],
+  "10.1007/s00165-019-00478-z": [
+   "Computer science",
+   "Code refactoring",
+   "Consistency (knowledge bases)",
+   "Reusability",
+   "Event (particle physics)",
+   "Maintainability",
+   "Theory of computation",
+   "Separation of concerns",
+   "Construct (python library)",
+   "Algorithm",
+   "Programming language",
+   "Theoretical computer science",
+   "Data mining",
+   "Artificial intelligence",
+   "Software",
+   "Software engineering"
+  ],
+  "10.1007/s00165-021-00564-1": [
+   "Mathematical proof",
+   "Correctness",
+   "Computer science",
+   "Bottleneck",
+   "Theoretical computer science",
+   "Rotation formalisms in three dimensions",
+   "Solver",
+   "Topology (electrical circuits)",
+   "Algorithm",
+   "Programming language",
+   "Mathematics",
+   "Combinatorics"
+  ],
+  "10.1007/s00236-015-0229-y": [
+   "Decidability",
+   "Temporal logic",
+   "Metric (unit)",
+   "Computer science",
+   "Boolean satisfiability problem",
+   "Time complexity",
+   "Extension (predicate logic)",
+   "Theoretical computer science",
+   "Reduction (mathematics)",
+   "Linear temporal logic",
+   "Constraint (computer-aided design)",
+   "Theory of computation",
+   "Algorithm",
+   "Programming language",
+   "Satisfiability modulo theories",
+   "Bounded function",
+   "Mathematics",
+   "Discrete mathematics"
+  ],
+  "10.1007/s00236-015-0242-1": [
+   "Computer science",
+   "Resolution (logic)",
+   "True quantified Boolean formula",
+   "Algorithm",
+   "Theory of computation",
+   "Propositional formula",
+   "Programming language",
+   "Fragment (logic)",
+   "Overhead (engineering)",
+   "Debugging",
+   "Solver",
+   "Set (abstract data type)",
+   "Theoretical computer science",
+   "Propositional variable"
+  ],
+  "10.1007/s00236-016-0280-3": [
+   "Realizability",
+   "Computer science",
+   "Linear temporal logic",
+   "Temporal logic",
+   "Product (mathematics)",
+   "Algorithm",
+   "Theoretical computer science",
+   "Mathematics",
+   "Programming language"
+  ],
+  "10.1007/s00236-019-00348-4": [
+   "Realizability",
+   "Linear temporal logic",
+   "Computer science",
+   "Correctness",
+   "Satisfiability",
+   "Set (abstract data type)",
+   "Temporal logic",
+   "Bounded function",
+   "Semantics (computer science)",
+   "Function (biology)",
+   "Upper and lower bounds",
+   "Theoretical computer science",
+   "Model checking",
+   "Algorithm",
+   "Programming language",
+   "Mathematics"
+  ],
+  "10.1007/s00236-019-00351-9": [
+   "Heuristics",
+   "Computer science",
+   "Computation",
+   "Theory of computation",
+   "Algorithm",
+   "Set (abstract data type)",
+   "Robot",
+   "Point (geometry)",
+   "Theoretical computer science",
+   "Programming language",
+   "Mathematics",
+   "Artificial intelligence"
+  ],
+  "10.1007/s00766-016-0247-5": [
+   "Correctness",
+   "Computer science",
+   "Feature (linguistics)",
+   "Quality (philosophy)",
+   "Requirements analysis",
+   "Requirements management",
+   "Agile software development",
+   "Non-functional requirement",
+   "Software engineering",
+   "Software requirements specification",
+   "Requirement",
+   "Requirements elicitation",
+   "Requirements engineering",
+   "Functional requirement",
+   "Software",
+   "Software development",
+   "Software design",
+   "Programming language",
+   "Software construction"
+  ],
+  "10.1007/s00766-016-0249-3": [
+   "Ambiguity",
+   "Tacit knowledge",
+   "Knowledge management",
+   "Categorization",
+   "Requirements elicitation",
+   "Obstacle",
+   "Computer science",
+   "Requirements analysis",
+   "Artificial intelligence",
+   "Software",
+   "Geography"
+  ],
+  "10.1007/s00766-019-00316-x": [
+   "Computer science",
+   "Requirements analysis",
+   "Software engineering",
+   "Programming language",
+   "Software"
+  ],
+  "10.1007/s00766-022-00379-3": [
+   "Computer science",
+   "Software requirements specification",
+   "Non-functional testing",
+   "Reliability engineering",
+   "Requirements analysis",
+   "Requirements engineering",
+   "Functional requirement",
+   "Non-functional requirement",
+   "Test case",
+   "Testability",
+   "Requirements management",
+   "Software engineering",
+   "Software",
+   "Software design",
+   "Software system",
+   "Engineering",
+   "Programming language",
+   "Software development",
+   "Machine learning",
+   "Software construction"
+  ],
+  "10.1007/s00766-024-00416-3": [
+   "requirements completeness",
+   "natural language requirements",
+   "large language models",
+   "BERT",
+   "masked language modeling",
+   "automated requirements engineering"
+  ],
+  "10.1007/s00766-025-00438-5": [
+   "timed automata",
+   "real-time model checking",
+   "complementation",
+   "defect detection"
+  ],
+  "10.1007/s00766-025-00450-9": [
+   "LLM agents",
+   "requirements specification",
+   "low-code platforms",
+   "retrieval-augmented generation",
+   "CrewAI",
+   "requirements analysis"
+  ],
+  "10.1007/s10009-014-0350-1": [
+   "statistical model checking",
+   "hypothesis testing",
+   "decision threshold",
+   "correctness guarantees",
+   "statistical power",
+   "test efficiency",
+   "decision boundaries"
+  ],
+  "10.1007/s10009-024-00740-7": [
+   "runtime verification",
+   "spatio-temporal features",
+   "first-order logic",
+   "spatio-temporal logic",
+   "traffic rules",
+   "Vienna Convention on Road Traffic",
+   "autonomous driving",
+   "online monitoring",
+   "monitor generation"
+  ],
+  "10.1007/s10115-026-02747-9": [
+   "Requirements engineering",
+   "Software requirements",
+   "Requirements analysis",
+   "User requirements document",
+   "Requirements elicitation",
+   "Software requirements specification",
+   "Software",
+   "Requirement"
+  ],
+  "10.1007/s10270-013-0350-8": [
+   "Computer science",
+   "Correctness",
+   "Conceptual schema",
+   "Unified Modeling Language",
+   "Schema (genetic algorithms)",
+   "Software engineering",
+   "Programming language",
+   "Contradiction",
+   "Theoretical computer science",
+   "Information retrieval",
+   "Software"
+  ],
+  "10.1007/s10270-014-0431-3": [
+   "Computer science",
+   "Reuse",
+   "Classifier (UML)",
+   "Software engineering",
+   "Artificial intelligence"
+  ],
+  "10.1007/s10270-015-0463-3": [
+   "Template",
+   "Computer science",
+   "Programming language",
+   "Unified Modeling Language",
+   "Eclipse",
+   "Software"
+  ],
+  "10.1007/s10270-017-0635-4": [
+   "Computer science",
+   "Unified Modeling Language",
+   "Property (philosophy)",
+   "Automaton",
+   "Traceability",
+   "Programming language",
+   "Computation tree logic",
+   "Object Constraint Language",
+   "Model checking",
+   "Robustness (evolution)",
+   "Semantics (computer science)",
+   "Software engineering",
+   "Data mining",
+   "Theoretical computer science",
+   "Software",
+   "Applications of UML"
+  ],
+  "10.1007/s10270-020-00781-x": [
+   "Computer science",
+   "Business Process Model and Notation",
+   "Requirements engineering",
+   "Domain (mathematical analysis)",
+   "Business process",
+   "Context (archaeology)",
+   "Process management",
+   "Software engineering",
+   "Computer security",
+   "Database",
+   "Business process modeling",
+   "Work in process",
+   "Software",
+   "Programming language"
+  ],
+  "10.1007/s10270-023-01142-0": [
+   "ambiguity disambiguation",
+   "natural language requirements",
+   "semantic accuracy",
+   "requirements verification",
+   "simulation-based verification",
+   "cyber-physical systems",
+   "socio-technical systems",
+   "stakeholder negotiation",
+   "requirements engineering",
+   "requirements defects"
+  ],
+  "10.1007/s10270-025-01265-6": [
+   "requirements specification",
+   "controlled natural language",
+   "model-driven engineering",
+   "requirements templates",
+   "requirements verification",
+   "safety-critical systems",
+   "ARINC 653",
+   "avionics",
+   "requirements quality",
+   "natural language requirements"
+  ],
+  "10.1007/s10515-016-0192-z": [
+   "requirements consistency checking",
+   "requirements validation",
+   "requirements traceability",
+   "natural language requirements",
+   "requirements completeness",
+   "rapid prototyping",
+   "requirements engineering",
+   "usability evaluation"
+  ],
+  "10.1007/s10515-017-0210-9": [
+   "OWL 2 DL",
+   "inconsistency detection",
+   "description logic reasoning",
+   "closed world assumption",
+   "open world assumption",
+   "ontology design patterns",
+   "relational expressions",
+   "inductive proof"
+  ],
+  "10.1007/s10515-021-00291-0": [
+   "Computer science",
+   "Natural language",
+   "Semantics of Business Vocabulary and Business Rules",
+   "Ambiguity",
+   "Object language",
+   "Logic programming",
+   "Knowledge representation and reasoning",
+   "Programming language",
+   "Artificial intelligence",
+   "Natural language processing",
+   "Software engineering",
+   "Business rule",
+   "Business process",
+   "Work in process"
+  ],
+  "10.1007/s10515-021-00312-y": [
+   "natural language requirements",
+   "requirements extraction",
+   "natural language processing",
+   "system requirements",
+   "automated requirements engineering"
+  ],
+  "10.1007/s10515-024-00452-x": [
+   "formal requirements",
+   "controlled natural language",
+   "large language models",
+   "formal logic",
+   "decision tree classification",
+   "requirements engineering",
+   "ALICE"
+  ],
+  "10.1007/s10601-015-9204-z": [
+   "Reduction (mathematics)",
+   "Sampling (signal processing)",
+   "Hash function",
+   "Computer science",
+   "Algorithm",
+   "Theoretical computer science",
+   "Mathematics",
+   "Programming language"
+  ],
+  "10.1007/s10664-019-09693-x": [
+   "domain modeling",
+   "requirements completeness",
+   "natural language requirements",
+   "UML class diagrams",
+   "sensitivity analysis",
+   "requirements engineering"
+  ],
+  "10.1007/s10664-019-09718-5": [
+   "Consistency (knowledge bases)",
+   "Perception",
+   "Identification (biology)",
+   "Field (mathematics)",
+   "Sight",
+   "Phenomenon",
+   "Psychology",
+   "Computer science",
+   "Management science",
+   "Knowledge management",
+   "Epistemology",
+   "Engineering",
+   "Artificial intelligence"
+  ],
+  "10.1007/s10664-020-09815-w": [
+   "Computer science",
+   "Test Management Approach",
+   "Test case",
+   "Markup language",
+   "Non-functional testing",
+   "Test script",
+   "White-box testing",
+   "System under test",
+   "Manual testing",
+   "Keyword-driven testing",
+   "Test harness",
+   "Software engineering",
+   "Context (archaeology)",
+   "Set (abstract data type)",
+   "Reliability engineering",
+   "Test (biology)",
+   "Requirements engineering",
+   "Programming language",
+   "Software",
+   "Requirements elicitation",
+   "Software system",
+   "XML",
+   "Engineering",
+   "Operating system",
+   "Software construction"
+  ],
+  "10.1007/s10703-014-0221-0": [
+   "Antecedent (behavioral psychology)",
+   "Computer science",
+   "Automaton",
+   "Property (philosophy)",
+   "Extension (predicate logic)",
+   "Temporal logic",
+   "Model checking",
+   "Theoretical computer science",
+   "Programming language",
+   "Psychology",
+   "Social psychology",
+   "Epistemology"
+  ],
+  "10.1007/s10703-016-0242-y": [
+   "Soundness",
+   "Computer science",
+   "Scalability",
+   "Completeness (order theory)",
+   "Temporal logic",
+   "Slicing",
+   "Novelty",
+   "Linear temporal logic",
+   "Model checking",
+   "Distributed computing",
+   "Data mining",
+   "Programming language",
+   "Database"
+  ],
+  "10.1007/s10703-018-00326-5": [
+   "linear temporal logic",
+   "propositional satisfiability",
+   "explicit reasoning",
+   "LTL model checking"
+  ],
+  "10.1007/s10703-018-0321-3": [
+   "Coinduction",
+   "TRACE (psycholinguistics)",
+   "Linear temporal logic",
+   "Temporal logic",
+   "Linear logic",
+   "Mathematics",
+   "Completeness (order theory)",
+   "Proof theory",
+   "Discrete mathematics",
+   "Computer science",
+   "Theoretical computer science",
+   "Algorithm",
+   "Mathematical proof"
+  ],
+  "10.1007/s10703-021-00381-5": [
+   "reactive synthesis",
+   "bounded synthesis",
+   "temporal logic",
+   "maximal elements",
+   "user intention",
+   "model checking"
+  ],
+  "10.1007/s10703-022-00398-4": [
+   "Realizability",
+   "Linear temporal logic",
+   "Semantics (computer science)",
+   "Automaton",
+   "Computer science",
+   "Property (philosophy)",
+   "Operational semantics",
+   "Theoretical computer science",
+   "Temporal logic",
+   "Range (aeronautics)",
+   "Linear logic",
+   "Programming language",
+   "Algorithm"
+  ],
+  "10.1007/s10703-026-00492-x": [
+   "Automaton",
+   "Model checking",
+   "Formal verification",
+   "Formalism (music)",
+   "Functional verification",
+   "Runtime verification",
+   "Task (project management)",
+   "Completeness (order theory)",
+   "Intelligent verification"
+  ],
+  "10.1007/s10817-016-9361-9": [
+   "Decidability",
+   "Mathematical proof",
+   "Completeness (order theory)",
+   "Mathematics",
+   "Discrete mathematics",
+   "Semantics (computer science)",
+   "Type theory",
+   "CTL*",
+   "Constructive",
+   "Calculus (dental)",
+   "Algebra over a field",
+   "Computer science",
+   "Type (biology)",
+   "Programming language",
+   "Pure mathematics"
+  ],
+  "10.1007/s10817-023-09691-1": [
+   "linear temporal logic",
+   "tableau method",
+   "infinite traces",
+   "formal verification"
+  ],
+  "10.1007/s11334-013-0203-1": [
+   "Computer science",
+   "Usability",
+   "Human–computer interaction",
+   "Software engineering",
+   "Context (archaeology)",
+   "Model checking",
+   "Semantics (computer science)",
+   "USable",
+   "Formal specification",
+   "Programming language",
+   "World Wide Web"
+  ],
+  "10.1007/s11334-019-00339-1": [
+   "Computer science",
+   "Satisfiability",
+   "Property (philosophy)",
+   "Consistency (knowledge bases)",
+   "Set (abstract data type)",
+   "Extension (predicate logic)",
+   "Theoretical computer science",
+   "Programming language",
+   "Linear temporal logic",
+   "Probabilistic logic",
+   "Algorithm",
+   "Artificial intelligence"
+  ],
+  "10.1007/s11704-018-7054-8": [
+   "CCSL",
+   "formal specification languages",
+   "model checking",
+   "UPPAAL",
+   "spatiotemporal behavior",
+   "real-time systems",
+   "safety properties",
+   "logical clocks",
+   "time constraints",
+   "verification framework"
+  ],
+  "10.1007/s12652-020-02247-w": [
+   "GPU parallel algorithms",
+   "CUDA",
+   "clause classification"
+  ],
+  "10.1007/s42979-022-01577-0": [
+   "SysML",
+   "Object Constraint Language",
+   "owls",
+   "ontology modeling",
+   "state diagrams",
+   "OWL reasoners",
+   "explanation generation"
+  ],
+  "10.1016/j.artint.2017.07.005": [
+   "Propositional calculus",
+   "Propositional variable",
+   "Propositional formula",
+   "Mathematics",
+   "Computer science",
+   "Calculus (dental)",
+   "Arithmetic",
+   "Discrete mathematics",
+   "Programming language",
+   "Medicine",
+   "Intermediate logic"
+  ],
+  "10.1016/j.csi.2016.03.002": [
+   "Computer science",
+   "Metadata",
+   "Functional requirement",
+   "Non-functional requirement",
+   "Process (computing)",
+   "Task (project management)",
+   "Functional design",
+   "Non-functional testing",
+   "Mechanism (biology)",
+   "Software engineering",
+   "Risk analysis (engineering)",
+   "Software",
+   "Requirements analysis",
+   "Requirements management",
+   "Systems engineering",
+   "Software development",
+   "World Wide Web",
+   "Engineering"
+  ],
+  "10.1016/j.ic.2015.06.007": [
+   "Satisfiability",
+   "Decidability",
+   "Computer science",
+   "Automaton",
+   "Reduction (mathematics)",
+   "Boolean satisfiability problem",
+   "Theoretical computer science",
+   "Constraint (computer-aided design)",
+   "Programming language",
+   "Computability",
+   "Bounded function",
+   "Algorithm",
+   "Mathematics"
+  ],
+  "10.1016/j.infsof.2015.11.006": [
+   "Computer science",
+   "Natural language processing",
+   "Aliasing",
+   "Identification (biology)",
+   "Alias",
+   "Artificial intelligence",
+   "Term (time)",
+   "Context (archaeology)",
+   "Natural language",
+   "Syntax",
+   "WordNet",
+   "Information retrieval",
+   "Data mining"
+  ],
+  "10.1016/j.infsof.2017.06.003": [
+   "Learnability",
+   "Computer science",
+   "Formality",
+   "Template",
+   "Correctness",
+   "Usability",
+   "Redundancy (engineering)",
+   "Software engineering",
+   "Programming language",
+   "Program comprehension",
+   "Software",
+   "Artificial intelligence",
+   "Software system",
+   "Human–computer interaction"
+  ],
+  "10.1016/j.infsof.2018.12.007": [
+   "terminological ambiguity",
+   "software requirements",
+   "near-synonyms",
+   "semantic similarity",
+   "information visualization",
+   "requirements inspection"
+  ],
+  "10.1016/j.is.2015.03.006": [
+   "Code refactoring",
+   "Computer science",
+   "Completeness (order theory)",
+   "Modularity (biology)",
+   "Complexity management",
+   "Goal modeling",
+   "Set (abstract data type)",
+   "Software engineering",
+   "Requirements elicitation",
+   "Data science",
+   "Risk analysis (engineering)",
+   "Requirements engineering",
+   "Software",
+   "Programming language"
+  ],
+  "10.1016/j.is.2018.01.011": [
+   "Computer science",
+   "Relevance (law)",
+   "Constraint (computer-aided design)",
+   "Event (particle physics)",
+   "Context (archaeology)",
+   "Set (abstract data type)",
+   "Automaton",
+   "Theoretical computer science",
+   "Process (computing)",
+   "Process mining",
+   "Constraint satisfaction",
+   "Constraint satisfaction problem",
+   "Theory of computation",
+   "Constraint programming",
+   "Business process",
+   "Programming language",
+   "Artificial intelligence",
+   "Business process modeling",
+   "Work in process",
+   "Probabilistic logic",
+   "Mathematics"
+  ],
+  "10.1016/j.isatra.2023.04.025": [
+   "contradiction detection",
+   "IoT protocols",
+   "knowledge graph construction",
+   "large language models",
+   "named entity recognition",
+   "relation extraction",
+   "rule extraction",
+   "CoAP",
+   "MQTT",
+   "AMQP"
+  ],
+  "10.1016/j.jlamp.2016.06.002": [
+   "Computer science",
+   "Realizability",
+   "Nondeterministic algorithm",
+   "Implementation",
+   "Theoretical computer science",
+   "Programming language",
+   "Construct (python library)",
+   "Semantics (computer science)",
+   "Choreography",
+   "Finite-state machine",
+   "Automaton",
+   "Linear temporal logic",
+   "Web service"
+  ],
+  "10.1016/j.jss.2017.11.026": [
+   "test oracles",
+   "labelled transition systems",
+   "state explosion problem",
+   "concurrent program testing"
+  ],
+  "10.1016/j.jss.2018.02.002": [
+   "linear temporal logic",
+   "conjunctive normal form",
+   "software testing",
+   "debugging",
+   "test data",
+   "formal requirements",
+   "cyber-physical systems",
+   "model checking"
+  ],
+  "10.1016/j.jss.2018.07.053": [
+   "requirements validation",
+   "correct-by-construction",
+   "formal specification",
+   "model refinement",
+   "design correctness",
+   "requirements consistency",
+   "specification languages"
+  ],
+  "10.1016/j.procs.2025.09.167": [
+   "non-functional requirements",
+   "requirement elicitation",
+   "LLM agents",
+   "retrieval-augmented generation",
+   "persona generation",
+   "interview question generation",
+   "iterative refinement",
+   "procurement specifications",
+   "information system development"
+  ],
+  "10.1016/j.procs.2025.10.053": [
+   "large language models",
+   "formal specification generation",
+   "Java Modeling Language",
+   "industrial control systems",
+   "abnormal behavior detection",
+   "LLM benchmarking",
+   "GPT-4o",
+   "DeepSeek-V3",
+   "Gemini 2.5 Flash",
+   "security by design",
+   "critical infrastructure cybersecurity",
+   "distributed systems"
+  ],
+  "10.1016/j.scico.2017.10.010": [
+   "choreography",
+   "automated synthesis",
+   "service composition",
+   "service intermediation"
+  ],
+  "10.1016/j.tcs.2016.01.014": [
+   "unsatisfiable cores",
+   "linear temporal logic",
+   "temporal relevance",
+   "temporal resolution",
+   "resolution proofs",
+   "tryptophan"
+  ],
+  "10.1016/j.tcs.2017.10.006": [
+   "Petri net",
+   "Stochastic Petri net",
+   "Graph",
+   "Workflow",
+   "Computer science",
+   "Context (archaeology)",
+   "Set (abstract data type)",
+   "Representation (politics)",
+   "Realisation",
+   "Net (polyhedron)",
+   "Theoretical computer science",
+   "Mathematics",
+   "Algorithm",
+   "Programming language",
+   "Database"
+  ],
+  "10.1017/pds.2024.207": [
+   "contradiction detection",
+   "requirements engineering",
+   "requirements consistency",
+   "formal logic",
+   "large language models",
+   "GPT-3",
+   "conditionals",
+   "requirements quality"
+  ],
+  "10.1049/cth2.12254": [
+   "Model predictive control",
+   "Control theory (sociology)",
+   "Computer science",
+   "Control engineering",
+   "SIGNAL (programming language)",
+   "Control (management)",
+   "Control signal",
+   "Robot",
+   "Predictive coding",
+   "Artificial intelligence",
+   "Engineering",
+   "Mathematics"
+  ],
+  "10.1093/comjnl/bxaa189": [
+   "conflicting objectives",
+   "goal-oriented requirements engineering",
+   "non-functional requirements",
+   "sensitivity analysis",
+   "cost-effectiveness analysis",
+   "multi-objective optimization",
+   "stakeholder goals",
+   "telemedicine systems"
+  ],
+  "10.1109/access.2021.3120004": [
+   "requirements specification",
+   "use cases",
+   "scenarios",
+   "linguistic patterns",
+   "language style",
+   "writing guidelines",
+   "natural language requirements",
+   "controlled natural language",
+   "UML use case diagrams",
+   "requirements specification language"
+  ],
+  "10.1109/access.2022.3197281": [
+   "Computer science",
+   "System requirements specification",
+   "Specification language",
+   "Ontology",
+   "Natural language",
+   "Software engineering",
+   "Formal specification",
+   "Software requirements specification",
+   "Context (archaeology)",
+   "Domain (mathematical analysis)",
+   "Programming language",
+   "Semantic interpretation",
+   "Natural language processing",
+   "Software design",
+   "Software development",
+   "Software"
+  ],
+  "10.1109/access.2024.3365352": [
+   "behavior trees",
+   "Web Ontology Language",
+   "requirements engineering",
+   "requirements change",
+   "requirements inconsistency",
+   "requirements ambiguity",
+   "requirements analysis"
+  ],
+  "10.1109/access.2024.3464242": [
+   "GPT-4",
+   "large language models",
+   "requirements engineering",
+   "ambiguity detection",
+   "inconsistency detection",
+   "software requirements specification",
+   "zero-shot learning",
+   "human-AI collaboration"
+  ],
+  "10.1109/access.2025.3550123": [
+   "software requirements specification",
+   "requirements quality",
+   "agile software development",
+   "document collaboration",
+   "requirements completeness",
+   "requirements ambiguity",
+   "requirements consistency",
+   "requirements engineering"
+  ],
+  "10.1109/access.2025.3586554": [
+   "vision-language models",
+   "visual defect detection",
+   "software requirements specification",
+   "autonomous vehicles",
+   "requirements validation",
+   "few-shot prompting",
+   "chain-of-thought prompting",
+   "soft prompting",
+   "GPT-4",
+   "Gemini",
+   "Claude",
+   "ambiguity detection",
+   "inconsistency detection"
+  ],
+  "10.1109/access.2025.3620431": [
+   "automatic test case generation",
+   "natural language requirements",
+   "cause-effect graph",
+   "decision tables",
+   "test script generation",
+   "user acceptance testing"
+  ],
+  "10.1109/access.2026.3654443": [
+   "Requirements engineering",
+   "Traceability",
+   "Interoperability",
+   "Smart grid",
+   "Business requirements",
+   "Quality assurance",
+   "Requirements elicitation",
+   "Non-functional requirement",
+   "Requirements analysis"
+  ],
+  "10.1109/access.2026.3686308": [
+   "Software development",
+   "Code generation",
+   "Automation",
+   "Software development process",
+   "Software requirements specification",
+   "Formal specification",
+   "Software construction",
+   "Code (set theory)",
+   "Software"
+  ],
+  "10.1109/access.2026.3713023": [
+   "traffic demand prediction",
+   "6G radio access network",
+   "network slicing",
+   "deep learning prediction",
+   "LSTM",
+   "GRU",
+   "convolutional neural networks",
+   "latency prediction",
+   "heterogeneous mobility",
+   "digital twin",
+   "network resource management"
+  ],
+  "10.1109/access.2026.3713484": [
+   "Negotiation",
+   "Argumentation theory",
+   "Resolution (logic)",
+   "Conflict resolution",
+   "Argumentation framework",
+   "Formal specification"
+  ],
+  "10.1109/access.2026.3727789": [
+   "DevOps",
+   "Task analysis",
+   "Statistical classification",
+   "Data modeling"
+  ],
+  "10.1109/acsacw65225.2024.00033": [
+   "Computer science",
+   "Computer security"
+  ],
+  "10.1109/aiita69518.2026.11567309": [
+   "Natural language",
+   "Language model",
+   "Modeling language",
+   "Key (lock)",
+   "Language identification",
+   "Abstraction"
+  ],
+  "10.1109/aire.2015.7337624": [
+   "product quality",
+   "fuzzy modeling",
+   "requirements engineering",
+   "product documentation",
+   "technical specifications",
+   "product configurator",
+   "recommender systems",
+   "product search",
+   "customer needs",
+   "camera"
+  ],
+  "10.1109/aire51212.2020.00016": [
+   "requirements engineering",
+   "data quality",
+   "deep learning",
+   "requirements quality",
+   "stationarity",
+   "multivariate time series",
+   "recurrent neural networks"
+  ],
+  "10.1109/ase.2017.8115632": [
+   "coverage metrics",
+   "formal verification",
+   "mutation testing",
+   "model-based verification",
+   "specification completeness",
+   "provability",
+   "critical software"
+  ],
+  "10.1109/ase51524.2021.9678524": [
+   "Computer science",
+   "Materials science",
+   "Metallurgy"
+  ],
+  "10.1109/ase56229.2023.00142": [
+   "smart contracts",
+   "code comments",
+   "constraint propagation",
+   "Ethereum",
+   "token standards",
+   "ERC-721",
+   "code templates",
+   "blockchain security",
+   "vulnerability detection"
+  ],
+  "10.1109/ase56229.2023.00173": [
+   "inductive generalization"
+  ],
+  "10.1109/ase63991.2025.00030": [
+   "Heuristics",
+   "Set (abstract data type)",
+   "Model checking",
+   "Reuse",
+   "Temporal logic"
+  ],
+  "10.1109/ase63991.2025.00120": [
+   "Exploit",
+   "Solidity",
+   "Task (project management)",
+   "Vulnerability (computing)",
+   "TRACE (psycholinguistics)",
+   "Benchmark (surveying)",
+   "Audit",
+   "Fuzz testing"
+  ],
+  "10.1109/ase63991.2025.00176": [
+   "Formal verification",
+   "Formal methods",
+   "Formal specification",
+   "Formal semantics (linguistics)",
+   "Interface (matter)",
+   "Natural language",
+   "Key (lock)",
+   "Formal language"
+  ],
+  "10.1109/ase63991.2025.00328": [
+   "Completeness (order theory)",
+   "Software",
+   "Domain (mathematical analysis)",
+   "Missing data",
+   "Software tool",
+   "Abstraction"
+  ],
+  "10.1109/cai68641.2026.11536381": [
+   "large language models",
+   "temporal reasoning",
+   "linear temporal logic",
+   "time constraints",
+   "obfuscation",
+   "linguistic inclusion",
+   "LLM benchmarking"
+  ],
+  "10.1109/cascon66301.2025.00084": [],
+  "10.1109/ccaa.2015.7148485": [
+   "Software requirements",
+   "Computer science",
+   "Requirements engineering",
+   "Software engineering",
+   "Software development",
+   "Software development process",
+   "Process (computing)",
+   "Requirements analysis",
+   "Software requirements specification",
+   "Requirement prioritization",
+   "Requirement",
+   "Software",
+   "Requirements elicitation",
+   "Systems engineering",
+   "Software construction",
+   "Engineering",
+   "Programming language"
+  ],
+  "10.1109/ceec.2017.8101621": [
+   "Computer science",
+   "Software engineering",
+   "Model transformation",
+   "Domain-specific language",
+   "Domain (mathematical analysis)",
+   "Test case",
+   "Model-driven architecture",
+   "Domain engineering",
+   "Software development process",
+   "Requirements engineering",
+   "Programming language",
+   "Software development",
+   "Software",
+   "Component-based software engineering",
+   "Artificial intelligence",
+   "Machine learning"
+  ],
+  "10.1109/cenim56801.2022.10037416": [
+   "user stories",
+   "user requirements",
+   "conflicting requirements",
+   "clustering",
+   "single linkage clustering",
+   "K-means clustering",
+   "silhouette analysis",
+   "natural language processing",
+   "agile software development",
+   "syntax checking"
+  ],
+  "10.1109/ciot63799.2024.10756966": [
+   "Fitbit",
+   "code quality",
+   "software testing",
+   "large language models",
+   "unit test generation",
+   "data accuracy",
+   "wearable health monitoring",
+   "robotic assistance",
+   "location tracking",
+   "GitHub repositories"
+  ],
+  "10.1109/compsac65507.2025.00160": [
+   "Computer science",
+   "Software testing",
+   "Software",
+   "Reliability engineering",
+   "Programming language",
+   "Engineering"
+  ],
+  "10.1109/compsac69091.2026.00054": [
+   "software requirements",
+   "domain knowledge",
+   "requirements engineering",
+   "requirements generation"
+  ],
+  "10.1109/compsac69091.2026.00424": [
+   "metamorphic testing",
+   "Functional Mock-up Units",
+   "Functional Mock-up Interface",
+   "multi-agent systems",
+   "large language models",
+   "specification-based testing",
+   "metamorphic relations",
+   "test oracles",
+   "test case generation"
+  ],
+  "10.1109/conisoft55708.2022.00016": [
+   "user stories",
+   "Scrum",
+   "ontology",
+   "semantic relations",
+   "requirements engineering",
+   "stakeholder validation"
+  ],
+  "10.1109/cscloud66326.2025.00020": [
+   "large language models",
+   "formal verification",
+   "non-determinism",
+   "specification mining",
+   "runtime monitoring",
+   "modular verification",
+   "safety-critical systems",
+   "distributed systems"
+  ],
+  "10.1109/ece67147.2025.11276664": [
+   "inconsistency detection",
+   "software requirements",
+   "requirements validation",
+   "dynamic ontology",
+   "ontology reasoning",
+   "SPARQL queries"
+  ],
+  "10.1109/eitce70137.2026.11634323": [
+   "large language models",
+   "REST API",
+   "API testing",
+   "requirements engineering"
+  ],
+  "10.1109/ets69887.2026.11591998": [
+   "assertion generation",
+   "large language models",
+   "iterative refinement",
+   "formal verification",
+   "hardware verification"
+  ],
+  "10.1109/forge66646.2025.00035": [
+   "GPT-4o",
+   "large language models",
+   "specification generation",
+   "VeriFast",
+   "separation logic",
+   "static verification",
+   "C programs",
+   "heap-manipulating programs",
+   "chain-of-thought prompting"
+  ],
+  "10.1109/formalise66629.2025.00015": [
+   "software contracts",
+   "preconditions",
+   "postconditions",
+   "contract quality",
+   "redundancy detection",
+   "predicate analysis",
+   "software verification",
+   "C programs"
+  ],
+  "10.1109/hpcc-dss-smartcity-dependsys57074.2022.00175": [
+   "real-time requirements",
+   "inconsistency analysis",
+   "safety-critical systems",
+   "constraint solving",
+   "domain experts",
+   "automotive lighting"
+  ],
+  "10.1109/ic3.2015.7346742": [
+   "Java",
+   "Computer science",
+   "Consistency (knowledge bases)",
+   "Sequential consistency",
+   "Consistency model",
+   "Operating system",
+   "Data consistency",
+   "Artificial intelligence"
+  ],
+  "10.1109/icaace69793.2026.11508854": [
+   "Fuzzy logic",
+   "Fuzzy control system",
+   "Field (mathematics)",
+   "Information system",
+   "Expert system"
+  ],
+  "10.1109/icacs69208.2026.11433151": [
+   "non-functional requirements",
+   "ambiguity detection",
+   "information extraction",
+   "transformer models",
+   "requirements engineering",
+   "natural language processing"
+  ],
+  "10.1109/iccad.2017.8203765": [
+   "Reachability",
+   "Model checking",
+   "Computer science",
+   "Boolean satisfiability problem",
+   "Formal verification",
+   "Satisfiability",
+   "Theoretical computer science",
+   "State (computer science)",
+   "Construct (python library)",
+   "Sequence (biology)",
+   "Algorithm",
+   "Programming language"
+  ],
+  "10.1109/iccd65941.2025.00114": [
+   "formal property verification",
+   "hardware security verification",
+   "design partitioning",
+   "large language models",
+   "retrieval-augmented generation",
+   "SystemVerilog assertions",
+   "system-on-chip"
+  ],
+  "10.1109/icces.2017.8275337": [
+   "Automatic test pattern generation",
+   "Computer science",
+   "Computation",
+   "Digital electronics",
+   "Combinational logic",
+   "Electronic circuit",
+   "Parallel computing",
+   "Algorithm",
+   "Logic gate",
+   "Engineering",
+   "Electrical engineering"
+  ],
+  "10.1109/iccps48487.2020.00013": [
+   "Computer science",
+   "SIGNAL (programming language)",
+   "Temporal logic",
+   "Theoretical computer science",
+   "Programming language"
+  ],
+  "10.1109/iccps68698.2026.00016": [
+   "Transit (satellite)",
+   "Action (physics)",
+   "Public transport",
+   "Key (lock)"
+  ],
+  "10.1109/iccvw60793.2023.00369": [
+   "evidential deep learning",
+   "out-of-distribution detection",
+   "continual learning",
+   "vacuity",
+   "dissonance",
+   "uncertainty estimation",
+   "catastrophic forgetting",
+   "CIFAR-100"
+  ],
+  "10.1109/icdmw.2015.52": [
+   "Requirements elicitation",
+   "Computer science",
+   "Requirements management",
+   "Requirements analysis",
+   "Negotiation",
+   "Requirements engineering",
+   "System requirements",
+   "Business requirements",
+   "Process management",
+   "Goal modeling",
+   "Process (computing)",
+   "Goal orientation",
+   "Graph",
+   "Knowledge management",
+   "Software engineering",
+   "Business process",
+   "Engineering",
+   "Work in process",
+   "Software",
+   "Psychology"
+  ],
+  "10.1109/iceccme64568.2025.11277590": [
+   "behavior-driven development",
+   "use cases",
+   "natural language processing",
+   "language models",
+   "zero-shot learning",
+   "few-shot learning",
+   "test automation",
+   "software testing",
+   "stakeholder communication"
+  ],
+  "10.1109/iceccs.2016.021": [
+   "active learning",
+   "human-in-the-loop feedback",
+   "natural language processing",
+   "user requirements",
+   "use case diagrams",
+   "requirements engineering",
+   "user interaction",
+   "natural language feedback"
+  ],
+  "10.1109/icect61618.2024.10581078": [
+   "requirement engineering",
+   "requirements prioritization",
+   "clustering",
+   "software quality requirements"
+  ],
+  "10.1109/icise.2016.20": [
+   "system usability",
+   "requirements engineering",
+   "usability measurement",
+   "decision-making framework",
+   "requirements completeness",
+   "requirements metrics",
+   "stakeholder needs",
+   "requirements specification",
+   "systems engineering",
+   "system development life cycle",
+   "decision analysis"
+  ],
+  "10.1109/icmi65310.2025.11141197": [
+   "behavior-driven development",
+   "BERT",
+   "user stories",
+   "requirements validation",
+   "agile software development"
+  ],
+  "10.1109/icmi68585.2026.11539946": [
+   "natural language inference",
+   "consistency checking",
+   "requirements engineering",
+   "large language models",
+   "requirements consistency"
+  ],
+  "10.1109/icnlp69856.2026.11527516": [
+   "Software requirements specification",
+   "Requirements analysis",
+   "Functional requirement",
+   "Non-functional requirement",
+   "Requirement",
+   "Requirement prioritization",
+   "User requirements document",
+   "Consistency (knowledge bases)",
+   "Software requirements"
+  ],
+  "10.1109/icosc.2019.8665630": [
+   "OWL ontologies",
+   "domain-specific languages",
+   "requirements capture",
+   "formal analysis",
+   "test case generation",
+   "automated test generation",
+   "formal requirements",
+   "ontology grounding",
+   "requirements engineering"
+  ],
+  "10.1109/icra55743.2025.11128420": [
+   "robot task planning",
+   "large language models",
+   "linear temporal logic",
+   "natural language commands",
+   "constrained decoding",
+   "domain-specific fine-tuning",
+   "UAV navigation",
+   "robotic manipulation"
+  ],
+  "10.1109/icra57147.2024.10610599": [
+   "large language models",
+   "linear temporal logic",
+   "hierarchical planning",
+   "autonomous robots"
+  ],
+  "10.1109/icsa.2017.10": [
+   "Computer science",
+   "Semantics (computer science)",
+   "Architecture",
+   "Software architecture",
+   "Programming language",
+   "Natural language",
+   "Inference",
+   "Natural language processing",
+   "Artificial intelligence",
+   "Software engineering",
+   "Software"
+  ],
+  "10.1109/icse-nier66352.2025.00016": [
+   "prompt engineering",
+   "large language models",
+   "requirements traceability",
+   "requirements ambiguity",
+   "requirements inconsistency"
+  ],
+  "10.1109/icse-seip58684.2023.00006": [
+   "Azure Cosmos DB",
+   "TLA+",
+   "formal specification",
+   "data consistency",
+   "distributed databases",
+   "consistency error"
+  ],
+  "10.1109/icse.2019.00106": [
+   "Correctness",
+   "Computer science",
+   "Scalability",
+   "Algorithm",
+   "Theoretical computer science",
+   "Programming language"
+  ],
+  "10.1109/icse43902.2021.00016": [
+   "reactive synthesis",
+   "linear temporal logic",
+   "fault location",
+   "incremental computation",
+   "punch",
+   "spectrum",
+   "reactive systems"
+  ],
+  "10.1109/icse43902.2021.00065": [
+   "Assertion",
+   "Counterexample",
+   "Computer science",
+   "Program slicing",
+   "Programming language",
+   "Fault (geology)",
+   "Code (set theory)",
+   "Key (lock)",
+   "Algorithm",
+   "Rank (graph theory)",
+   "Java",
+   "Theoretical computer science",
+   "Debugging",
+   "Mathematics",
+   "Discrete mathematics",
+   "Computer security",
+   "Set (abstract data type)"
+  ],
+  "10.1109/icse43902.2021.00082": [
+   "TRACE (psycholinguistics)",
+   "Computer science",
+   "Specification language",
+   "Programming language",
+   "Bridging (networking)",
+   "Model checking",
+   "Cyber-physical system",
+   "Temporal logic",
+   "Formal specification",
+   "Operating system"
+  ],
+  "10.1109/icse48619.2023.00030": [
+   "controller synthesis",
+   "guarantees",
+   "reachable state space",
+   "memory efficiency"
+  ],
+  "10.1109/icse48619.2023.00071": [
+   "reactive synthesis",
+   "temporal logic specifications",
+   "specification writing",
+   "unrealizability",
+   "software engineering practices",
+   "specification quality"
+  ],
+  "10.1109/icse48619.2023.00113": [
+   "question answering",
+   "natural language requirements",
+   "requirements engineering",
+   "requirements inconsistency",
+   "large language models"
+  ],
+  "10.1109/icse55347.2025.00031": [
+   "goal conflict",
+   "requirements specification",
+   "conflict management",
+   "counter-strategies",
+   "priority setting"
+  ],
+  "10.1109/icsecs52883.2021.00022": [
+   "software requirements specification",
+   "requirement engineering"
+  ],
+  "10.1109/icsme46990.2020.00067": [
+   "natural language requirements",
+   "requirements engineering",
+   "ambiguity resolution",
+   "Stanford CoreNLP",
+   "software requirements specification"
+  ],
+  "10.1109/icsme58846.2023.00066": [
+   "specification-based testing",
+   "test case generation",
+   "software reengineering",
+   "source code annotation",
+   "randomized testing",
+   "satisfiability modulo theories",
+   "test data generation",
+   "preconditions",
+   "black-box testing",
+   "component software",
+   "software reuse"
+  ],
+  "10.1109/icsme58944.2024.00082": [
+   "large language models",
+   "GPT-4 Turbo",
+   "requirements engineering",
+   "software maintenance and evolution",
+   "prompting strategy",
+   "hallucination mitigation",
+   "requirements specification",
+   "BERTScore"
+  ],
+  "10.1109/icsme64153.2025.00063": [
+   "natural language requirements",
+   "large language models",
+   "explanation generation",
+   "in-context learning",
+   "industry needs",
+   "requirements engineering",
+   "ambiguity classification"
+  ],
+  "10.1109/icst69053.2026.00092": [
+   "Software",
+   "Production (economics)",
+   "Formal specification",
+   "Test (biology)",
+   "Formal methods",
+   "Formal verification",
+   "Keyword-driven testing",
+   "Automation"
+  ],
+  "10.1109/icstw58534.2023.00019": [
+   "behavior-driven development",
+   "model-based testing",
+   "test case generation",
+   "scenario composition",
+   "model composition",
+   "test suite completeness",
+   "test automation"
+  ],
+  "10.1109/ict4da59526.2023.10302263": [
+   "requirements engineering",
+   "natural language requirements",
+   "severity levels",
+   "software requirements specification",
+   "text classification"
+  ],
+  "10.1109/ictai59109.2023.00050": [
+   "Boolean satisfiability",
+   "bounded model checking",
+   "graph structure"
+  ],
+  "10.1109/icws55610.2022.00047": [
+   "signal temporal logic",
+   "runtime monitoring",
+   "constraint satisfaction",
+   "non-functional constraints"
+  ],
+  "10.1109/iisec69317.2026.11418443": [
+   "requirements coverage",
+   "large language models",
+   "retrieval-augmented generation",
+   "automated grading",
+   "Mistral-7B-Instruct",
+   "requirements engineering",
+   "requirements ambiguity",
+   "requirements traceability"
+  ],
+  "10.1109/ijcnn64981.2025.11228831": [
+   "cyber-physical systems",
+   "recurrent neural networks",
+   "temporal reasoning",
+   "safety verification",
+   "anomaly detection",
+   "symbolic model checking"
+  ],
+  "10.1109/ikt.2016.7777755": [
+   "Consistency (knowledge bases)",
+   "Computer science",
+   "Artificial intelligence"
+  ],
+  "10.1109/imcec66174.2025.11331621": [
+   "Context (archaeology)",
+   "Constraint (computer-aided design)",
+   "Cover (algebra)",
+   "Automatic Generation Control",
+   "Scenario testing",
+   "Software",
+   "Automatic test pattern generation",
+   "Control (management)",
+   "Test case"
+  ],
+  "10.1109/infoman.2019.8714682": [
+   "software requirements",
+   "natural language ambiguity",
+   "ambiguity detection",
+   "requirements engineering",
+   "requirements inconsistency",
+   "natural language processing",
+   "citation analysis",
+   "state of the art survey"
+  ],
+  "10.1109/intech.2016.7845070": [
+   "model checking",
+   "UML class diagrams",
+   "natural language processing",
+   "model verification",
+   "natural language requirements",
+   "requirements engineering"
+  ],
+  "10.1109/isctis65944.2025.11065246": [
+   "Computer science",
+   "Artificial intelligence",
+   "Natural language processing"
+  ],
+  "10.1109/isitia71267.2026.11642227": [
+   "Cluster analysis",
+   "Field (mathematics)",
+   "Feature (linguistics)",
+   "Intrusion detection system",
+   "De-escalation"
+  ],
+  "10.1109/isssr58837.2023.00032": [
+   "Computer science",
+   "Consistency (knowledge bases)",
+   "Formal verification",
+   "Tree traversal",
+   "Formal methods",
+   "Model checking",
+   "Scope (computer science)",
+   "Representation (politics)",
+   "Distributed computing",
+   "Theoretical computer science",
+   "Programming language"
+  ],
+  "10.1109/jiot.2021.3069943": [
+   "Computer science",
+   "Smart city",
+   "Semantics (computer science)",
+   "Temporal logic",
+   "Spatial analysis",
+   "Scale (ratio)",
+   "Real-time computing",
+   "Database",
+   "Internet of Things",
+   "Embedded system",
+   "Theoretical computer science",
+   "Remote sensing"
+  ],
+  "10.1109/jsyst.2014.2315597": [
+   "conflicting requirements",
+   "requirements engineering",
+   "pairwise comparison"
+  ],
+  "10.1109/kbei.2015.7436156": [
+   "Computer science",
+   "Unified Modeling Language",
+   "Programming language",
+   "Model checking",
+   "Consistency (knowledge bases)",
+   "Applications of UML",
+   "Formal verification",
+   "Formal methods",
+   "Formal specification",
+   "UML tool",
+   "State diagram",
+   "Finite-state machine",
+   "Theoretical computer science",
+   "Software engineering",
+   "Artificial intelligence",
+   "Software"
+  ],
+  "10.1109/kse68178.2025.11309478": [
+   "ISTAR",
+   "goal-oriented requirements engineering",
+   "temporal semantics",
+   "linear temporal logic",
+   "Event-B",
+   "formal specification",
+   "model transformation",
+   "requirements traceability",
+   "automated verification",
+   "stakeholder intentions"
+  ],
+  "10.1109/lics65433.2025.00009": [
+   "monads",
+   "effectful computations",
+   "Tripos",
+   "continuations",
+   "memoization"
+  ],
+  "10.1109/llm4code66737.2025.00020": [
+   "code documentation",
+   "metamorphic testing",
+   "search-based test generation",
+   "self-consistency"
+  ],
+  "10.1109/lra.2026.3662977": [
+   "Temporal logic",
+   "Predicate (mathematical logic)",
+   "Process (computing)",
+   "Robot",
+   "Predicate logic",
+   "Quality (philosophy)",
+   "Robotics"
+  ],
+  "10.1109/lra.2026.3667488": [
+   "robot safety",
+   "jailbreak attacks",
+   "hallucinations",
+   "chain-of-thought reasoning",
+   "adversarial attacks"
+  ],
+  "10.1109/mai69289.2026.11543780": [
+   "Consistency (knowledge bases)",
+   "Software",
+   "Requirements analysis",
+   "Software requirements specification",
+   "Software requirements",
+   "Key (lock)"
+  ],
+  "10.1109/mdat.2026.3670060": [
+   "large language models",
+   "hardware verification",
+   "RTL code generation",
+   "Verilog",
+   "domain-specific training",
+   "digital circuit design",
+   "code generation"
+  ],
+  "10.1109/micro.2018.00069": [
+   "Computer science",
+   "Correctness",
+   "Microarchitecture",
+   "Sequential consistency",
+   "Mathematical proof",
+   "Consistency (knowledge bases)",
+   "Programming language",
+   "Abstraction",
+   "Memory model",
+   "Parallel computing",
+   "Axiom",
+   "Consistency model",
+   "Shared memory",
+   "Artificial intelligence"
+  ],
+  "10.1109/mlcad65511.2025.11189178": [
+   "LASSO",
+   "large language models",
+   "formal property verification",
+   "system-on-chip verification",
+   "SystemVerilog assertions",
+   "retrieval-augmented generation",
+   "prompt refinement",
+   "bug detection",
+   "intellectual property blocks"
+  ],
+  "10.1109/mo2re66661.2025.00009": [
+   "large language models",
+   "behavior-driven development",
+   "string constraints",
+   "constraint satisfaction",
+   "email validation",
+   "SMT solvers",
+   "requirements engineering",
+   "test scenario generation"
+  ],
+  "10.1109/models-c68889.2025.00109": [
+   "ontology",
+   "model-based testing",
+   "model-based systems engineering",
+   "test design",
+   "semantic web technologies",
+   "semantic inconsistency",
+   "test methods",
+   "traceability",
+   "interoperability"
+  ],
+  "10.1109/models.2017.26": [
+   "view synthesis",
+   "alloys",
+   "explanation generation",
+   "architectural style",
+   "Boolean formulas",
+   "structural specifications",
+   "software architecture modeling"
+  ],
+  "10.1109/models.2017.35": [
+   "symbolic execution",
+   "scenario-based specification",
+   "reactive systems",
+   "counterexample generation"
+  ],
+  "10.1109/models.2019.00008": [
+   "acceptance criteria",
+   "requirements modeling",
+   "behavior-driven development",
+   "gherkin",
+   "UML",
+   "automated test generation",
+   "requirements engineering",
+   "model-based requirements engineering",
+   "financial software",
+   "agile software development"
+  ],
+  "10.1109/models58315.2023.00018": [
+   "requirements specification",
+   "safety-critical software",
+   "model-driven engineering",
+   "controlled natural language",
+   "requirements verification",
+   "software certification",
+   "requirements completeness",
+   "requirements ambiguity"
+  ],
+  "10.1109/ojcsys.2025.3625465": [
+   "temporal logic specifications",
+   "flow networks",
+   "mixed-integer linear programming",
+   "quadrupedal robots"
+  ],
+  "10.1109/rcis.2019.8876999": [
+   "privacy requirements",
+   "security requirements",
+   "conflict resolution",
+   "design patterns",
+   "requirements engineering",
+   "software development process"
+  ],
+  "10.1109/re.2015.7320403": [
+   "change impact analysis",
+   "natural language requirements",
+   "phrasal structure",
+   "requirements engineering",
+   "industrial case study"
+  ],
+  "10.1109/re.2015.7320418": [
+   "goal conflict resolution",
+   "stakeholder beliefs",
+   "rational argumentation",
+   "requirements engineering",
+   "socio-technical systems",
+   "national security system"
+  ],
+  "10.1109/re.2015.7320451": [
+   "natural language requirements specification",
+   "writing rules",
+   "requirements engineering",
+   "linguistic patterns"
+  ],
+  "10.1109/re.2016.12": [
+   "Computer science",
+   "Artifact (error)",
+   "Consistency (knowledge bases)",
+   "Software engineering",
+   "Process (computing)",
+   "Set (abstract data type)",
+   "Iterative and incremental development",
+   "Requirements analysis",
+   "Software requirements specification",
+   "System requirements specification",
+   "Human–computer interaction",
+   "Programming language",
+   "Software development",
+   "Artificial intelligence",
+   "Software",
+   "Software design"
+  ],
+  "10.1109/re.2017.27": [
+   "requirements analysis",
+   "ambiguity",
+   "argumentation theory",
+   "tacit knowledge",
+   "ambiguity detection"
+  ],
+  "10.1109/re.2017.38": [
+   "requirements specification",
+   "test case reduction",
+   "formalization of natural language",
+   "linear temporal logic",
+   "automotive software",
+   "requirements validation"
+  ],
+  "10.1109/re.2017.48": [
+   "System of systems",
+   "Computer science",
+   "Software deployment",
+   "Component (thermodynamics)",
+   "Identification (biology)",
+   "Risk analysis (engineering)",
+   "Requirements engineering",
+   "Systems engineering",
+   "Requirements analysis",
+   "Systems design",
+   "Software",
+   "Software engineering",
+   "Engineering",
+   "Business"
+  ],
+  "10.1109/re.2017.51": [
+   "Operationalization",
+   "Computer science",
+   "Ubiquitous computing",
+   "Usability",
+   "Context (archaeology)",
+   "Executable",
+   "Construct (python library)",
+   "Internet of Things",
+   "Computer security",
+   "Data science",
+   "Human–computer interaction",
+   "World Wide Web"
+  ],
+  "10.1109/re.2017.54": [
+   "requirements capture",
+   "requirements analysis",
+   "requirements completeness",
+   "requirements consistency",
+   "test case generation",
+   "requirements specification"
+  ],
+  "10.1109/re.2018.00037": [
+   "requirements engineering",
+   "K-means clustering",
+   "part-of-speech tagging"
+  ],
+  "10.1109/re.2019.00019": [
+   "requirements-based testing",
+   "requirements engineering",
+   "requirements completeness",
+   "requirements consistency",
+   "developer practices",
+   "software quality assurance"
+  ],
+  "10.1109/re.2019.00021": [
+   "Code smell",
+   "Use Case Diagram",
+   "Precision and recall",
+   "Natural language",
+   "Recall"
+  ],
+  "10.1109/re.2019.00033": [
+   "Computer science",
+   "Scalability",
+   "Requirements analysis",
+   "Flexibility (engineering)",
+   "Task (project management)",
+   "Requirements engineering",
+   "Non-functional requirement",
+   "Non-functional testing",
+   "Software requirements specification",
+   "Automotive industry",
+   "Distributed computing",
+   "Domain (mathematical analysis)",
+   "Software",
+   "Requirements management",
+   "Software system",
+   "Software development",
+   "Systems engineering",
+   "Programming language",
+   "Software design",
+   "Database",
+   "Engineering"
+  ],
+  "10.1109/re.2019.00040": [
+   "Consistency (knowledge bases)",
+   "Computer science",
+   "Interlocking",
+   "Formal methods",
+   "Formal verification",
+   "Formal specification",
+   "Domain (mathematical analysis)",
+   "Natural language",
+   "Constraint (computer-aided design)",
+   "Software requirements specification",
+   "Software engineering",
+   "Specification language",
+   "Requirements engineering",
+   "System requirements specification",
+   "Programming language",
+   "Reliability engineering",
+   "Engineering",
+   "Artificial intelligence",
+   "Software development",
+   "Software design",
+   "Software"
+  ],
+  "10.1109/re.2019.00058": [
+   "behavior-driven development",
+   "requirements engineering",
+   "software product lines",
+   "test automation",
+   "cloud-based framework",
+   "mass customization",
+   "software reuse",
+   "domain engineering",
+   "user requirements"
+  ],
+  "10.1109/re48521.2020.00065": [
+   "requirements analysis",
+   "gamification",
+   "requirements ambiguity",
+   "stakeholder engagement",
+   "gamification tools",
+   "user participation",
+   "requirements engineering",
+   "software requirements"
+  ],
+  "10.1109/re57278.2023.00029": [
+   "requirements consistency checking",
+   "structured English",
+   "natural language requirements",
+   "large language models",
+   "few-shot learning",
+   "SMT-based verification",
+   "Z3 solver",
+   "TCTL",
+   "scenario generation",
+   "requirements formalization",
+   "toolchain"
+  ],
+  "10.1109/re57278.2023.00042": [
+   "contract templates",
+   "controlled natural language",
+   "requirements engineering",
+   "contract verification",
+   "contract monitoring",
+   "conditionals"
+  ],
+  "10.1109/re57278.2023.00045": [
+   "inconsistency detection",
+   "natural language requirements",
+   "ChatGPT",
+   "requirements engineering",
+   "requirements quality",
+   "GPT-3.5"
+  ],
+  "10.1109/re59067.2024.00020": [
+   "natural language inference",
+   "requirements engineering",
+   "requirements classification",
+   "requirements analysis",
+   "large language models",
+   "transfer learning",
+   "zero-shot learning",
+   "probabilistic models"
+  ],
+  "10.1109/re59067.2024.00022": [
+   "large language models",
+   "requirements analysis",
+   "operationalization",
+   "automated reasoning",
+   "stakeholder needs"
+  ],
+  "10.1109/re59067.2024.00025": [
+   "in-context learning",
+   "requirements satisfaction",
+   "prompt engineering",
+   "chain-of-thought prompting",
+   "prompt tuning",
+   "natural language inference",
+   "privacy requirements",
+   "GDPR",
+   "mobile app privacy",
+   "GPT-4",
+   "GPT-3.5",
+   "requirements verification"
+  ],
+  "10.1109/re59067.2024.00027": [
+   "redundancy detection",
+   "requirements specification",
+   "timed automata",
+   "model checking",
+   "program analysis"
+  ],
+  "10.1109/re59067.2024.00056": [
+   "large language models",
+   "software requirements specification",
+   "requirements engineering"
+  ],
+  "10.1109/re63999.2025.00030": [
+   "satisfiability checking",
+   "natural language requirements",
+   "large language models",
+   "requirements verification"
+  ],
+  "10.1109/re63999.2025.00054": [
+   "software requirements specification",
+   "large language models",
+   "LLM agents",
+   "requirement extraction",
+   "requirements classification",
+   "prompt templates",
+   "modular architecture",
+   "hallucination mitigation",
+   "GPT-4o",
+   "Llama 3",
+   "DeepSeek-R1"
+  ],
+  "10.1109/re63999.2025.00062": [
+   "large language models",
+   "hybrid approach",
+   "clustering",
+   "rule-based clustering",
+   "security requirements",
+   "requirements engineering"
+  ],
+  "10.1109/re68928.2026.00024": [
+   "explainability requirements",
+   "quality attributes",
+   "requirements engineering",
+   "large language models",
+   "requirements engineering tools",
+   "requirements prioritization",
+   "developer interviews"
+  ],
+  "10.1109/re68928.2026.00025": [
+   "multi-agent systems",
+   "retrieval-augmented generation",
+   "requirements engineering",
+   "safety-critical systems"
+  ],
+  "10.1109/re68928.2026.00039": [],
+  "10.1109/reet.2018.00006": [
+   "requirements engineering",
+   "formal methods",
+   "undergraduate curriculum",
+   "software engineering education",
+   "decision tables",
+   "live sequence charts",
+   "syntax and semantics",
+   "vacuity"
+  ],
+  "10.1109/rew.2017.69": [
+   "requirements traceability",
+   "requirements coverage",
+   "version control",
+   "open source projects"
+  ],
+  "10.1109/rew53955.2021.00064": [
+   "Computer science",
+   "Animation",
+   "Domain (mathematical analysis)",
+   "Formal methods",
+   "Scope (computer science)",
+   "Software engineering",
+   "Formal specification",
+   "Consistency (knowledge bases)",
+   "Formal verification",
+   "Human–computer interaction",
+   "Programming language",
+   "Notation",
+   "Artificial intelligence",
+   "Computer graphics (images)"
+  ],
+  "10.1109/rew53955.2021.00076": [
+   "Computer science",
+   "Consistency (knowledge bases)",
+   "Software verification",
+   "Formal verification",
+   "Verification",
+   "Formal specification",
+   "Software requirements specification",
+   "Formal methods",
+   "System requirements specification",
+   "Functional verification",
+   "Runtime verification",
+   "Focus (optics)",
+   "Property (philosophy)",
+   "Verification and validation",
+   "High-level verification",
+   "Intelligent verification",
+   "Software",
+   "Software engineering",
+   "Software system",
+   "Programming language",
+   "Software construction",
+   "Engineering",
+   "Artificial intelligence"
+  ],
+  "10.1109/rew61692.2024.00019": [
+   "conversational AI",
+   "chatbots",
+   "virtual assistants",
+   "Rasa framework",
+   "requirements engineering",
+   "conflict resolution"
+  ],
+  "10.1109/rew66121.2025.00024": [
+   "large language models",
+   "elderly care system",
+   "embedded systems",
+   "hardware-software co-design",
+   "requirements traceability",
+   "requirements engineering automation"
+  ],
+  "10.1109/rtss.2014.22": [
+   "Bounded function",
+   "Computer science",
+   "Automaton",
+   "Theoretical computer science",
+   "Algorithm",
+   "Mathematics"
+  ],
+  "10.1109/saner-c67878.2026.00045": [
+   "Control (management)",
+   "Control system",
+   "Feedback loop",
+   "Key (lock)",
+   "Automation"
+  ],
+  "10.1109/saner67736.2026.00099": [],
+  "10.1109/seaa60479.2023.00017": [
+   "UML use cases",
+   "large language models",
+   "ChatGPT",
+   "functional specification",
+   "practitioner feedback",
+   "use case points",
+   "requirements engineering",
+   "echo"
+  ],
+  "10.1109/sedst.2015.7315275": [
+   "Computer science",
+   "Modular design",
+   "Controller (irrigation)",
+   "Process (computing)",
+   "Systems engineering",
+   "Requirements management",
+   "Identification (biology)",
+   "Requirements elicitation",
+   "Grid",
+   "Tracing",
+   "Process management",
+   "Requirements engineering",
+   "Risk analysis (engineering)",
+   "Software engineering",
+   "Engineering"
+  ],
+  "10.1109/sibircon48586.2019.8958119": [
+   "Computer science",
+   "Consistency (knowledge bases)",
+   "Semantics (computer science)",
+   "Ontology",
+   "Temporal logic",
+   "Linear temporal logic",
+   "Set (abstract data type)",
+   "Formal specification",
+   "Event (particle physics)",
+   "Formal methods",
+   "Class (philosophy)",
+   "Programming language",
+   "Theoretical computer science",
+   "Artificial intelligence"
+  ],
+  "10.1109/smartworld.2018.00069": [
+   "Voting",
+   "Computer science",
+   "Descriptive statistics",
+   "Questionnaire",
+   "Test (biology)",
+   "Power (physics)",
+   "Statistics",
+   "Mathematics",
+   "Political science"
+  ],
+  "10.1109/sp46214.2022.9833721": [
+   "smart contract security",
+   "Ethereum smart contracts",
+   "reentrancy attacks",
+   "symbolic execution",
+   "over-approximation",
+   "bug detection"
+  ],
+  "10.1109/syscon.2015.7116735": [
+   "Computer science",
+   "Test suite",
+   "Dependability",
+   "Model-based testing",
+   "Automotive industry",
+   "Test case",
+   "Code coverage",
+   "Reliability engineering",
+   "Reachability",
+   "Software",
+   "Programming language",
+   "Algorithm",
+   "Software engineering",
+   "Machine learning",
+   "Engineering"
+  ],
+  "10.1109/sysmart.2018.8746963": [
+   "Systems development life cycle",
+   "Computer science",
+   "Software engineering",
+   "Software development process",
+   "Software development",
+   "Software requirements",
+   "Requirements engineering",
+   "Requirement",
+   "Ambiguity",
+   "Software construction",
+   "Software",
+   "Programming language"
+  ],
+  "10.1109/tac.2020.2979392": [
+   "Realizability",
+   "Resistor",
+   "Series (stratigraphy)",
+   "Electrical impedance",
+   "Realization (probability)",
+   "Equivalent impedance transforms",
+   "Control theory (sociology)",
+   "Element (criminal law)",
+   "Series and parallel circuits",
+   "Corollary",
+   "Mathematics",
+   "Computer science",
+   "Topology (electrical circuits)",
+   "Algorithm",
+   "Engineering",
+   "Control (management)",
+   "Discrete mathematics",
+   "Electrical engineering",
+   "Combinatorics",
+   "Voltage"
+  ],
+  "10.1109/tac.2025.3627272": [
+   "signal temporal logic",
+   "task decomposition",
+   "multi-agent systems",
+   "communication range constraints",
+   "task graphs",
+   "communication topology",
+   "task reassignment",
+   "state feedback control"
+  ],
+  "10.1109/tcad.2025.3551658": [
+   "Model checking",
+   "Computer science",
+   "Programming language"
+  ],
+  "10.1109/tccn.2026.3717937": [
+   "Temporal logic",
+   "Natural language",
+   "Translation (biology)",
+   "SIGNAL (programming language)",
+   "Linear temporal logic",
+   "Signal processing",
+   "Formal specification"
+  ],
+  "10.1109/tip.2025.3553290": [
+   "visual grounding"
+  ],
+  "10.1109/tits.2023.3324022": [
+   "safety requirements",
+   "consistency checking",
+   "formal methods",
+   "domain experts",
+   "railway signaling",
+   "natural language requirements",
+   "safety-critical systems",
+   "expert communication",
+   "modular systems"
+  ],
+  "10.1109/tits.2024.3418864": [
+   "safety requirements",
+   "requirements consistency checking",
+   "railway systems",
+   "CCSL",
+   "causal relationship",
+   "graph search",
+   "scalability",
+   "formal methods"
+  ],
+  "10.1109/tits.2026.3688663": [
+   "autonomous vehicles",
+   "signal temporal logic",
+   "large language models",
+   "knowledge graphs",
+   "chain-of-thought reasoning",
+   "time constraints",
+   "compliance verification",
+   "LLM hallucination mitigation"
+  ],
+  "10.1109/tkde.2026.3718295": [
+   "large language models",
+   "retrieval-augmented generation",
+   "temporal reasoning",
+   "question decomposition",
+   "hallucination mitigation",
+   "factual consistency",
+   "time constraints"
+  ],
+  "10.1109/tmc.2022.3179290": [
+   "signal temporal logic",
+   "runtime monitoring",
+   "constraint satisfaction",
+   "temporal and spatial constraints",
+   "energy constraints",
+   "capacity constraints",
+   "IoT devices"
+  ],
+  "10.1109/tpds.2025.3533546": [
+   "replicated data types",
+   "weak consistency",
+   "causal memory",
+   "PRAM",
+   "partially ordered sets"
+  ],
+  "10.1109/tps-isa67132.2025.00016": [
+   "industrial control systems",
+   "cyber-physical security",
+   "attack detection",
+   "online monitoring",
+   "signal temporal logic",
+   "monotonicity preservation",
+   "auto-tuning",
+   "internal model control",
+   "PID controller tuning",
+   "system recovery",
+   "Tennessee Eastman process",
+   "fault detection"
+  ],
+  "10.1109/tse.2015.2428709": [
+   "requirements templates",
+   "conformance checking",
+   "natural language requirements",
+   "pattern matching",
+   "requirements engineering"
+  ],
+  "10.1109/tse.2016.2622264": [
+   "requirements traceability",
+   "software quality",
+   "defect rate",
+   "requirements engineering",
+   "open source software",
+   "software defects"
+  ],
+  "10.1109/tse.2020.2989506": [
+   "Computer science",
+   "Correctness",
+   "Programming language",
+   "Software product line",
+   "Set (abstract data type)",
+   "Modeling language",
+   "Property (philosophy)",
+   "Product (mathematics)",
+   "Model checking",
+   "Satisfiability",
+   "Software",
+   "Theoretical computer science",
+   "Process (computing)",
+   "Software engineering",
+   "Software development",
+   "Mathematics"
+  ],
+  "10.1109/tse.2020.2998503": [
+   "Computer science",
+   "Executable",
+   "Test case",
+   "Software requirements specification",
+   "Acceptance testing",
+   "Software engineering",
+   "Test script",
+   "System under test",
+   "Conformance testing",
+   "Test Management Approach",
+   "Test (biology)",
+   "Formal specification",
+   "Reliability engineering",
+   "Software",
+   "Software system",
+   "Programming language",
+   "Machine learning",
+   "Software construction"
+  ],
+  "10.1109/tse.2020.2999884": [
+   "Computer science",
+   "Oracle",
+   "Test case",
+   "Test Management Approach",
+   "Formal specification",
+   "White-box testing",
+   "Keyword-driven testing",
+   "Test script",
+   "Workload",
+   "Test (biology)",
+   "Model-based testing",
+   "Programming language",
+   "Reliability engineering",
+   "Software",
+   "Software development",
+   "Machine learning",
+   "Operating system",
+   "Software construction"
+  ],
+  "10.1109/tse.2021.3109842": [
+   "uniform random sampling",
+   "statistical model checking",
+   "bounded model checking",
+   "random testing"
+  ],
+  "10.1109/tse.2023.3254142": [
+   "autonomous driving",
+   "software testing",
+   "high-fidelity simulators",
+   "CARLA",
+   "Apollo",
+   "fuzzing",
+   "coverage criteria",
+   "robustness metrics",
+   "lane changing",
+   "intersections",
+   "open-source software evaluation"
+  ],
+  "10.1109/tse.2025.3530820": [
+   "Computer science",
+   "Completeness (order theory)",
+   "Consistency (knowledge bases)",
+   "Programming language",
+   "Formal verification",
+   "Software engineering",
+   "Theoretical computer science",
+   "Data mining",
+   "Artificial intelligence"
+  ],
+  "10.1109/tse.2025.3613507": [
+   "requirements completeness",
+   "natural language requirements",
+   "large language models",
+   "chain-of-thought prompting",
+   "requirements engineering"
+  ],
+  "10.1109/tse.2026.3670612": [
+   "large language models",
+   "user stories",
+   "requirements analysis",
+   "requirements engineering",
+   "customer interviews",
+   "agile software development",
+   "acceptance criteria",
+   "human vs LLM comparison"
+  ],
+  "10.1109/tse.2026.3682711": [
+   "Modeling language",
+   "Data modeling",
+   "Natural language",
+   "Key (lock)"
+  ],
+  "10.1109/tse.2026.3731191": [
+   "large language models",
+   "metamorphic testing",
+   "temporal logic",
+   "temporal reasoning",
+   "test case generation",
+   "LLM benchmarking"
+  ],
+  "10.1109/vst.2018.8327149": [
+   "Computer science",
+   "Development (topology)",
+   "Programming language",
+   "Software engineering",
+   "Mathematics"
+  ],
+  "10.1109/vts69484.2026.11563380": [
+   "large language models",
+   "polynomial inequalities",
+   "automated verification"
+  ],
+  "10.11113/aej.v15.24306": [
+   "quality assessment framework",
+   "requirement elicitation",
+   "InVEST",
+   "ISO/IEC 25010",
+   "generative AI",
+   "requirements engineering"
+  ],
+  "10.1115/detc2022-90002": [
+   "Computer science",
+   "Design language",
+   "Architecture",
+   "Natural language",
+   "Programming language",
+   "Usability",
+   "Software engineering",
+   "Architecture description language",
+   "Formal methods",
+   "Formal specification",
+   "Object language",
+   "Enterprise architecture framework",
+   "Artificial intelligence",
+   "Software architecture",
+   "Human–computer interaction",
+   "Software"
+  ],
+  "10.1115/detc2024-139583": [
+   "system requirements",
+   "natural language processing",
+   "rule-based analysis",
+   "verifiability",
+   "software architecture design"
+  ],
+  "10.1115/detc2025-169003": [
+   "team size",
+   "requirements completeness",
+   "requirements analysis",
+   "requirements specification",
+   "stakeholder needs"
+  ],
+  "10.1142/s0218194022500061": [
+   "Probabilistic CTL",
+   "Model checking",
+   "Computation tree logic",
+   "Probabilistic logic",
+   "Decidability",
+   "Computer science",
+   "Theoretical computer science",
+   "Temporal logic",
+   "Computation",
+   "Algorithm",
+   "Probabilistic analysis of algorithms",
+   "Artificial intelligence"
+  ],
+  "10.1142/s1793962324410162": [
+   "temporal modeling",
+   "use case modeling",
+   "temporal dependencies",
+   "Z3 solver",
+   "software reliability"
+  ],
+  "10.1142/s179396232550059x": [
+   "large language models",
+   "graph convolutional networks",
+   "temporal requirements",
+   "constraint analysis"
+  ],
+  "10.1145/2699697": [
+   "automatic model generation",
+   "natural language requirements",
+   "use case model",
+   "model-driven architecture",
+   "UML class diagrams",
+   "sequence diagrams",
+   "UML activity diagrams",
+   "requirements traceability",
+   "model transformation",
+   "requirements engineering education",
+   "industrial case study"
+  ],
+  "10.1145/2723742.2723761": [
+   "Computer science",
+   "Test-driven development",
+   "Test Management Approach",
+   "Test case",
+   "Software engineering",
+   "Coding (social sciences)",
+   "Test (biology)",
+   "Extreme programming",
+   "Software development",
+   "Code coverage",
+   "Sequence diagram",
+   "Software development process",
+   "Unified Modeling Language",
+   "Programming language",
+   "Software",
+   "Software construction",
+   "Machine learning"
+  ],
+  "10.1145/2801081.2801101": [
+   "Forward chaining",
+   "Computer science",
+   "Correctness",
+   "Eclipse",
+   "Expert system",
+   "Backward chaining",
+   "Consistency (knowledge bases)",
+   "Completeness (order theory)",
+   "Knowledge base",
+   "Event (particle physics)",
+   "Programming language",
+   "Knowledge-based systems",
+   "Data mining",
+   "Software engineering",
+   "Artificial intelligence",
+   "Inference engine",
+   "Mathematics"
+  ],
+  "10.1145/2830772.2830775": [
+   "concurrency",
+   "building envelope",
+   "test oracles",
+   "arms"
+  ],
+  "10.1145/2874774": [
+   "Decidability",
+   "Undecidable problem",
+   "Satisfiability",
+   "Rotation formalisms in three dimensions",
+   "Lemma (botany)",
+   "Discrete mathematics",
+   "Mathematics",
+   "Boolean satisfiability problem",
+   "Complexity class",
+   "Class (philosophy)",
+   "Computer science",
+   "Theoretical computer science",
+   "Algorithm",
+   "Time complexity",
+   "Artificial intelligence"
+  ],
+  "10.1145/2883817.2883847": [
+   "Computer science",
+   "Controller (irrigation)",
+   "SIGNAL (programming language)",
+   "Focus (optics)",
+   "High-level synthesis",
+   "Integer (computer science)",
+   "Algorithm",
+   "Control (management)",
+   "Control engineering",
+   "Embedded system",
+   "Engineering",
+   "Artificial intelligence",
+   "Programming language"
+  ],
+  "10.1145/2884781.2884838": [
+   "Risk analysis (engineering)",
+   "Computer science",
+   "Obstacle",
+   "Completeness (order theory)",
+   "Identification (biology)",
+   "Requirements analysis",
+   "Risk management",
+   "Software",
+   "Domain (mathematical analysis)",
+   "Mathematics"
+  ],
+  "10.1145/2897022.2897031": [
+   "requirements engineering",
+   "test automation",
+   "test requirements",
+   "test cases",
+   "requirements completeness",
+   "requirements consistency"
+  ],
+  "10.1145/2950290.2950346": [
+   "Soundness",
+   "Computer science",
+   "Mathematical proof",
+   "Traceability",
+   "Completeness (order theory)",
+   "Construct (python library)",
+   "Theoretical computer science",
+   "Axiom",
+   "Set (abstract data type)",
+   "Algorithm",
+   "Programming language",
+   "Mathematics",
+   "Software engineering"
+  ],
+  "10.1145/2970276.2970349": [
+   "Satisfiability",
+   "Computer science",
+   "Boundary (topology)",
+   "Set (abstract data type)",
+   "Domain (mathematical analysis)",
+   "Work (physics)",
+   "Theoretical computer science",
+   "Programming language",
+   "Mathematics",
+   "Engineering"
+  ],
+  "10.1145/2976767.2976774": [
+   "Computer science",
+   "Unified Modeling Language",
+   "Programming language",
+   "Generalization",
+   "Key (lock)",
+   "Object Constraint Language",
+   "Class diagram",
+   "Class (philosophy)",
+   "Theoretical computer science",
+   "Applications of UML",
+   "Artificial intelligence",
+   "Software",
+   "Mathematics"
+  ],
+  "10.1145/3001835": [
+   "Mathematics",
+   "Boolean function",
+   "Satisfiability",
+   "Boolean satisfiability problem",
+   "Discrete mathematics",
+   "Boolean circuit",
+   "Maximum satisfiability problem",
+   "Combinatorics",
+   "Graph"
+  ],
+  "10.1145/3001886.3001889": [
+   "Computer science",
+   "Programming language"
+  ],
+  "10.1145/3019612.3019787": [
+   "Correctness",
+   "Computer science",
+   "Consistency (knowledge bases)",
+   "Model checking",
+   "Formal verification",
+   "Set (abstract data type)",
+   "Consistency model",
+   "Formal methods",
+   "Fault tree analysis",
+   "Programming language",
+   "Reliability engineering",
+   "Artificial intelligence",
+   "Engineering"
+  ],
+  "10.1145/3019612.3019827": [
+   "Soundness",
+   "Computer science",
+   "Lossy compression",
+   "TRACE (psycholinguistics)",
+   "Linear temporal logic",
+   "Temporal logic",
+   "Real-time computing",
+   "Programming language",
+   "Formal verification",
+   "Artificial intelligence"
+  ],
+  "10.1145/3037697.3037723": [
+   "Litmus",
+   "Computer science",
+   "Memory model",
+   "Test suite",
+   "Suite",
+   "Consistency (knowledge bases)",
+   "Programming language",
+   "Compiler",
+   "Test case",
+   "Artificial intelligence",
+   "Shared memory",
+   "Parallel computing",
+   "Machine learning"
+  ],
+  "10.1145/3049797.3054970": [],
+  "10.1145/3092703.3092712": [
+   "Computer science",
+   "Oracle",
+   "Viewport",
+   "Consistency (knowledge bases)",
+   "Web page",
+   "Web application",
+   "World Wide Web",
+   "Information retrieval",
+   "Software engineering",
+   "Artificial intelligence"
+  ],
+  "10.1145/3092703.3092723": [
+   "decentralized monitoring",
+   "automata",
+   "monitoring algorithm",
+   "algorithm analysis",
+   "simulation framework"
+  ],
+  "10.1145/3102980.3102994": [
+   "Consistency (knowledge bases)",
+   "Consistency model",
+   "Computer science",
+   "Weak consistency",
+   "Eventual consistency",
+   "Oracle",
+   "Data consistency",
+   "Strong consistency",
+   "Causal consistency",
+   "Sequential consistency",
+   "Distributed computing",
+   "Software",
+   "Partition (number theory)",
+   "Programming language",
+   "Theoretical computer science",
+   "Mathematics",
+   "Artificial intelligence"
+  ],
+  "10.1145/3106195.3106209": [
+   "Computer science",
+   "Consistency (knowledge bases)",
+   "Software product line",
+   "Set (abstract data type)",
+   "Data mining",
+   "Process (computing)",
+   "Slicing",
+   "Software",
+   "Programming language",
+   "Software development",
+   "Artificial intelligence"
+  ],
+  "10.1145/3106237.3106240": [
+   "counter-strategies",
+   "symbolic representation",
+   "invariants",
+   "LTL",
+   "autonomous robots"
+  ],
+  "10.1145/3106237.3106296": [
+   "Computer science",
+   "Identification (biology)",
+   "Order (exchange)",
+   "Software",
+   "Code (set theory)",
+   "Source code",
+   "Conflict analysis",
+   "Conflict resolution",
+   "Distributed computing",
+   "Programming language",
+   "Political science",
+   "Business"
+  ],
+  "10.1145/3137003.3137005": [
+   "Computer science",
+   "Set (abstract data type)",
+   "Service (business)",
+   "Computer security",
+   "Embedded system",
+   "Internet of Things",
+   "Business"
+  ],
+  "10.1145/3147451": [
+   "Debugging",
+   "Computer science",
+   "Algorithmic program debugging",
+   "Programming language",
+   "Formal specification",
+   "Formal verification",
+   "Software engineering",
+   "Formal methods"
+  ],
+  "10.1145/3158113": [
+   "Computer science",
+   "Correctness",
+   "Satisfiability",
+   "Data structure",
+   "Concurrent data structure",
+   "Leverage (statistics)",
+   "Boolean satisfiability problem",
+   "Enumeration",
+   "Data type",
+   "Theoretical computer science",
+   "Queue",
+   "Algorithm",
+   "Parallel computing",
+   "Discrete mathematics",
+   "Programming language",
+   "Mathematics"
+  ],
+  "10.1145/3180155.3180261": [
+   "Computer science",
+   "Abstraction",
+   "Set (abstract data type)",
+   "Conflict analysis",
+   "Conflict resolution",
+   "Risk analysis (engineering)",
+   "Control (management)",
+   "Management science",
+   "Artificial intelligence",
+   "Engineering",
+   "Political science"
+  ],
+  "10.1145/3183628.3183630": [
+   "Computer science",
+   "Correctness",
+   "Consistency (knowledge bases)",
+   "Model checking",
+   "Consistency model",
+   "Formal verification",
+   "Programming language",
+   "Satisfiability",
+   "USable",
+   "Set (abstract data type)",
+   "Software engineering",
+   "Theoretical computer science",
+   "Artificial intelligence"
+  ],
+  "10.1145/3195538.3195545": [
+   "Software requirements specification",
+   "Computer science",
+   "Ambiguity",
+   "Context (archaeology)",
+   "Software development",
+   "Software requirements",
+   "Set (abstract data type)",
+   "Process (computing)",
+   "Formal specification",
+   "Feature (linguistics)",
+   "Requirements analysis",
+   "Software development process",
+   "Requirement prioritization",
+   "Software",
+   "Data mining",
+   "Requirement",
+   "Software construction",
+   "Programming language"
+  ],
+  "10.1145/3206213": [
+   "non-intrusive monitoring",
+   "sequence diagrams",
+   "root cause analysis",
+   "event coverage",
+   "detection rate",
+   "autonomous vehicles",
+   "cardiac pacemaker",
+   "hardware requirements"
+  ],
+  "10.1145/3238147.3238220": [
+   "goal-oriented requirements engineering",
+   "genetic algorithm",
+   "risk analysis"
+  ],
+  "10.1145/3243650": [
+   "TCP",
+   "UDP",
+   "network protocol specification",
+   "specification-based testing",
+   "test oracles",
+   "abstraction functions",
+   "HOL4",
+   "higher-order logic",
+   "operational semantics",
+   "non-determinism",
+   "symbolic model checking",
+   "protocol interoperability"
+  ],
+  "10.1145/3290364": [
+   "symbolic model checking",
+   "cyber-physical systems",
+   "refutational completeness",
+   "satisfiability modulo theories",
+   "continuous-time signals",
+   "program verification"
+  ],
+  "10.1145/3299771.3299774": [
+   "natural language parsing",
+   "part-of-speech tagging",
+   "thematic roles",
+   "requirements engineering"
+  ],
+  "10.1145/3302504.3311800": [
+   "signal temporal logic",
+   "cyber-physical systems",
+   "safety and security",
+   "formal verification",
+   "formal validation",
+   "robustness analysis"
+  ],
+  "10.1145/3305160.3305166": [
+   "requirements defects",
+   "requirements inconsistency",
+   "automated validation",
+   "requirements engineering",
+   "scalability",
+   "fault prediction"
+  ],
+  "10.1145/3341105.3374028": [
+   "natural language requirements",
+   "Petri nets",
+   "static analysis",
+   "dynamic analysis",
+   "requirements engineering"
+  ],
+  "10.1145/3350768.3350782": [
+   "RSS",
+   "Requirements elicitation",
+   "Computer science",
+   "Requirements management",
+   "Software requirements specification",
+   "Requirements analysis",
+   "Non-functional testing",
+   "Quality (philosophy)",
+   "Quality of analytical results",
+   "System requirements",
+   "System requirements specification",
+   "Functional requirement",
+   "Verifiable secret sharing",
+   "Non-functional requirement",
+   "Business requirements",
+   "Requirement",
+   "Requirements engineering",
+   "Reliability engineering",
+   "Software engineering",
+   "Software",
+   "Quality management system",
+   "Engineering",
+   "Quality management",
+   "Software design",
+   "Software system",
+   "Software development",
+   "World Wide Web",
+   "Operations management",
+   "Programming language",
+   "Business process",
+   "Work in process"
+  ],
+  "10.1145/3350768.3351301": [
+   "quality attributes",
+   "acceptance testing",
+   "requirements quality",
+   "quality checklist",
+   "requirements engineering"
+  ],
+  "10.1145/3355181": [
+   "runtime monitoring",
+   "monitorability",
+   "decentralized algorithms",
+   "algorithm comparison"
+  ],
+  "10.1145/3360607": [
+   "Computer science",
+   "Haskell",
+   "Property (philosophy)",
+   "Predicate (mathematical logic)",
+   "Control flow",
+   "Executable",
+   "Programming language",
+   "Extension (predicate logic)",
+   "Theoretical computer science",
+   "Algorithm",
+   "Test case",
+   "Functional programming",
+   "Machine learning",
+   "Software"
+  ],
+  "10.1145/3362098": [
+   "cyber-physical systems",
+   "controller validation",
+   "metric interval temporal logic",
+   "timing properties",
+   "closed-loop systems",
+   "model-based control design",
+   "synchronization"
+  ],
+  "10.1145/3368089.3409669": [
+   "Computer science",
+   "Model checking",
+   "Fragment (logic)",
+   "Context (archaeology)",
+   "Programming language",
+   "Theoretical computer science"
+  ],
+  "10.1145/3372020.3391557": [
+   "Consistency (knowledge bases)",
+   "Computer science",
+   "Set (abstract data type)",
+   "Programming language",
+   "Specification language",
+   "Controller (irrigation)",
+   "Temporal logic",
+   "Rank (graph theory)",
+   "Theoretical computer science",
+   "Mathematics",
+   "Artificial intelligence"
+  ],
+  "10.1145/3385412.3385979": [
+   "decidability",
+   "linear integer arithmetic"
+  ],
+  "10.1145/3394979": [
+   "user requirements",
+   "task modeling",
+   "consistency checking",
+   "behavior-driven development",
+   "automated assessment",
+   "requirements modeling",
+   "scenario extraction",
+   "static analysis",
+   "interactive systems",
+   "requirements engineering"
+  ],
+  "10.1145/3397271.3401032": [
+   "recommendation explanation",
+   "explanation quality",
+   "explanation evaluation",
+   "evaluation metrics",
+   "transparency",
+   "persuasion",
+   "decision support",
+   "recommender systems"
+  ],
+  "10.1145/3431235.3431241": [
+   "system requirements specification",
+   "software requirements",
+   "formal verification",
+   "requirements traceability",
+   "safety-critical software"
+  ],
+  "10.1145/3441297": [
+   "system-on-chip security",
+   "RTL models",
+   "symbolic execution",
+   "model checking",
+   "state space explosion",
+   "runtime error detection"
+  ],
+  "10.1145/3447548.3467382": [
+   "Computer science",
+   "Artificial intelligence",
+   "Outlier",
+   "Machine learning",
+   "Anomaly detection",
+   "Domain knowledge",
+   "Artificial neural network",
+   "Bayesian probability",
+   "Class (philosophy)",
+   "Process (computing)",
+   "Data mining"
+  ],
+  "10.1145/3452383.3452388": [
+   "test case generation",
+   "cyber-physical systems",
+   "requirements modeling",
+   "test specifications",
+   "model completeness",
+   "edge coverage",
+   "requirements coverage",
+   "industrial software testing"
+  ],
+  "10.1145/3453483.3454104": [
+   "constrained Horn clauses",
+   "counterexample-guided synthesis",
+   "program verification"
+  ],
+  "10.1145/3457784.3457799": [
+   "conflicting requirements",
+   "requirements engineering",
+   "distributed software development",
+   "blockchain",
+   "model-driven engineering",
+   "meta-model",
+   "distributed development teams"
+  ],
+  "10.1145/3463274.3463807": [
+   "behavior-driven development",
+   "product owner",
+   "requirements specification"
+  ],
+  "10.1145/3485540": [
+   "Computer science",
+   "Static analysis",
+   "Symbolic execution",
+   "Solver",
+   "Data-flow analysis",
+   "Domain (mathematical analysis)",
+   "Semantics (computer science)",
+   "Security analysis",
+   "Completeness (order theory)",
+   "Symbolic data analysis",
+   "Value (mathematics)",
+   "Static program analysis",
+   "Theoretical computer science",
+   "Programming language",
+   "Data flow diagram",
+   "Software",
+   "Mathematics",
+   "Computer security",
+   "Machine learning",
+   "Software development"
+  ],
+  "10.1145/3486949.3486963": [
+   "controlled natural language",
+   "requirements specification",
+   "natural language requirements",
+   "requirements ambiguity",
+   "scope creep",
+   "formal verification",
+   "stakeholder communication"
+  ],
+  "10.1145/3519939.3523726": [
+   "counterexample-guided inductive synthesis",
+   "symbolic execution",
+   "recursive data types"
+  ],
+  "10.1145/3531706.3536463": [
+   "domain-specific languages",
+   "interaction scenarios",
+   "web-based graphical user interface",
+   "user requirements specification",
+   "behavior-driven development",
+   "gherkin",
+   "scenario consistency"
+  ],
+  "10.1145/3551349.3561163": [
+   "end-to-end learning",
+   "artificial neural networks",
+   "inductive bias",
+   "permutation invariance",
+   "sequentiality",
+   "formal verification",
+   "PSPACE-completeness"
+  ],
+  "10.1145/3569902.3570187": [
+   "SMT solvers",
+   "software model checking",
+   "abstraction refinement",
+   "Craig interpolation",
+   "unsatisfiable cores",
+   "safety-critical software"
+  ],
+  "10.1145/3571216": [
+   "Hoare logic",
+   "proof systems",
+   "over-approximation",
+   "imperative programs"
+  ],
+  "10.1145/3575693.3575750": [
+   "parallel program correctness"
+  ],
+  "10.1145/3576841.3585937": [
+   "signal temporal logic",
+   "partially synchronous systems",
+   "clock synchronization",
+   "clock drift",
+   "signal retiming",
+   "satisfiability modulo theories",
+   "continuous-time signals",
+   "water distribution systems"
+  ],
+  "10.1145/3583131.3590454": [
+   "linear temporal logic",
+   "reactive synthesis",
+   "semantic similarity",
+   "syntactic similarity",
+   "heuristic search"
+  ],
+  "10.1145/3597503.3639093": [
+   "satisfiability checking",
+   "requirements analysis",
+   "stakeholder elicitation",
+   "requirements conflicts",
+   "collaborative robots"
+  ],
+  "10.1145/3609134": [
+   "lingua franca",
+   "formal verification",
+   "bounded model checking",
+   "axiomatic model",
+   "safety properties",
+   "Z3 SMT solver"
+  ],
+  "10.1145/3622835": [
+   "first-order reasoning",
+   "SMT solvers",
+   "background theory",
+   "decidability",
+   "León"
+  ],
+  "10.1145/3639478.3639801": [
+   "Computer science",
+   "Ambiguity",
+   "Transformative learning",
+   "Decomposition",
+   "Process (computing)",
+   "Temporal logic",
+   "Obstacle",
+   "Scale (ratio)",
+   "Systems engineering",
+   "Distributed computing",
+   "Industrial engineering",
+   "Theoretical computer science",
+   "Programming language",
+   "Engineering"
+  ],
+  "10.1145/3641513.3650141": [
+   "Koopman operator",
+   "surrogate models",
+   "mixed-integer linear programming",
+   "black-box systems"
+  ],
+  "10.1145/3641554.3701875": [
+   "software testing education",
+   "computer science curriculum",
+   "student attitudes toward testing",
+   "unit testing"
+  ],
+  "10.1145/3643991.3644922": [
+   "requirements coverage",
+   "requirements refinement",
+   "safety-critical systems",
+   "requirements engineering",
+   "safety standards"
+  ],
+  "10.1145/3644033.3644373": [
+   "requirements capture",
+   "safety-critical systems",
+   "requirements consistency"
+  ],
+  "10.1145/3650212.3680308": [
+   "LLM-generated code",
+   "program selection",
+   "program correctness",
+   "HumanEval",
+   "MBPP"
+  ],
+  "10.1145/3650212.3680337": [
+   "trace generation",
+   "PSPACE-completeness",
+   "formal verification"
+  ],
+  "10.1145/3650212.3685304": [
+   "type annotations",
+   "abstract syntax tree",
+   "intermediate representation",
+   "SMT solvers",
+   "program verification"
+  ],
+  "10.1145/3660791": [
+   "program assertions",
+   "code comments",
+   "emergent capabilities",
+   "defect detection",
+   "Defects4J"
+  ],
+  "10.1145/3661167.3661225": [
+   "test maintainability",
+   "non-determinism",
+   "Ubuntu"
+  ],
+  "10.1145/3674636": [
+   "free theorems",
+   "realizability",
+   "input-output examples",
+   "search space pruning",
+   "automated reasoning"
+  ],
+  "10.1145/3676641.3716022": [
+   "kernel fuzzing",
+   "large language models",
+   "system call sequences",
+   "vulnerability detection",
+   "automated test generation"
+  ],
+  "10.1145/3689715": [
+   "regular tree grammars",
+   "program verification",
+   "program synthesis"
+  ],
+  "10.1145/3691620.3695035": [
+   "test oracles",
+   "constraint-based testing",
+   "soundness",
+   "precision",
+   "program verification",
+   "error location"
+  ],
+  "10.1145/3691620.3695302": [
+   "software requirements engineering",
+   "satisfiability modulo theories",
+   "SMT solvers"
+  ],
+  "10.1145/3691620.3695522": [
+   "proof verification",
+   "proof rules",
+   "normative requirements",
+   "software validation",
+   "safety-critical systems"
+  ],
+  "10.1145/3696630.3728599": [
+   "Theano",
+   "requirements consistency",
+   "requirements completeness",
+   "requirements verification",
+   "requirements engineering tools"
+  ],
+  "10.1145/3701625.3701635": [
+   "agile requirements engineering",
+   "agile software development",
+   "public companies"
+  ],
+  "10.1145/3701625.3701641": [
+   "anomaly detection",
+   "software requirements",
+   "tool comparison",
+   "requirements quality"
+  ],
+  "10.1145/3701625.3701672": [
+   "checklists",
+   "novice professionals",
+   "software testing",
+   "scenario writing"
+  ],
+  "10.1145/3711896.3736945": [
+   "evidential reasoning",
+   "misclassification detection",
+   "uncertainty estimation",
+   "subjective logic",
+   "noisy data"
+  ],
+  "10.1145/3717383.3717389": [
+   "natural language requirements",
+   "LLM comparison",
+   "requirements engineering",
+   "test automation",
+   "coverage metrics"
+  ],
+  "10.1145/3722573.3727829": [
+   "unknown unknowns",
+   "mode switching",
+   "simulation-based testing",
+   "enhanced sampling",
+   "time-varying uncertainty",
+   "Simulink",
+   "safety violation detection"
+  ],
+  "10.1145/3726302.3730173": [
+   "large language models",
+   "temporal logic",
+   "point algebra",
+   "chain-of-thought",
+   "time constraints",
+   "semantic search",
+   "temporal expressions"
+  ],
+  "10.1145/3728883": [
+   "incremental test",
+   "distributed systems",
+   "software evolution",
+   "abstract state space",
+   "test case generation",
+   "formal specification",
+   "test cost reduction"
+  ],
+  "10.1145/3729359": [
+   "human-in-the-loop testing",
+   "test suite generation",
+   "oracle problem",
+   "property-based testing",
+   "fuzzing",
+   "bug detection"
+  ],
+  "10.1145/3732772.3733514": [
+   "impossibility results",
+   "correctness properties",
+   "distributed systems monitoring"
+  ],
+  "10.1145/3744714": [
+   "temporal features",
+   "incremental query evaluation",
+   "model-driven engineering"
+  ],
+  "10.1145/3744916.3773109": [
+   "requirements analysis"
+  ],
+  "10.1145/3744916.3787819": [
+   "Constraint (computer-aided design)",
+   "Feature (linguistics)",
+   "Matching (statistics)",
+   "Set (abstract data type)",
+   "Satisfiability"
+  ],
+  "10.1145/3759917": [
+   "satisfiability checking",
+   "tableau method",
+   "cyber-physical systems"
+  ],
+  "10.1145/3764867": [
+   "smart contracts",
+   "code comments",
+   "contrastive learning",
+   "mutation analysis",
+   "heterogeneous graphs",
+   "call graph",
+   "CodeBERT",
+   "code embeddings",
+   "blockchain security"
+  ],
+  "10.1145/3779212.3790152": [
+   "Formal specification",
+   "Scope (computer science)",
+   "Mathematical proof",
+   "Semantics (computer science)",
+   "Consistency (knowledge bases)",
+   "Dependency (UML)",
+   "Formal verification",
+   "Completeness (order theory)"
+  ],
+  "10.1145/3786174.3788352": [
+   "Software",
+   "Key (lock)",
+   "Software development",
+   "Work (physics)"
+  ],
+  "10.1145/3786228.3786249": [
+   "Implementation",
+   "Coding (social sciences)",
+   "Task (project management)",
+   "Natural language",
+   "Ask price",
+   "Natural (archaeology)"
+  ],
+  "10.1145/3789240.3829191": [
+   "Firewall (physics)",
+   "Software",
+   "Outsourcing",
+   "Risk management"
+  ],
+  "10.1145/3793655.3793731": [
+   "Natural language",
+   "Specification language",
+   "Modeling language",
+   "Feature (linguistics)",
+   "Formal specification"
+  ],
+  "10.1145/3796563.3796606": [
+   "requirements specification",
+   "large language models",
+   "text generation",
+   "requirements engineering"
+  ],
+  "10.1145/3797074": [
+   "Pruning",
+   "Database transaction",
+   "Space (punctuation)",
+   "Heuristics",
+   "Key (lock)"
+  ],
+  "10.1145/3797115": [
+   "Oracle",
+   "Probabilistic logic",
+   "Natural language",
+   "Assertion",
+   "Task (project management)",
+   "Natural language understanding",
+   "Reliability (semiconductor)",
+   "JavaScript",
+   "Symbolic execution"
+  ],
+  "10.1145/3797552.3797669": [
+   "university student management",
+   "large language models",
+   "Neo4j",
+   "LangChain",
+   "entity relation extraction",
+   "training data generation",
+   "retrieval-augmented generation",
+   "natural language question answering",
+   "student counseling"
+  ],
+  "10.1145/3798164": [
+   "Test suite",
+   "Code coverage",
+   "Test case",
+   "Redundancy (engineering)",
+   "Initialization",
+   "Minification",
+   "Model-based testing",
+   "Scalability",
+   "Random testing"
+  ],
+  "10.1145/3798219": [
+   "API specification",
+   "false positive reduction"
+  ],
+  "10.1145/3798234": [
+   "reactive synthesis",
+   "fixed point computation",
+   "monotonicity",
+   "environment assumptions",
+   "specification development",
+   "heuristics"
+  ],
+  "10.1145/3800689": [
+   "large language models",
+   "static analysis",
+   "SMT-based verification",
+   "constraint extraction",
+   "API contracts",
+   "software maintainability"
+  ],
+  "10.1145/3803437.3805616": [
+   "Oracle",
+   "Workflow",
+   "Assertion",
+   "Test case",
+   "Test (biology)",
+   "Implementation",
+   "Software bug",
+   "Debugging",
+   "Test suite",
+   "Symbolic execution"
+  ],
+  "10.1145/3803437.3805790": [
+   "Academic integrity",
+   "Cheating",
+   "Coursework",
+   "Documentation",
+   "Academic dishonesty",
+   "Ambiguity",
+   "Engineering education",
+   "Qualitative research"
+  ],
+  "10.1145/3803633.3803662": [
+   "formal specification generation",
+   "airborne software",
+   "software testing",
+   "avionics software",
+   "specification-based testing"
+  ],
+  "10.1145/3804601.3804680": [
+   "MEDLINE",
+   "Context (archaeology)",
+   "Process (computing)",
+   "Field (mathematics)",
+   "Feature (linguistics)"
+  ],
+  "10.1145/3805689.3806759": [
+   "AI audit",
+   "AI lifecycle",
+   "stakeholder responsibility",
+   "maturity matrix",
+   "assurance reports",
+   "conflicts of interest",
+   "accountability",
+   "AI accountability",
+   "document tagging",
+   "expert validation"
+  ],
+  "10.1145/3808112": [
+   "smart contracts",
+   "developer intent",
+   "large language models",
+   "program analysis",
+   "differential analysis"
+  ],
+  "10.1145/3808248": [
+   "Atomicity",
+   "Serializability",
+   "Semaphore",
+   "Abstraction",
+   "Overhead (engineering)",
+   "Code (set theory)",
+   "Concurrency control",
+   "SCOOP"
+  ],
+  "10.1145/3812536": [
+   "Correctness",
+   "Comprehension",
+   "Empirical research",
+   "Program comprehension",
+   "Linear temporal logic",
+   "Temporal logic",
+   "Test (biology)",
+   "Empirical evidence"
+  ],
+  "10.1145/3816776": [
+   "remote monitoring and control",
+   "menu interface",
+   "consistency",
+   "completeness",
+   "feedback",
+   "reversibility",
+   "formal verification",
+   "usability engineering",
+   "remote care",
+   "safety assessment"
+  ],
+  "10.1145/3822455.3830324": [
+   "Python (programming language)",
+   "Scripting language",
+   "Redundancy (engineering)",
+   "Java",
+   "Source code",
+   "Android (operating system)",
+   "Debugging",
+   "Artifact (error)"
+  ],
+  "10.1155/2018/6854920": [
+   "use case diagrams",
+   "Z specification language",
+   "consistency checking",
+   "functional requirements",
+   "requirements quality",
+   "formal specification"
+  ],
+  "10.1155/2021/6616564": [
+   "software requirements specification",
+   "ambiguous requirements",
+   "controlled natural language",
+   "Resource Description Framework",
+   "RDF",
+   "SPARQL",
+   "requirements engineering"
+  ],
+  "10.1155/2022/3183411": [
+   "gamification",
+   "requirements ambiguity",
+   "requirements analysis",
+   "requirements engineering",
+   "user engagement",
+   "game elements",
+   "ambiguity reduction",
+   "stakeholder engagement",
+   "requirements inconsistency"
+  ],
+  "10.11591/ijece.v9i6.pp5436-5445": [
+   "ambiguity avoidance",
+   "requirements engineering",
+   "software requirements specification",
+   "stakeholder analysis"
+  ],
+  "10.1166/asl.2017.8235": [
+   "Usability",
+   "Requirements elicitation",
+   "Ontology",
+   "Computer science",
+   "Software engineering",
+   "Expert elicitation",
+   "Systems engineering",
+   "Human–computer interaction",
+   "Requirements analysis",
+   "Engineering",
+   "Programming language",
+   "Software",
+   "Mathematics"
+  ],
+  "10.1186/s13638-025-02523-3": [
+   "contradiction detection",
+   "telecommunications standards",
+   "small language models",
+   "reinforcement learning",
+   "Group Relative Policy Optimization",
+   "synthetic training data",
+   "specification verification",
+   "Internet of Things",
+   "interoperability",
+   "reward function design"
+  ],
+  "10.1186/s13677-020-00209-3": [
+   "signal temporal logic",
+   "Hilbert-style axiomatization",
+   "soundness and completeness",
+   "decidability",
+   "finite model property",
+   "canonical models",
+   "computational complexity"
+  ],
+  "10.1201/9781003685364-87": [
+   "wireless power transfer",
+   "vehicle-to-grid",
+   "grid-to-vehicle",
+   "vehicle-to-load",
+   "electric vehicles",
+   "solar energy integration",
+   "bidirectional energy flow",
+   "sustainable energy management",
+   "grid stability",
+   "renewable energy",
+   "EV charging and discharging"
+  ],
+  "10.14456/easr.2024.26": [],
+  "10.14569/ijacsa.2023.01408109": [
+   "test case generation",
+   "ontology engineering",
+   "controlled natural language",
+   "OWL ontologies",
+   "data dictionary",
+   "decision tree",
+   "natural language requirements",
+   "test coverage",
+   "library management systems"
+  ],
+  "10.14569/ijacsa.2026.0170457": [
+   "Ambiguity",
+   "Class (philosophy)",
+   "Feature (linguistics)",
+   "Support vector machine",
+   "Precision and recall",
+   "Software",
+   "Representation (politics)"
+  ],
+  "10.1504/ijhpcn.2015.071261": [
+   "requirements consistency",
+   "requirements engineering",
+   "natural language requirements",
+   "semantic verification",
+   "software quality attributes",
+   "completeness",
+   "inconsistency detection"
+  ],
+  "10.15439/2016f404": [
+   "Computer science",
+   "Consistency (knowledge bases)",
+   "Programming language",
+   "Model checking",
+   "Formal specification",
+   "Software engineering",
+   "Artificial intelligence"
+  ],
+  "10.15607/rss.2020.xvi.097": [
+   "linear temporal logic",
+   "imitation learning",
+   "Karush-Kuhn-Tucker conditions",
+   "nonlinear dynamical systems",
+   "quadrotor",
+   "robot manipulators"
+  ],
+  "10.1609/aaai.v33i01.33012946": [
+   "satisfiability checking",
+   "path finding"
+  ],
+  "10.1609/aaai.v35i9.16954": [
+   "Computer science",
+   "Artificial intelligence",
+   "Machine learning",
+   "Class (philosophy)",
+   "Artificial neural network",
+   "Task (project management)",
+   "Bayesian probability",
+   "Function (biology)",
+   "Bayesian network",
+   "Data mining"
+  ],
+  "10.1609/aaai.v36i4.20330": [
+   "temporal knowledge graphs",
+   "explainable AI",
+   "rule extraction",
+   "inductive learning",
+   "time consistency",
+   "event prediction",
+   "knowledge graph embedding"
+  ],
+  "10.1609/aaai.v37i5.25781": [
+   "monitoring",
+   "linear temporal logic",
+   "finite traces",
+   "linear arithmetic constraints",
+   "lookahead",
+   "decidability",
+   "undecidability",
+   "satisfiability",
+   "model checking"
+  ],
+  "10.1609/aaai.v40i23.38980": [
+   "Set (abstract data type)",
+   "Conjunctive normal form",
+   "Syntax",
+   "Propositional calculus",
+   "Propositional formula",
+   "Core (optical fiber)",
+   "Logic program",
+   "Stable model semantics",
+   "Conjunctive query",
+   "Disjunctive normal form"
+  ],
+  "10.1609/aaai.v40i23.38990": [
+   "minimal unsatisfiable subsets",
+   "answer set programming",
+   "satisfiability checking",
+   "explainable AI"
+  ],
+  "10.1609/aaai.v40i24.39032": [
+   "Task (project management)",
+   "Semantics (computer science)",
+   "Reinforcement learning",
+   "State (computer science)",
+   "Linear temporal logic",
+   "Expressive power",
+   "Temporal logic",
+   "Measure (data warehouse)"
+  ],
+  "10.1609/aaai.v40i3.37155": [
+   "Executable",
+   "Cognition",
+   "Natural language",
+   "Cognitive model",
+   "Rational analysis",
+   "Natural language understanding",
+   "Cognitive robotics"
+  ],
+  "10.1609/aaai.v40i38.40460": [
+   "Hallucinating",
+   "Temporal database",
+   "Abductive reasoning",
+   "Context (archaeology)",
+   "Temporal logic",
+   "Deductive reasoning",
+   "Language understanding",
+   "Reasoning system"
+  ],
+  "10.1609/aaai.v40i42.40875": [
+   "Preference",
+   "Construct (python library)",
+   "Consistency (knowledge bases)",
+   "Visual Hallucination",
+   "Sampling (signal processing)",
+   "Frame (networking)"
+  ],
+  "10.1613/jair.1.14260": [
+   "constraint satisfaction",
+   "explanation generation",
+   "minimal unsatisfiable subsets",
+   "domain-specific heuristics"
+  ],
+  "10.1613/jair.1.15313": [
+   "Computer science",
+   "Satisfiability",
+   "Leverage (statistics)",
+   "Implementation",
+   "Model checking",
+   "Set (abstract data type)",
+   "Theoretical computer science",
+   "Focus (optics)",
+   "Algorithm",
+   "Programming language",
+   "Artificial intelligence"
+  ],
+  "10.18280/isi.310425": [
+   "Artifact (error)",
+   "Pipeline (software)",
+   "Reverse engineering",
+   "Traceability",
+   "Unified Modeling Language",
+   "Preprocessor",
+   "Software",
+   "Precision and recall",
+   "False positive paradox"
+  ],
+  "10.18287/1613-0073-2019-2416-63-73": [
+   "requirements specification",
+   "OWL ontologies",
+   "production systems",
+   "requirements engineering",
+   "UDPipe",
+   "SWI-Prolog"
+  ],
+  "10.18517/ijaseit.10.4.10186": [
+   "software requirements specification",
+   "quality attributes",
+   "completeness",
+   "correctness",
+   "consistency",
+   "functional requirements",
+   "text similarity",
+   "CRUD operations",
+   "document structure"
+  ],
+  "10.18517/ijaseit.7.4-2.3409": [
+   "test case generation",
+   "requirements coverage",
+   "coverage criteria",
+   "transformation techniques",
+   "evaluation criteria",
+   "software testing",
+   "requirements engineering"
+  ],
+  "10.18653/v1/2024.findings-emnlp.384": [
+   "long video understanding",
+   "large language models",
+   "spatio-temporal reasoning",
+   "information sufficiency",
+   "prediction confidence",
+   "video question answering"
+  ],
+  "10.18653/v1/2025.acl-long.1068": [
+   "large language models",
+   "program semantics",
+   "specification synthesis",
+   "benchmark",
+   "loops",
+   "control flow",
+   "semantics-preserving transformations",
+   "prompting",
+   "failure patterns"
+  ],
+  "10.18653/v1/2025.acl-short.97": [
+   "temporal reasoning",
+   "temporal coherence",
+   "event ordering",
+   "temporal relations",
+   "large language models"
+  ],
+  "10.18653/v1/2025.findings-acl.441": [
+   "sentiment analysis",
+   "language varieties",
+   "English dialects",
+   "Australian English",
+   "Indian English",
+   "British English",
+   "benchmark",
+   "large language models",
+   "Reddit comments",
+   "multilingual models"
+  ],
+  "10.18653/v1/2025.findings-emnlp.1048": [
+   "Internet of Things",
+   "multi-agent systems",
+   "large language models",
+   "embedded operating systems",
+   "riots",
+   "Zephyr",
+   "program translation",
+   "benchmark"
+  ],
+  "10.18653/v1/2025.naacl-long.176": [
+   "large language models",
+   "formal verification",
+   "planning",
+   "formal methods"
+  ],
+  "10.18653/v1/2025.naacl-long.588": [
+   "large language models",
+   "question answering",
+   "coherence"
+  ],
+  "10.18653/v1/2026.eacl-srw.52": [
+   "Neutrality",
+   "Argument (complex analysis)",
+   "Measure (data warehouse)",
+   "Language model"
+  ],
+  "10.22667/jowua.2021.03.31.111": [],
+  "10.23638/lmcs-15(2:13)2019": [
+   "Temporal logic",
+   "Linear temporal logic",
+   "Metric (unit)",
+   "Computer science",
+   "Temporal logic of actions",
+   "Programming language",
+   "Interval temporal logic",
+   "Engineering",
+   "Operations management"
+  ],
+  "10.23919/fmcad.2017.8102238": [
+   "symbolic model checking",
+   "traceability",
+   "requirements completeness",
+   "fault tolerance analysis",
+   "algorithm efficiency"
+  ],
+  "10.23919/fmcad.2019.8894268": [
+   "Computer science",
+   "Model checking",
+   "Programming language",
+   "Embedded system"
+  ],
+  "10.24507/ijicic.21.04.973": [],
+  "10.24963/ijcai.2018/651": [
+   "Realizability",
+   "Reachability",
+   "Computer science",
+   "Bounded function",
+   "Duality (order theory)",
+   "Theoretical computer science",
+   "Mathematical optimization",
+   "Mathematics",
+   "Algorithm",
+   "Discrete mathematics"
+  ],
+  "10.24963/ijcai.2022/457": [
+   "recursive neural networks",
+   "permutation invariance",
+   "PSPACE-complete problems"
+  ],
+  "10.24963/ijcai.2025/1065": [
+   "emergency communication",
+   "signal temporal logic",
+   "large language models",
+   "run-time checks",
+   "quality assurance",
+   "formal verification",
+   "incident classification",
+   "emergency response"
+  ],
+  "10.24963/kr.2022/28": [
+   "multi-agent systems",
+   "realizability",
+   "verification",
+   "pure Nash equilibrium",
+   "nondeterministic finite automata",
+   "alternating finite automata",
+   "deterministic finite automata",
+   "temporal logic",
+   "computational complexity",
+   "EXPTIME-completeness",
+   "PSPACE-completeness"
+  ],
+  "10.24963/kr.2025/83": [
+   "safety shield",
+   "unrealizability",
+   "safe reinforcement learning",
+   "explanation",
+   "continuous environments"
+  ],
+  "10.29007/sxzb": [
+   "Enumeration",
+   "Domain (mathematical analysis)",
+   "Computer science",
+   "Set (abstract data type)",
+   "Constraint (computer-aided design)",
+   "Theoretical computer science",
+   "Algorithm",
+   "Discrete mathematics",
+   "Mathematics",
+   "Programming language"
+  ],
+  "10.3233/faia230394": [
+   "satisfiability checking",
+   "timed automata",
+   "multi-agent systems",
+   "model synthesis",
+   "dining philosophers problem",
+   "model checking"
+  ],
+  "10.3233/faia240905": [
+   "abstract argumentation",
+   "argumentation semantics"
+  ],
+  "10.3233/faia260829": [
+   "Argumentation theory",
+   "Semantics (computer science)",
+   "Extension (predicate logic)",
+   "Key (lock)",
+   "Argument (complex analysis)",
+   "Formal semantics (linguistics)",
+   "Argumentation framework"
+  ],
+  "10.3390/software1030010": [
+   "requirements engineering",
+   "requirements analysis",
+   "completeness",
+   "correctness",
+   "verifiability",
+   "traceability",
+   "learnability",
+   "maintainability",
+   "agile software development"
+  ],
+  "10.34190/ecgbl.19.1.4182": [
+   "serious games",
+   "AI-generated dialogue",
+   "large language models",
+   "non-player characters",
+   "persuasion",
+   "lateral thinking",
+   "game design requirements",
+   "dialogue coherence"
+  ],
+  "10.34727/2025/isbn.978-3-85448-084-6-18": [],
+  "10.34727/2025/isbn.978-3-85448-084-6-32": [],
+  "10.35940/ijitee.l3557.1081219": [
+   "stakeholder conflict",
+   "requirements gathering",
+   "requirements analysis",
+   "software requirements specification",
+   "goal-oriented requirements engineering",
+   "software development lifecycle",
+   "stakeholder goals"
+  ],
+  "10.37936/ecti-cit.2023171.248531": [],
+  "10.4018/978-1-5225-3923-0.ch039": [
+   "Computer science",
+   "Software development",
+   "Software engineering",
+   "Unified Modeling Language",
+   "UML tool",
+   "Programming language",
+   "Software construction",
+   "Applications of UML",
+   "Software development process",
+   "Software system",
+   "Software requirements specification",
+   "Consistency (knowledge bases)",
+   "Verification and validation",
+   "Software quality",
+   "Software",
+   "Engineering",
+   "Artificial intelligence"
+  ],
+  "10.4018/979-8-3373-6851-1.ch008": [
+   "Agile software development",
+   "Quality (philosophy)",
+   "User story",
+   "Analytics",
+   "Transformative learning",
+   "Dependency (UML)",
+   "Software",
+   "Agile usability engineering",
+   "Bespoke"
+  ],
+  "10.4018/ijertcs.409971": [
+   "Oracle",
+   "Pipeline (software)",
+   "Automation",
+   "Software development",
+   "Ambiguity",
+   "Software",
+   "Requirements analysis",
+   "Software development process",
+   "Test case"
+  ],
+  "10.4018/jitr.2018040105": [
+   "risk estimation",
+   "requirements analysis",
+   "software requirements",
+   "requirements validation",
+   "requirements capture",
+   "software failure",
+   "stakeholder conflict"
+  ],
+  "10.4204/eptcs.226.20": [
+   "Simple (philosophy)",
+   "Satisfiability",
+   "Temporal logic",
+   "Linear temporal logic",
+   "Propositional calculus",
+   "Boolean satisfiability problem"
+  ],
+  "10.4204/eptcs.226.21": [
+   "Realizability",
+   "Bounded function",
+   "Linear temporal logic",
+   "Upper and lower bounds",
+   "Exponential function",
+   "Mathematics",
+   "Temporal logic",
+   "Operator (biology)",
+   "PSPACE",
+   "Linear logic",
+   "Computer science",
+   "Algorithm",
+   "Mathematical optimization",
+   "Discrete mathematics",
+   "Theoretical computer science",
+   "Computational complexity theory"
+  ],
+  "10.4230/lipics.concur.2016.13": [
+   "hyperproperties",
+   "decidability",
+   "PSPACE-completeness",
+   "EXPSPACE-completeness",
+   "temporal logic",
+   "symmetry",
+   "implication"
+  ],
+  "10.4230/lipics.concur.2018.32": [
+   "satisfiability",
+   "finite satisfiability",
+   "decidability",
+   "computation tree logic",
+   "model checking"
+  ],
+  "10.4230/lipics.csl.2020.10": [
+   "Computer science",
+   "Computer network"
+  ],
+  "10.4230/lipics.csl.2020.29": [
+   "HyperLTL",
+   "satisfiability",
+   "decidability",
+   "bounded model checking",
+   "complexity bounds",
+   "information flow policies",
+   "non-interference"
+  ],
+  "10.4230/lipics.sand.2026.21": [
+   "Realizability",
+   "Bounded function",
+   "Vertex (graph theory)",
+   "Graph",
+   "Time complexity",
+   "Planar graph",
+   "Realization (probability)"
+  ],
+  "10.4230/lipics.time.2021.8": [
+   "linear temporal logic",
+   "satisfiability checking",
+   "SAT encoding",
+   "multi-agent systems",
+   "formal verification"
+  ],
+  "10.4230/lipics.time.2021.9": [
+   "PSPACE-completeness",
+   "finite satisfiability",
+   "model checking",
+   "homogeneity assumption",
+   "computational complexity",
+   "modal logic"
+  ],
+  "10.4230/lipics.time.2022.8": [],
+  "10.5220/0006217600150026": [
+   "conflicting requirements",
+   "statistical analysis",
+   "requirements engineering"
+  ],
+  "10.5220/0007679202650272": [
+   "model-based testing",
+   "acceptance testing",
+   "requirements specification",
+   "test specifications",
+   "interactive applications",
+   "model-to-model transformation",
+   "Robot Framework",
+   "test automation"
+  ],
+  "10.5220/0007683808690878": [
+   "model checking",
+   "temporal logic",
+   "probabilistic temporal logic",
+   "concurrent systems verification",
+   "spatial logic"
+  ],
+  "10.5220/0010421602130220": [
+   "inconsistency",
+   "requirements specification",
+   "textual requirements",
+   "requirements engineering",
+   "formal specification"
+  ],
+  "10.5220/0010526901580169": [
+   "requirements engineering",
+   "requirements conflicts",
+   "stakeholder needs",
+   "conflict resolution",
+   "clustering",
+   "requirements analysis"
+  ],
+  "10.5220/0010605703330341": [
+   "goal-oriented requirements engineering",
+   "conflict resolution",
+   "pragmatics",
+   "socio-technical systems",
+   "requirements engineering"
+  ],
+  "10.5220/0010803700003116": [
+   "Computer science",
+   "Semantics (computer science)",
+   "Model checking",
+   "CTL*",
+   "Programming language",
+   "Theoretical computer science",
+   "Chemistry"
+  ],
+  "10.5220/0012627200003687": [
+   "smart contracts",
+   "Solidity",
+   "bounded model checking",
+   "condition coverage",
+   "smart contract security",
+   "formal verification"
+  ],
+  "10.5220/0013257700003890": [
+   "CTL*",
+   "Satisfiability",
+   "Computer science",
+   "Model checking",
+   "Programming language",
+   "Theoretical computer science",
+   "Medicine"
+  ],
+  "10.5220/0013470600003929": [
+   "explainability requirements",
+   "requirements analysis",
+   "requirements documentation",
+   "requirements templates",
+   "health information systems",
+   "requirements completeness",
+   "requirements engineering",
+   "explainable systems"
+  ],
+  "10.5220/0014803300004015": [
+   "use case descriptions",
+   "automatic validation",
+   "quality standards",
+   "bad smells",
+   "natural language processing",
+   "large language models",
+   "software quality",
+   "requirements engineering"
+  ],
+  "10.5220/0014839900004015": [
+   "Component (thermodynamics)",
+   "Set (abstract data type)",
+   "Work (physics)",
+   "Feature (linguistics)",
+   "Production (economics)"
+  ],
+  "10.5220/0014927400004015": [
+   "large language models",
+   "requirements analysis",
+   "UML models",
+   "requirements engineering",
+   "model generation"
+  ],
+  "10.5381/jot.2020.19.3.a12": [
+   "Computer science",
+   "Programming language"
+  ],
+  "10.5815/ijmecs.2026.02.05": [
+   "Quality (philosophy)",
+   "Consistency (knowledge bases)",
+   "Software quality",
+   "McNemar's test",
+   "Software",
+   "Agile software development",
+   "Rubric",
+   "User experience design"
+  ],
+  "10.7717/peerj-cs.2229": [
+   "gamification",
+   "lexical ambiguity",
+   "natural language requirements",
+   "requirements engineering",
+   "requirements analysis",
+   "user engagement",
+   "polysemy",
+   "ambiguity detection",
+   "ambiguity reduction",
+   "requirements inspection"
+  ],
+  "10.7873/date.2015.0452": [
+   "natural language requirements",
+   "formal specification",
+   "temporal abstraction",
+   "realizability",
+   "synthesis",
+   "semantic reasoning",
+   "requirements engineering"
+  ]
+ },
+ "title": {
+  "analyzingconsistencyofformalrequirements": [
+   "requirements consistency",
+   "formal requirements",
+   "safety-critical embedded systems",
+   "formal specification languages"
+  ],
+  "anapproachsysmlbasedautomatedcompletenessevaluationofthesystemrequirementsspecification": [],
+  "applicationofnaturallanguageprocessingwithgqmandahpapproachesforrequirementsqualityassessment": [
+   "natural language processing",
+   "Goal Question Metric",
+   "analytic hierarchy process",
+   "requirements engineering",
+   "software requirements"
+  ],
+  "apreliminarystudychallengesincapturingsecurityrequirementsandconsistencycheckingbyrequirementengineers": [
+   "security requirements",
+   "requirement elicitation",
+   "consistency checking",
+   "secure software development",
+   "security standards",
+   "requirements validation",
+   "expert survey"
+  ],
+  "atoolfordetectingambiguityinsoftwarerequirementsspecification": [
+   "requirements ambiguity",
+   "software requirements specification",
+   "ambiguity detection",
+   "lexical ambiguity",
+   "syntactic ambiguity",
+   "part-of-speech tagging",
+   "natural language requirements",
+   "requirements engineering"
+  ],
+  "automatedcosmicmeasurementandrequirementqualityimprovementthroughscopemastertool": [
+   "COSMIC",
+   "software requirements specification",
+   "automated measurement",
+   "requirements engineering",
+   "software metrics"
+  ],
+  "automatedtestcasegenerationfromnaturallanguagerequirementsusingnaturallanguageprocessing": [],
+  "autorefgeneratingrefinementsofreviewsgivenguidelines": [
+   "LLM agents"
+  ],
+  "blackafastflexibleandreliableltlsatisfiabilitychecker": [
+   "linear temporal logic",
+   "bounded model checking",
+   "model checking tools",
+   "temporal logic verification"
+  ],
+  "cellularlintasystematicapproachtoidentifyinconsistentbehaviorincellularnetworkspecifications": [
+   "inconsistency detection",
+   "4G LTE",
+   "5G NR",
+   "protocol security",
+   "few-shot learning",
+   "natural language processing",
+   "semi-automated analysis",
+   "interoperability",
+   "security vulnerabilities"
+  ],
+  "characterizingtheexpressivityoffixedprecisiontransformerlanguagemodels": [
+   "linear temporal logic",
+   "past operators",
+   "formal language theory",
+   "automata theory",
+   "soft attention",
+   "positional encoding"
+  ],
+  "checkingmtlpropertiesoftimedautomatawithdensetimeusingsatisfiabilitymodulotheories": [],
+  "comparingllmbasedandmdebasedcodegenerationforagilemde": [
+   "large language models",
+   "model-driven engineering",
+   "code generation",
+   "UML",
+   "Object Constraint Language",
+   "fine-tuning",
+   "DeepSeek",
+   "Llama 2",
+   "agile software development",
+   "natural language specifications"
+  ],
+  "consistencyanalysisforuserrequirementsnotationmodels": [
+   "consistency analysis",
+   "user requirements",
+   "requirements modeling",
+   "model consistency"
+  ],
+  "controlledcomplexityforfuturemobilitymethodologyguidelinesandtooling": [
+   "future of mobility",
+   "complexity management",
+   "mobility systems",
+   "design guidelines",
+   "modeling tools"
+  ],
+  "copingwithinconsistentmodelsofrequirements": [
+   "requirements engineering",
+   "requirements modeling",
+   "model consistency",
+   "requirements management"
+  ],
+  "coveragemetricsforsecuritypropertyverificationanovelapproach": [],
+  "detectinginconsistenciesofnaturallanguagerequirementsinsatellitegroundsegmentdomain": [
+   "natural language requirements",
+   "ground segment",
+   "requirements engineering",
+   "software requirements"
+  ],
+  "efficientincreasingofthemutationscoreduringmodelbasedtestsuitegeneration": [
+   "mutation testing",
+   "model-based test generation",
+   "test suite generation",
+   "mutation score",
+   "path search algorithm"
+  ],
+  "evidentialdualunetsinglepassuncertaintyforcellinstancesegmentation": [
+   "cell instance segmentation",
+   "evidential deep learning",
+   "aleatoric uncertainty",
+   "epistemic uncertainty",
+   "multi-task learning",
+   "nuclei detection",
+   "digital pathology",
+   "uncertainty calibration"
+  ],
+  "exploringtheimpactofanalystknowledgeofsociotechnicalconceptsonrequirementsquestionnairesquality": [
+   "questionnaire quality",
+   "requirements analysis",
+   "requirements engineering"
+  ],
+  "extendingtheconsistencypropertyofsoftwaretransactionalmemorysystemswithbusinessconstraintsinoclandincrementalchecking": [
+   "software transactional memory",
+   "consistency",
+   "business constraints",
+   "Object Constraint Language"
+  ],
+  "grammarsofformaluncertaintywhentotrustllmsinautomatedreasoningtasks": [
+   "large language models",
+   "automated reasoning",
+   "formal verification",
+   "uncertainty quantification",
+   "satisfiability modulo theories",
+   "autoformalization",
+   "probabilistic context-free grammars",
+   "LLM failure modes",
+   "abstention",
+   "formal specification generation"
+  ],
+  "hemicareinhomehealthmonitoringforhemiplegia": [],
+  "identifyingfunctionalrequirementsinconsistenciesinmultiteamprojectsframedintoamodelbasedmethodology": [],
+  "justexhaustificationatwostagetheoryofexclusives": [],
+  "leviathananewltlsatisfiabilitycheckingtoolbasedonaonepasstreeshapedtableau": [
+   "linear temporal logic",
+   "satisfiability checking",
+   "tableau method",
+   "one-pass algorithms",
+   "model checking"
+  ],
+  "limitsforlearningwithlanguagemodels": [
+   "large language models",
+   "limits of learning",
+   "universal quantification",
+   "semantic entailment",
+   "consistency",
+   "formal semantics",
+   "Borel hierarchy",
+   "linguistic meaning",
+   "formal guarantees"
+  ],
+  "ltlfsatisfiabilitycheckingviaformulaprogression": [],
+  "masteringmultipleexpertroutingrealizablehconsistencyandstrongguaranteesforlearningtodefer": [
+   "learning to defer",
+   "surrogate loss functions",
+   "computational cost trade-off",
+   "natural language generation",
+   "learning guarantees"
+  ],
+  "measuringsoftwarerequirementsspecificationquality": [
+   "software requirements specification",
+   "quality metrics",
+   "requirements completeness",
+   "requirements consistency",
+   "automated quality evaluation",
+   "requirements engineering"
+  ],
+  "measuringthequalityofsystemspecificationsinusecasedrivenapproaches": [
+   "system specification",
+   "specification quality",
+   "quality measurement",
+   "requirements engineering",
+   "use cases"
+  ],
+  "modelcheckingbasedvssmtbasedconsistencyanalysisofindustrialembeddedsystemsrequirementsapplicationandexperience": [
+   "consistency analysis",
+   "system requirements",
+   "embedded systems",
+   "model checking",
+   "satisfiability modulo theories",
+   "sanity checks",
+   "formal methods",
+   "industry needs"
+  ],
+  "multifaceteduncertaintyestimationforlabelefficientdeeplearning": [
+   "uncertainty estimation",
+   "label-efficient learning",
+   "active learning",
+   "deep learning",
+   "Bayesian neural networks",
+   "label noise"
+  ],
+  "onthecomputationalandstatisticalcomplexityofoverparameterizedmatrixsensing": [
+   "low-rank matrix recovery",
+   "statistical complexity",
+   "computational complexity",
+   "random matrix theory"
+  ],
+  "onthesuperiorityofconflictdrivensearchinmusenumeration": [
+   "model enumeration",
+   "MaxSAT",
+   "CNF",
+   "search heuristics",
+   "satisfiability solving"
+  ],
+  "ontologybasedrequirementconflictsanalysisinclassdiagrams": [],
+  "optimalpolicygenerationforpartiallysatisfiablecosafeltlspecifications": [
+   "Markov decision process",
+   "robot task planning",
+   "stochastic systems"
+  ],
+  "partialconsistencyforrequirementengineeringwithtrafficsequencecharts": [
+   "requirement engineering",
+   "requirements consistency"
+  ],
+  "patternbaseddebuggingofdeclarativemodels": [
+   "declarative models",
+   "alloys",
+   "overconstraint",
+   "counterexample generation",
+   "defect localization",
+   "model constraints",
+   "dining philosophers problem",
+   "example generation"
+  ],
+  "properlossesregretatleast12order": [
+   "convergence rate",
+   "p-norm",
+   "probability estimation",
+   "forecasters",
+   "classification",
+   "ranking",
+   "risk minimization"
+  ],
+  "qualitybasedprioritizationanapproachforprioritizingsoftwarerequirements": [
+   "software requirements prioritization",
+   "Kano model",
+   "quality attributes",
+   "customer satisfaction",
+   "satisfaction index",
+   "stakeholder satisfaction",
+   "requirements engineering"
+  ],
+  "reducingcombinatorialtestingrequirementsbasedonequivalenceswithrespecttothecodeundertest": [
+   "combinatorial testing",
+   "code equivalence",
+   "test suite reduction",
+   "software testing"
+  ],
+  "requirementsqualityintheincrementaldesignprocessesproblemsandperspectives": [
+   "requirements quality",
+   "requirements engineering",
+   "boilerplate",
+   "ontology",
+   "semantic knowledge representation",
+   "semantic technologies",
+   "requirements consistency checking",
+   "requirements change"
+  ],
+  "resimautomateddetectionofduplicatedrequirementsinsoftwareengineeringprojects": [
+   "automated detection",
+   "requirements engineering"
+  ],
+  "rvllmllmruntimeverificationwithdomainknowledge": [
+   "large language models",
+   "runtime verification",
+   "domain knowledge",
+   "specification languages",
+   "English as a second language",
+   "violation detection",
+   "numerical comparison",
+   "solving inequalities"
+  ],
+  "samplingbasedbeliefrevision": [
+   "belief revision",
+   "AGM postulates",
+   "representation theorem",
+   "axiomatization",
+   "situation calculus",
+   "decision making under uncertainty",
+   "imperfect information games",
+   "belief sets"
+  ],
+  "satlmsatisfiabilityaidedlanguagemodelsusingdeclarativeprompting": [
+   "satisfiability",
+   "language models",
+   "constraint satisfaction",
+   "prompt engineering"
+  ],
+  "sketchesandnaturallanguageinagilemodeling": [],
+  "soundandcompleteneurosymbolicreasoningwithllmgroundedinterpretations": [
+   "neuro-symbolic reasoning",
+   "large language models",
+   "paraconsistent logic",
+   "soundness and completeness",
+   "formal semantics",
+   "factuality evaluation",
+   "GPQA"
+  ],
+  "specifyingweakmemoryconsistencywithtemporallogic": [
+   "temporal logic",
+   "memory models",
+   "concurrency"
+  ],
+  "testoftimeabenchmarkforevaluatingllmsontemporalreasoning": [
+   "temporal reasoning",
+   "large language models",
+   "synthetic dataset",
+   "benchmarking",
+   "temporal logic",
+   "factual consistency",
+   "evaluation framework"
+  ],
+  "textclassificationonsoftwarerequirementsspecificationsusingtransformermodels": [],
+  "tighterriskcertificatesforneuralnetworks": [
+   "PAC-Bayesian bounds",
+   "probabilistic neural network",
+   "training objectives",
+   "model selection",
+   "generalization bounds",
+   "MNIST",
+   "CIFAR-10"
+  ],
+  "towardsaspbasedminimalunsatisfiablecoresenumerationforltlf": [],
+  "towardslargelanguagemodelarchitecturesforknowledgeacquisitionandstrategysynthesis": [],
+  "towardsuserfriendlyandefficientanalysiswithalloy": [
+   "alloys",
+   "bounded verification",
+   "model-driven engineering",
+   "model consistency",
+   "model splitting",
+   "scalability",
+   "Alloy Analyzer"
+  ],
+  "uncertaintyawaregraphbasedmultimodalremotesensingdetectionofoutofdistributionsamples": [],
+  "uncertaintyawaresemisupervisedlearningongraphdata": [
+   "graph neural networks",
+   "node classification",
+   "out-of-distribution detection",
+   "misclassification detection",
+   "multi-source uncertainty",
+   "dissonance",
+   "vacuity",
+   "uncertainty quantification"
+  ],
+  "useofdomainontologiestoimproverequirementsquality": [
+   "domain ontology",
+   "requirements quality",
+   "requirements engineering"
+  ],
+  "userstoryqualityassessmentbasedonmultidimensionalperspectiveapreliminaryframework": [],
+  "voluminousyetvacuoussemanticcapitalinanageoflargelanguagemodels": [
+   "large language models",
+   "social epistemology",
+   "AI ethics",
+   "collective knowledge",
+   "human-AI collaboration",
+   "public perception of AI",
+   "Luciano Floridi",
+   "AI risks"
+  ]
+ }
+}

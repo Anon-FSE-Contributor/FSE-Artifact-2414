@@ -1,0 +1,321 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sanity in Software Requirements: Quo Vadis?</title>
+<style>
+  :root { --ink: #1d2733; --muted: #5d6878; --line: #dfe5ec; --link: #24578f; --bg: #f6f8fb; --blue: #3b74b9; }
+  body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; color: var(--ink); background: var(--bg);
+         max-width: 54em; margin: 0 auto; padding: 0 1em 3em; line-height: 1.45; }
+  header { background: #e8f0f9; border-top: 4px solid var(--blue); margin: 0 -1em 1.2em; padding: 1.4em 1em 1em; }
+  h1 { font-family: Georgia, "Times New Roman", serif; font-weight: 600; font-size: 1.75em; line-height: 1.2; margin: 0; }
+  .sub { font-family: Georgia, "Times New Roman", serif; font-size: 1.2em; color: var(--muted); margin: .3em 0 .8em; }
+  header p { margin: .5em 0; }
+  a { color: var(--link); }
+  input, select, button { font: inherit; }
+  input, select { padding: .35em .5em; border: 1px solid #c8d1dc; border-radius: 6px; background: #fff; }
+  #q { width: 100%; box-sizing: border-box; padding: .5em .7em; }
+  .filters { display: flex; flex-wrap: wrap; gap: .6em 1em; margin: .7em 0; font-size: .92em; color: var(--muted); }
+  .filters label { display: flex; align-items: center; gap: .4em; }
+  input[type=number] { width: 4.5em; padding: .15em .35em; }
+  #count { color: var(--muted); margin: .8em 0 .4em; }
+  .cited { display: inline-block; width: .9em; height: .9em; vertical-align: -.08em; margin-left: .35em; fill: var(--blue); }
+
+  #criteria { background: #fff; border: 1px solid var(--line); border-radius: 8px; padding: .6em 1em; margin: 1em 0; }
+  #criteria summary { cursor: pointer; font-weight: 600; }
+  #criteria p { font-size: .9em; color: var(--muted); margin: .5em 0; }
+  #criteria table { width: 100%; border-collapse: collapse; font-size: .92em; }
+  #criteria td { padding: .28em 0; border-top: 1px solid var(--line); vertical-align: middle; }
+  #criteria td.n { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; padding-left: 1em; }
+  #criteria tr.group td { border-top: 0; padding-top: .8em; font-size: .8em; letter-spacing: .05em; text-transform: uppercase; color: var(--muted); }
+  #criteria tr.off label { color: var(--muted); text-decoration: line-through; }
+  #criteria .apart { color: var(--muted); }
+  #criteria .result { font-weight: 600; color: var(--ink); }
+  #reset { padding: .2em .7em; border: 1px solid #c8d1dc; border-radius: 6px; background: #fff; cursor: pointer; }
+
+  .paper { background: #fff; border: 1px solid var(--line); border-left: 4px solid var(--blue); border-radius: 8px; padding: .8em 1em; margin: .7em 0; }
+  .paper.Survey { border-left-color: #ddaa33; }
+  .paper.Foundational { border-left-color: #aa3377; }
+  .paper.Related { border-left-color: #228833; }
+  .paper.Removed { border-left-color: #b4bcc7; }
+  .meta { color: var(--muted); font-size: .9em; }
+  .badge { font-size: .78em; font-weight: 600; padding: .1em .55em; border-radius: 1em; margin-left: .4em; white-space: nowrap; }
+  .badge.Final { background: #e3edf9; color: #1f4f86; }
+  .badge.Survey { background: #fbf1d8; color: #7a5a10; }
+  .badge.Foundational { background: #f6e5ee; color: #842559; }
+  .badge.Related { background: #e3f2e6; color: #1a6a28; }
+  .badge.Removed { background: #eef1f5; color: #4a5566; }
+  details.abs { margin-top: .3em; }
+  details.abs summary { cursor: pointer; color: var(--link); font-size: .92em; }
+  .pager { display: flex; flex-wrap: wrap; gap: .3em; justify-content: center; margin: 1.2em 0; }
+  .pager button { min-width: 2.4em; padding: .3em .6em; border: 1px solid var(--line); border-radius: 6px; background: #fff; cursor: pointer; }
+  .pager button[disabled] { opacity: .4; cursor: default; }
+  .pager button.current { background: var(--ink); color: #fff; border-color: var(--ink); }
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="icon-cited" viewBox="0 0 16 16"><path d="M4 1h8a1 1 0 0 1 1 1v13.2a.5.5 0 0 1-.8.4L8 12.5l-4.2 3.1a.5.5 0 0 1-.8-.4V2a1 1 0 0 1 1-1z"/></symbol>
+</svg>
+<header>
+<h1>Sanity in Software Requirements: Quo Vadis?</h1>
+<p class="sub">A Survey of Approaches and Tools for Requirement Sanity Analysis</p>
+<p>All records found by the searches, after removing duplicates. The <b>final pool</b> holds the papers about
+satisfiability, consistency, realizability, vacuity, redundancy and completeness of requirements, ranked by how often
+the other papers of the pool cite them per year. Every other record shows the selection step that removed it or kept it
+apart, and why. <svg class="cited"><use href="#icon-cited"/></svg> marks the papers cited in the survey.</p></header>
+
+<details id="criteria">
+  <summary>Selection criteria</summary>
+  <p>The steps of the selection, in the order they are applied. Switch a step off or change its threshold, and the
+  lists below are recomputed. <button id="reset" type="button">Reset to the paper's settings</button></p>
+  <table id="steps"></table>
+  <p>The steps that compare papers with each other (superseded version, foundational, no citation link) use the
+  citation data of the paper's run. For an exact rerun with other settings, change <code>selection/config.yaml</code>
+  and run <code>selection/run.py</code>.</p>
+</details>
+
+<input id="q" type="search" placeholder="Search titles, authors, venues, keywords and abstracts, e.g. vacuity LTL">
+<div class="filters">
+  <label>Show <select id="show"></select></label>
+  <label>Notion <select id="notion">
+    <option value="">any</option><option>Satisfiability</option><option>Consistency</option><option>Realizability</option>
+    <option>Vacuity</option><option>Redundancy</option><option>Completeness</option></select></label>
+  <label>Year <input id="from" type="number" placeholder="from"> &ndash; <input id="to" type="number" placeholder="to"></label>
+  <label><input id="cited" type="checkbox"> only cited in the survey <svg class="cited"><use href="#icon-cited"/></svg></label>
+</div>
+<p id="count"></p>
+<div id="list"></div>
+<div class="pager" id="pager"></div>
+
+<script src="papers.js"></script>
+<script>
+const PER_PAGE = 50;
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'})[c]);
+const fmt = n => n.toLocaleString('en');
+const ICON = '<svg class="cited"><title>Cited in the survey</title><use href="#icon-cited"/></svg>';
+
+// ---------------------------------------------------------------- the selection steps (as build.py first_step)
+const LABEL = {
+  not_a_paper: 'Not a research paper', not_english: 'Not in English', not_peer_reviewed: 'Not peer reviewed',
+  retracted: 'Retracted', off_topic: 'Outside the subject area', short_papers: 'Short papers',
+  superseded_versions: 'Superseded by an extended version', surveys: 'Surveys and reviews',
+  foundational: 'Foundational studies', published_before: 'Published before the cutoff year',
+  venue_rank: 'Venue ranked below the minimum CORE rank', citation_impact: 'Low citation impact',
+  isolated: 'No citation link to an eligible paper', related_topics: 'Related topics (no sanity notion)',
+};
+const GROUP = {not_a_paper: 'Removed before screening', off_topic: 'Screening', surveys: 'Eligibility'};
+const APART = {surveys: 'Survey', foundational: 'Foundational', related_topics: 'Related topic'};
+const FLAGS = new Set(['not_a_paper', 'not_english', 'not_peer_reviewed', 'retracted', 'off_topic',
+                       'superseded_versions', 'surveys', 'isolated']);
+const RANK = {'A*': 4, 'A': 3, 'B': 2, 'C': 1};
+const RANK_NAME = {4: 'A*', 3: 'A', 2: 'B', 1: 'C', 0: 'national/regional'};
+let s = JSON.parse(JSON.stringify(SETTINGS));
+
+function firstStep(p) {
+  const a = p.sel, y = p.year;
+  for (const key of STEPS) {
+    if (!s.apply[key]) continue;
+    let hit;
+    if (FLAGS.has(key)) hit = key in a.flags;
+    else if (key === 'short_papers') hit = a.pages !== null && a.pages <= s.max_pages;
+    else if (key === 'foundational') hit = a.cited >= s.min_citations && (y || 9999) < s.year;
+    else if (key === 'published_before') hit = y !== null && y < s.year;
+    else if (key === 'venue_rank') hit = a.core !== null && a.core < RANK[s.min_rank];
+    else if (key === 'citation_impact') hit = a.pct !== null && !(y !== null && y > s.current_year - s.grace_years) && a.pct < s.min_percentile;
+    else hit = !p.notions.length;                                       // related_topics
+    if (hit) return key;
+  }
+  return null;
+}
+
+function reason(p) {
+  const a = p.sel, k = p.step;
+  if (FLAGS.has(k)) return a.flags[k];
+  return {
+    short_papers: `${a.pages} pages, at most ${s.max_pages}`,
+    foundational: `published ${p.year}, cited by ${a.cited} eligible papers from ${SETTINGS.year} on`,
+    published_before: `published ${p.year}, before ${s.year}`,
+    venue_rank: `CORE rank ${RANK_NAME[a.core]}, below ${s.min_rank}`,
+    citation_impact: `citation percentile ${a.pct !== null ? a.pct.toFixed(2) : ''} in its year and field, below ${s.min_percentile}`,
+    related_topics: 'mentions none of the six sanity notions',
+  }[k];
+}
+
+function control(key) {
+  const num = (name, attrs) => `<input type="number" data-set="${name}" ${attrs}>`;
+  return {
+    short_papers: `Short papers: at most ${num('max_pages', 'min="0" step="1"')} pages`,
+    foundational: `Foundational studies: older than the cutoff, cited by &ge; ${num('min_citations', 'min="1" step="1"')} eligible papers <span class="apart">(kept apart)</span>`,
+    published_before: `Published before ${num('year', 'min="1950" max="2030" step="1"')}`,
+    venue_rank: `Venue ranked below CORE <select data-set="min_rank"><option>A*</option><option>A</option><option>B</option><option>C</option></select> (unranked venues are kept)`,
+    citation_impact: `Citation percentile in its year and field below ${num('min_percentile', 'min="0" max="1" step="0.05"')}, last ${num('grace_years', 'min="0" step="1"')} years exempt`,
+  }[key] || `${LABEL[key]}${APART[key] ? ' <span class="apart">(kept apart)</span>' : ''}`;
+}
+
+$('steps').innerHTML = STEPS.map(key => (GROUP[key] ? `<tr class="group"><td colspan="2">${GROUP[key]}</td></tr>` : '') +
+  `<tr id="row-${key}"><td><label><input type="checkbox" data-apply="${key}"> ${control(key)}</label></td><td class="n" id="n-${key}"></td></tr>`
+).join('') + '<tr><td class="result">Final pool</td><td class="n result" id="n-pool"></td></tr>';
+
+function syncControls() {
+  document.querySelectorAll('[data-apply]').forEach(el => {
+    el.checked = s.apply[el.dataset.apply];
+    $('row-' + el.dataset.apply).className = el.checked ? '' : 'off';
+  });
+  document.querySelectorAll('[data-set]').forEach(el => { el.value = s[el.dataset.set]; });
+}
+
+// counts per step with the paper's settings, to show next to the current ones
+function classify() {
+  const n = {};
+  for (const p of PAPERS) {
+    p.step = firstStep(p);
+    p.cat = p.step === null ? 'Final pool' : (APART[p.step] || 'Removed');
+    const k = p.step || 'pool';
+    n[k] = (n[k] || 0) + 1;
+  }
+  return n;
+}
+const paper = classify();
+let counts = paper;
+
+// ---------------------------------------------------------------- list
+for (const p of PAPERS) {
+  p.keywords = p.keywords || [];
+  p.text = [p.title, p.authors, p.venue, p.year, p.key || p.id, p.notions.join(' '), p.keywords.join(' '), p.abstract]
+    .join(' ').toLowerCase();
+}
+let page = 1;
+
+function showOptions() {
+  const removed = STEPS.filter(k => !APART[k] && counts[k]);
+  const opts = [['pool', 'Final pool', counts.pool || 0], ['surveys', 'Surveys', counts.surveys || 0],
+    ['foundational', 'Foundational', counts.foundational || 0], ['related_topics', 'Related topics', counts.related_topics || 0],
+    ['removed', 'Removed (all steps)', removed.reduce((t, k) => t + counts[k], 0)],
+    ...removed.map(k => ['removed:' + k, 'Removed: ' + LABEL[k], counts[k]]), ['all', 'All records', PAPERS.length]];
+  const keep = $('show').value || new URLSearchParams(location.search).get('show') || 'pool';
+  $('show').innerHTML = opts.map(([v, l, c]) => `<option value="${v}">${esc(l)} (${fmt(c)})</option>`).join('');
+  $('show').value = keep;
+  if (!$('show').value) $('show').value = 'pool';
+}
+
+function inShow(p, v) {
+  if (v === 'all') return true;
+  if (v === 'pool') return p.step === null;
+  if (v === 'removed') return p.cat === 'Removed';
+  if (v.startsWith('removed:')) return p.step === v.slice(8);
+  return p.step === v;
+}
+
+function render() {
+  const terms = $('q').value.toLowerCase().split(/[\s,]+/).filter(Boolean);
+  const show = $('show').value, notion = $('notion').value, onlyCited = $('cited').checked;
+  const from = parseInt($('from').value), to = parseInt($('to').value);
+  const hits = PAPERS.filter(p => inShow(p, show) && (!notion || p.notions.includes(notion)) && (!onlyCited || p.cited)
+    && (isNaN(from) || p.year >= from) && (isNaN(to) || p.year <= to) && terms.every(t => p.text.includes(t)));
+  const pages = Math.max(1, Math.ceil(hits.length / PER_PAGE));
+  page = Math.min(page, pages);
+  const first = (page - 1) * PER_PAGE;
+  $('count').textContent = hits.length
+    ? `${fmt(first + 1)}–${fmt(Math.min(first + PER_PAGE, hits.length))} of ${fmt(hits.length)} records`
+    : 'No records found.';
+  $('list').innerHTML = hits.slice(first, first + PER_PAGE).map(p => {
+    const cls = p.cat.split(' ')[0];
+    return `
+    <div class="paper ${cls}">
+      <b>${p.rank && p.step === null ? p.rank + '. ' : ''}<a href="${esc(p.url)}">${esc(p.title)}</a></b>${p.cited ? ICON : ''}<span class="badge ${cls}">${esc(p.cat)}</span><br>
+      ${esc(p.authors)}<br>
+      <span class="meta">${esc(p.venue || 'Venue unknown')}, ${p.year || 'year unknown'}</span><br>
+      ${p.step ? `<span class="meta">${p.cat === 'Removed' ? 'Removed' : 'Kept apart'} by <i>${esc(LABEL[p.step])}</i>: ${esc(reason(p))}</span><br>` : ''}
+      ${p.notions.length ? `<span class="meta">Notions: ${esc(p.notions.join(', '))}</span><br>` : ''}
+      ${p.keywords.length ? `<span class="meta">Keywords: ${esc(p.keywords.join(', '))}</span>` : ''}
+      <details class="abs"${terms.length ? ' open' : ''}>
+        <summary>Abstract${p.abstract_source ? ` (${esc(p.abstract_source)})` : ''}</summary>
+        ${esc(p.abstract || 'No abstract available.')}
+      </details>
+    </div>`;
+  }).join('');
+  renderPager(pages);
+  saveUrl();
+}
+
+function renderPager(pages) {
+  if (pages === 1) { $('pager').innerHTML = ''; return; }
+  const near = [...new Set([1, page - 2, page - 1, page, page + 1, page + 2, pages])].filter(n => n >= 1 && n <= pages);
+  let html = `<button data-page="${page - 1}" ${page === 1 ? 'disabled' : ''}>‹ Prev</button>`, last = 0;
+  for (const n of near) {
+    if (n > last + 1) html += '<span>…</span>';
+    html += `<button data-page="${n}" class="${n === page ? 'current' : ''}">${n}</button>`;
+    last = n;
+  }
+  $('pager').innerHTML = html + `<button data-page="${page + 1}" ${page === pages ? 'disabled' : ''}>Next ›</button>`;
+}
+
+// ---------------------------------------------------------------- settings changed: recount, relist
+function update() {
+  counts = classify();
+  for (const key of STEPS) {
+    const c = counts[key] || 0, sign = APART[key] ? '' : '−';
+    $('n-' + key).innerHTML = !s.apply[key] ? 'off' : sign + fmt(c) +
+      (c !== (paper[key] || 0) ? ` <span class="apart">(paper: ${sign}${fmt(paper[key] || 0)})</span>` : '');
+  }
+  $('n-pool').innerHTML = fmt(counts.pool || 0) + (counts.pool !== paper.pool ? ` <span class="apart">(paper: ${fmt(paper.pool)})</span>` : '');
+  showOptions();
+  render();
+}
+
+// the page state in the URL: filters, page and the settings that differ from the paper's
+function saveUrl() {
+  const u = new URLSearchParams();
+  const set = (k, v, d) => { if (v !== '' && v !== d && v !== false) u.set(k, v); };
+  set('q', $('q').value, ''); set('show', $('show').value, 'pool'); set('notion', $('notion').value, '');
+  set('from', $('from').value, ''); set('to', $('to').value, ''); set('cited', $('cited').checked ? '1' : '', '');
+  if (page > 1) u.set('page', page);
+  const off = STEPS.filter(k => !s.apply[k]);
+  if (off.length) u.set('off', off.join(','));
+  for (const k of ['max_pages', 'year', 'min_rank', 'min_percentile', 'grace_years', 'min_citations'])
+    if (s[k] !== SETTINGS[k]) u.set(k, s[k]);
+  try { history.replaceState(null, '', u.toString() ? '?' + u : location.pathname); } catch (e) {}
+}
+
+function loadUrl() {
+  const u = new URLSearchParams(location.search);
+  $('q').value = u.get('q') || '';
+  $('notion').value = u.get('notion') || '';
+  $('from').value = u.get('from') || '';
+  $('to').value = u.get('to') || '';
+  $('cited').checked = u.get('cited') === '1';
+  page = Number(u.get('page')) || 1;
+  for (const k of (u.get('off') || '').split(',')) if (k in s.apply) s.apply[k] = false;
+  for (const k of ['max_pages', 'year', 'min_percentile', 'grace_years', 'min_citations'])
+    if (u.has(k) && !isNaN(Number(u.get(k)))) s[k] = Number(u.get(k));
+  if (u.get('min_rank') in RANK) s.min_rank = u.get('min_rank');
+}
+
+$('steps').addEventListener('input', e => {
+  const t = e.target;
+  if (t.dataset.apply) { s.apply[t.dataset.apply] = t.checked; $('row-' + t.dataset.apply).className = t.checked ? '' : 'off'; }
+  else if (t.dataset.set === 'min_rank') s.min_rank = t.value;
+  else if (t.dataset.set) { if (t.value === '' || isNaN(Number(t.value))) return; s[t.dataset.set] = Number(t.value); }
+  else return;
+  page = 1;
+  update();
+});
+$('reset').addEventListener('click', () => { s = JSON.parse(JSON.stringify(SETTINGS)); syncControls(); page = 1; update(); });
+$('pager').addEventListener('click', e => {
+  const b = e.target.closest('button');
+  if (!b || b.disabled) return;
+  page = Number(b.dataset.page);
+  render();
+  $('q').scrollIntoView();
+});
+for (const id of ['q', 'show', 'notion', 'from', 'to', 'cited']) $(id).addEventListener('input', () => { page = 1; render(); });
+
+loadUrl();
+syncControls();
+update();
+</script>
+</body>
+</html>

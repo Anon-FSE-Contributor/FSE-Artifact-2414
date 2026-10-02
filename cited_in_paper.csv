@@ -1,0 +1,116 @@
+doi,title,year
+10.1145/336512.336523,Requirements engineering: a roadmap,2000
+10.1145/336512.336546,Formal Specification: A Roadmap,2000
+10.1007/978-3-319-30282-9_10,Requirements Defects over a Project Lifetime: An Empirical Analysis of Defect Data from a 5-Year Automotive Project at Bosch,2016
+10.1007/s10664-016-9451-7,"Naming the pain in requirements engineering: Contemporary problems, causes, and effects in practice",2017
+10.1007/s00766-023-00405-y,"Requirements quality research: a harmonized theory, evaluation, and roadmap",2023
+10.1109/isre.1993.324825,"Analyzing software requirements errors in safety-critical, embedded systems",1993
+10.1109/32.317428,Requirements specification for process-control systems,1994
+10.1109/32.508311,Completeness and consistency in hierarchical state-based requirements,1996
+10.1007/978-3-319-48869-1_2,Specification: The Biggest Bottleneck in Formal Methods and Autonomy,2016
+10.5220/0011789700003402,Requirement Formalisation Using Natural Language Processing and Machine Learning: A Systematic Review,2023
+10.1145/3644033.3644373,Formal Methods in Requirements Engineering: Survey and Future Directions,2024
+10.1007/11817949_3,Sanity Checks in Formal Verification,2006
+10.1007/s00165-015-0348-9,Analysing sanity of requirements for avionics systems,2016
+10.1007/978-3-642-01702-5_7,A framework for inherent vacuity,2009
+10.1142/9789812389718_0015,Inconsistency Management in Software Engineering: Survey and Open Research Issues,2001
+10.2478/cait-2024-0037,Software Requirement Smells and Detection Techniques: A Systematic Literature Review,2024
+10.1136/bmj.n71,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,2021
+,Guidelines for Performing Systematic Literature Reviews in Software Engineering,2007
+10.1145/75277.75293,On the synthesis of a reactive module,1989
+10.1007/3-540-48153-2_8,Vacuity Detection in Temporal Model Checking,1999
+10.1038/520429a,Bibliometrics: The Leiden Manifesto for research metrics,2015
+10.1016/j.joi.2014.07.006,CitNetExplorer: A new software tool for analyzing and visualizing citation networks,2014
+10.5281/zenodo.22746556,Bridging Social and Technical Compliance in Autonomous Systems through a Standardized Pattern Catalog,2026
+10.1145/3828.3837,The complexity of propositional linear temporal logics,1985
+10.1007/978-3-540-73370-6_11,LTL Satisfiability Checking,2007
+10.1145/234426.234431,Automated consistency checking of requirements specifications,1996
+,Property Refinement in Linear Temporal Logic: Formal Semantics and Algorithms for Software Verification,2026
+10.1145/3774748.3795661,What Do We Really Need? Identifying Minimal Sufficient Temporal Properties via Refinement,2026
+10.1007/978-3-032-04200-2_26,"Mapping the Landscape of Requirements Completeness: Definitions, Techniques, Tools, and the Emerging Role of AI",2026
+10.1007/s10817-023-09691-1,SAT Meets Tableaux for Linear Temporal Logic Satisfiability,2024
+10.1016/j.ic.2015.06.007,An SMT-based approach to satisfiability checking of MITL,2015
+10.1145/3759917,A Tree-Shaped Tableau for Checking the Satisfiability of Signal Temporal Logic with Bounded Temporal Operators,2025
+10.1109/models.2017.26,Why is My Component and Connector Views Specification Unsatisfiable?,2017
+10.1007/978-3-031-13188-2_9,From Spot 2.0 to Spot 2.10: What's New?,2022
+10.4204/eptcs.226.20,A New Rule for LTL Tableaux,2016
+10.1007/s00236-015-0242-1,Extracting unsatisfiable cores for LTL via temporal resolution,2016
+10.1007/s10703-018-00326-5,SAT-based explicit LTL reasoning and its application to satisfiability checking,2019
+10.1109/ase56229.2023.00173,SAT-Verifiable LTL Satisfiability Checking via Graph Representation Learning,2023
+10.1145/3650212.3680337,Learning to Check LTL Satisfiability and to Generate Traces via Differentiable Trace Checking,2024
+10.1007/s10270-013-0350-8,AuRUS: explaining the validation of UML/OCL conceptual schemas,2015
+10.1613/jair.1.15313,Computing Unsatisfiable Cores for LTLf Specifications,2024
+10.1007/978-3-642-19811-3_4,rt-Inconsistency: A New Property for Real-Time Requirements,2011
+10.1109/icse55347.2025.00031,Unavoidable Boundary Conditions: a Control Perspective on Goal Conflicts,2025
+10.14279/tuj.eceasst.76.1072,Analyzing consistency of formal requirements,2019
+10.1007/978-3-031-16103-2_20,Measuring Inconsistency in Declarative Process Specifications,2022
+10.1109/re.2019.00033,Scalable Analysis of Real-Time Requirements,2019
+10.1109/tse.2025.3530820,Completeness and Consistency of Tabular Requirements: An SMT-Based Verification Approach,2025
+10.1145/3597503.3639093,Analyzing and Debugging Normative Requirements via Satisfiability Checking,2024
+10.1007/s11334-019-00339-1,Property specification patterns at work: verification and inconsistency explanation,2019
+10.1007/978-3-032-21423-2_19,A Practical and Complete Method for Detecting rt-Inconsistencies in Real-Time Requirements,2026
+10.1109/re.2018.00037,Industrial Requirements Classification for Redundancy and Inconsistency Detection in SEMIOS,2018
+10.1007/s10515-024-00452-x,Automated requirement contradiction detection through formal logic and LLMs,2024
+10.1109/re57278.2023.00029,Leveraging Natural Language Processing for a Consistency Checking Toolchain of Automotive Requirements,2023
+10.1145/2970276.2970349,Goal-conflict detection based on temporal satisfiability checking,2016
+10.1145/3238147.3238220,A genetic algorithm for goal-conflict identification,2018
+10.1007/978-3-031-30826-0_1,ACoRe: Automated Goal-Conflict Resolution,2023
+10.1007/978-3-031-19992-9_24,Repairing Real-Time Requirements,2022
+10.1007/s00766-019-00316-x,Automating requirements analysis and test case generation,2019
+10.1145/3183628.3183630,Automated SMT-based consistency checking of industrial critical requirements,2018
+10.1109/isssr58837.2023.00032,Efficiently Verifying Mutually Exclusive Inconsistency of Requirements for Embedded Systems,2023
+10.1007/978-3-319-10702-8_11,Detecting consistencies and inconsistencies of pattern-based functional requirements,2014
+10.1145/3092893.3092904,Debugging Embedded Systems Requirements Before The Design Begins,2017
+10.1109/access.2024.3365352,BERDD: A Behaviour Engineering-Based Approach for Requirements Defects Detection,2024
+10.1007/s10515-016-0192-z,MaramaAIC: tool support for consistency management and validation of requirements,2017
+10.1145/2897022.2897031,TestMEReq: generating abstract tests for requirements validation,2016
+10.1016/j.csi.2016.03.002,CDNFRE: Conflict detector in non-functional requirement evolution based on ontologies,2016
+10.1007/11609773_24,Synthesis of Reactive(1) Designs,2005
+10.1145/2950290.2950300,On well-separation of GR(1) specifications,2016
+10.1109/icse48619.2023.00030,Which of My Assumptions are Unnecessary for Realizability and Why Should I Care?,2023
+10.1007/s00236-019-00351-9,Performance heuristics for GR(1) synthesis and related algorithms,2020
+10.1007/978-3-031-13188-2_24,"Capture, Analyze, Diagnose: Realizability Checking Of Requirements in FRET",2022
+10.1007/978-3-319-17524-9_13,Towards realizability checking of contracts using theories,2015
+10.1007/978-3-031-37709-9_15,Boolean Abstractions for Realizability Modulo Theories,2023
+10.1145/2883817.2883847,Diagnosis and repair for synthesis from signal temporal logic specifications,2016
+10.1109/ase63991.2025.00030,Evolution-Aware Heuristics for GR(1) Realizability Checking,2025
+10.1007/978-3-030-90870-6_27,From Partial to Global Assume-Guarantee Contracts: Compositional Realizability Analysis in FRET,2021
+10.1007/s10009-011-0221-y,Debugging formal specifications: a practical approach using model-based diagnosis and counterstrategies,2013
+10.1145/3106237.3106240,A symbolic justice violations transition system for unrealizable GR(1) specifications,2017
+10.1007/978-3-540-78163-9_9,Diagnostic Information for Realizability,2008
+10.1109/icse43902.2021.00016,Unrealizable Cores for Reactive Systems Specifications,2021
+10.1109/icse.2019.00106,Symbolic Repairs for GR(1) Specifications,2019
+10.1145/3372020.3391557,Minimal Assumptions Refinement for Realizable Specifications,2020
+10.1145/3583131.3590454,Automated Repair of Unrealisable LTL Specifications Guided by Model Counting,2023
+10.1007/978-3-031-29786-1_21,"Authoring, Analyzing, and Monitoring Requirements for a Lift-Plus-Cruise Aircraft",2023
+10.1109/icse48619.2023.00071,Using Reactive Synthesis: An End-to-End Exploratory Case Study,2023
+10.1007/978-3-540-45069-6_35,Enhanced vacuity detection in linear temporal logic,2003
+10.1007/s10703-014-0221-0,Vacuity in practice: temporal antecedent failure,2015
+10.1007/978-3-319-95582-7_26,Timed vacuity,2018
+10.1145/3302504.3311800,Interface-aware signal temporal logic,2019
+10.1145/3368089.3409669,Inherent vacuity for GR(1) specifications,2020
+10.1007/s00766-025-00438-5,"Is it vacuous to check redundancy, or is it redundant to check vacuity?",2025
+10.1145/3147451,Formal Requirement Debugging for Testing and Verification of Cyber-Physical Systems,2017
+10.1145/2950290.2950346,Efficient generation of inductive validity cores for safety properties,2016
+10.34727/2025/isbn.978-3-85448-084-6_32,Static Coverage in Deductive Software Verification,2025
+10.5281/zenodo.22734609,Property Refinement in Computation Tree Logic,2026
+10.1145/1810295.1810308,Can clone detection support quality assessments of requirements specifications?,2010
+10.1109/tse.2011.122,Empirical Principles and an Industrial Case Study in Retrieving Equivalent Requirements via Natural Language Processing Techniques,2013
+10.1007/s10270-014-0431-3,Identifying duplicate functionality in textual use cases by aligning semantic actions,2016
+10.1109/vst.2018.8327149,Detecting duplicate examples in behaviour driven development specifications,2018
+10.1109/formalise66629.2025.00015,Detecting Redundant Preconditions,2025
+10.1145/3822455.3830324,On Redundancy in Alloy Models,2026
+10.1109/re.2017.38,A Formalization Method to Process Structured Natural Language to Logic Expressions to Detect Redundant Specification and Test Statements,2017
+10.1007/s00766-016-0250-x,Improving agile requirements: the Quality User Story framework and tool,2016
+10.1109/ase.2017.8115632,Proof-based coverage metrics for formal verification,2017
+10.1007/978-3-319-05843-6_3,Measuring and improving the completeness of natural language requirements,2014
+10.1007/978-3-319-77243-1_8,Pinpointing Ambiguity and Incompleteness in Requirements Engineering via Information Visualization and NLP,2018
+10.1145/3643991.3644922,Supporting High-Level to Low-Level Requirements Coverage Reviewing with Large Language Models,2024
+10.1007/s00766-024-00416-3,Improving requirements completeness: automated assistance through large language models,2024
+10.1109/icse48619.2023.00113,AI-based Question Answering Assistance for Analyzing Natural-language Requirements,2023
+10.1007/978-3-030-25543-5_1,Satisfiability checking for mission-time LTL,2019
+10.1109/re63999.2025.00030,LLM-based Satisfiability Checking of String Requirements by Consistent Data and Checker Generation,2025
+10.1145/3019612.3019787,SMT-based consistency analysis of industrial systems requirements,2017
+10.1109/re.2019.00040,Automating Consistency Verification of Safety Requirements for Railway Interlocking Systems,2019
+10.1109/tits.2023.3324022,Empowering Domain Experts With Formal Methods for Consistency Verification of Safety Requirements,2023
+10.1007/s10703-021-00381-5,Vacuity in synthesis,2021
